@@ -1,2 +1,2 @@
-# miscProjects
-Small projects 
+# ProjectsMisc
+Small random projects 
