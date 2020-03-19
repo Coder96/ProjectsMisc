@@ -1,18 +1,18 @@
 $fn=12;
 
 
-boxDepth = 30;
-boxWidth = 60;
+boxDepth = 40;
+boxWidth = 80;
 boxHeigth = 10;
 wallThickness = 2;
 wallCornerDiameter = 4;
 
-translate([0,0,5]) //color("blue")
-	top();
+//translate([0,0,5]) //color("blue")
+//	top();
 
 wall();
 
-translate([0,0,-6]) color("green")
+translate([0,0,-5]) color("green")
 	base();
 
 
@@ -27,7 +27,7 @@ module top(){
 		for(a=[-1,1]){
 			translate([boxWidth/4*a,0,0])
 				rotate([0,0,90])
-					GridHolesoffset(2,2,5,6,6);
+					GridHolesoffset(2,2,5,8,6);
 		}
 		translate([0,0,-12])
 			screwHoles();
@@ -43,13 +43,13 @@ module wall(){
 		for(a=[[-1,1],[1,-1],[-1,-1],[1,1]]){
 			translate([-(boxWidth/4)*a[0],(boxDepth/2)*a[1],0])
 				rotate([0,90,90])
-				GridHolesoffset(2,2,wallThickness+1,2,5);
+				GridHolesoffset(2,2,wallThickness+1,2,7);
 		}
 		// Short side holes
 		for(a=[-1,1]){
 			translate([boxWidth/2*a,0,0])
 				rotate([0,90,0])
-				GridHolesoffset(2,2,wallThickness+1,2,5);
+				GridHolesoffset(2,2,wallThickness+1,2,7);
 		}
 			translate([0,0,-19])
 			screwHoles();
@@ -61,9 +61,11 @@ module wall(){
 module base(){
 	difference(){
 		union(){
-			translate([0,0,1])
-				rotate([180,0,90])
-				import("IRF520_Din_Rail_Mount_v2.stl");
+//			translate([0,0,1])
+//				rotate([180,0,90])
+//				import("IRF520_Din_Rail_Mount_v2.stl");
+
+
 
 			plate4Point(boxWidth,boxDepth,2,4);
 		}
