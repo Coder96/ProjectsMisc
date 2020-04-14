@@ -1,0 +1,195 @@
+<!DOCTYPE>
+<head>
+	<meta charset="utf-8"/>
+	<title>ledGridEditor</title>
+	<script>
+ 
+	
+	</script>
+	<script type="text/javascript" src="jscolor/jscolor.min.js"></script>
+	<script type="text/javascript" src="PapaParse-4.3.2/papaparse.min.js"></script>
+	<script type="text/javascript" src="lge_a_gvars.js"></script>
+	<script type="text/javascript" src="lge_color.js"></script>
+	<script type="text/javascript" src="lge_convert.js"></script>
+	<script type="text/javascript" src="lge_gridcontrol.js"></script>
+	<script type="text/javascript" src="lge_gridcreate.js"></script>
+	<script type="text/javascript" src="lge_io.js"></script>
+	<link rel="stylesheet" type="text/css" href="lge.css">
+</head>
+<body>
+	
+	<table name="nTop Level">
+		<tbody>
+			<tr>
+				<td>
+					<div id="rowHeaderTable"></div>
+				</td>
+				<td>
+					<div id="colHeaderTable"></div>
+				</td>
+<!-- ----------------------------------------------------------- -->
+					<td valign="top">
+					<div hidden=""><p id="container"></p></div>
+					<div><p id="containe2"></p></div>
+					<table name="nControls">
+						<tbody>
+							<tr>
+								<td>
+									<table name="nCurrent Color" cellspacing="0" border="1">
+										<thead>
+											<tr>
+												<th>Curr Color</th>
+											</tr>
+										</thead>
+										<tbody>
+											<tr>
+												<td height="20px"><input id="currentcolor" autocomplete="off"></td>
+											</tr>
+										
+									</tbody></table>
+									<table name="nMovement" cellspacing="0" border="1">
+										<thead>
+											<tr>
+												<th>Movement</th>
+											</tr>
+										</thead>
+										<tbody>
+											<tr>
+												<td>
+													<table cellspacing="0" border="0">
+														<tbody>
+															<tr>
+																<td rowspan="2" valign="middle" align="center"><input type="button" value="Left" onclick="moveGridLeftRight('L');"></td>
+																<td rowspan="1" valign="middle" align="center"><input type="button" value="Up" onclick="moveUp();"></td>
+																<td rowspan="2" valign="middle" align="center"><input type="button" value="Right" onclick="moveGridLeftRight('R');"></td>
+															</tr>
+															<tr>
+																<td valign="middle" align="center"><input type="button" value="Down" onclick="moveDown();"></td>
+															</tr>
+														</tbody>
+													</table>
+												</td>
+											</tr>
+										</tbody>
+									</table>
+									<table name="nClear" cellspacing="0" border="1">
+										<thead>
+											<tr>
+												<th>Clear Columns or rows</th>
+											</tr>
+										</thead>
+										<tbody>
+											<tr>
+												<td>
+													<table cellspacing="0" border="0">
+														<tbody>
+															<tr>
+																<td rowspan="2" valign="middle" align="center"><input type="button" value="Left" onclick="clearRowCol('left');"></td>
+																<td rowspan="1" valign="middle" align="center"><input type="button" value="Top" onclick="clearRowCol('top');"></td>
+																<td rowspan="2" valign="middle" align="center"><input type="button" value="Right" onclick="clearRowCol('right');"></td>
+															</tr>
+															<tr>
+																<td valign="middle" align="center"><input type="button" value="Bottom" onclick="clearRowCol('bot');"></td>
+															</tr>
+														</tbody>
+													</table>
+												</td>
+											</tr>
+										</tbody><tbody>
+									</tbody></table>
+								</td>
+								<td>
+									<table name="nFrameControls" cellspacing="0" border="0">
+										<tbody>
+											<tr>
+												<td>
+													<table cellspacing="0" border="1">
+														<thead>
+															<tr>
+																<th>Save Frames</th>
+															</tr>
+														</thead>
+														<tbody>
+															<tr>
+																<td>
+																	<label>MilliSecond</label>
+																	<input id="frameMicroseconds" value="1000"><br>
+																	<input type="hidden" id="FrameCounter" value="0">
+																	<p> Copy to frame:
+																		<select id="sCopyToFrame" onchange="copyToFrame(this.value);">
+																			<option selected="" disabled="" style="display: none" value="" hidden=""></option>
+																			<option>New</option>
+																		</select>
+																	</p>
+																	<p> Copy from frame:
+																		<select id="sCopyFromFrame" onchange="copyFromFrame(this.value);">
+																			<option selected="" disabled="" style="display: none" value="" hidden=""></option>
+																		</select>
+																		</p><div id="framesDiv"></div>
+																		<div id="framesPauseDiv"></div>
+																	<p></p>
+																</td>
+															</tr>
+														</tbody>
+													</table>
+												</td>
+											</tr>
+											<tr>
+												<td>
+													<table cellspacing="0" border="1">
+														<thead>
+															<tr>
+																<th>Show Frame</th>
+															</tr>
+														</thead>
+														<tbody>
+															<tr>
+																<td>
+																	<input id="frameMovementBox" value="1"><br>
+																	<input type="button" value="Frame Back" onclick="movethoroughFames('back');">
+																	<input type="button" value="Frame Forward" onclick="movethoroughFames('forward');">
+																</td>
+															</tr>
+														</tbody>
+													</table>
+												</td>
+											</tr>
+										</tbody>
+									</table>
+								</td>
+							</tr>
+							<tr>
+								<td colspan="2">
+									<label>Description</label>
+									<input id="description" value=""><br>
+									<label>XML Stream</label>
+									<input type="button" value="ImportXML ↑" onclick="importXML();">
+									<input type="button" value="ExportXML ↓" onclick="exportXML();">
+									<br>
+									<textarea id="xmlstream" cols="100%"></textarea>
+								</td>
+							</tr>
+						</tbody>
+					</table>
+				</td>
+<!-- ----------------------------------------------------------- -->
+			</tr>
+		</tbody>
+	</table>
+
+	<label>Working Text</label>
+	<br>
+	<textarea id="outScreen" cols="100%"></textarea>
+	<br>
+	<label>Input Text</label>
+	<input type="button" value="Load" onclick="gridLoad('inScreen');">
+	<br>
+	<textarea id="inScreen" cols="100%"></textarea>
+		
+	<script>
+		rowHeaderTableCreate(gGridRows)
+		colHeaderTableCreate(gGridCols)
+		colorMap()
+	</script>
+
+</body>

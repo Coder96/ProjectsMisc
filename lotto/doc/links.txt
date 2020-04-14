@@ -1,0 +1,39 @@
+https://www.powerball.com/api/v1/estimates/powerball?_format=json
+[
+  {
+    "title": "Powerball Prize Estimate",
+    "field_next_draw_date": "2020-03-26T02:59:59",
+    "field_prize_amount": "$150 Million",
+    "field_prize_amount_cash": "$114.8 Million"
+  }
+]
+
+https://www.powerball.com/api/v1/draw-summary/powerball?_format=json
+[
+  {
+    "title": "Powerball Draw Summary",
+    "field_draw_date": "2020-03-21",
+    "field_primary_winner_states": "None",
+    "field_secondary_winner_states": "FL",
+    "field_tertiary_winner_states": "None"
+  }
+]
+
+https://www.powerball.com/api/v1/numbers/powerball/recent?_format=json
+[
+  {
+    "field_winning_numbers": "02,23,40,59,69,13",
+    "field_multiplier": "2",
+    "field_draw_date": "2020-03-21"
+  },
+  {
+    "field_winning_numbers": "15,27,44,59,63,08",
+    "field_multiplier": "4",
+    "field_draw_date": "2020-03-18"
+  },
+  {
+    "field_winning_numbers": "09,23,26,30,32,08",
+    "field_multiplier": "3",
+    "field_draw_date": "2020-03-14"
+  }
+]
