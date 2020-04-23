@@ -1,7 +1,7 @@
 $fn=12;
 
-boardDepth = 40;
-boardWidth = 45;
+boardDepth = 20.2;
+boardWidth = 25.2;
 boardHeigth = 10;
 
 boardThickness = 2;

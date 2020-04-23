@@ -3,6 +3,7 @@ $fn=12;
 boardDepth = 40;
 boardWidth = 45;
 boardHeigth = 10;
+boardErrorGap = 1;
 
 boardThickness = 2;
 
@@ -43,20 +44,24 @@ module base(){
 	difference(){
 		// 
 		union(){
-			plate4Point(baseWidth,baseDepth,baseHeigth,4);
+			plate4Point(baseWidth+boardErrorGap,baseDepth+boardErrorGap,baseHeigth,4);
 			rotate([0,0,90]) 
 				feet();
 		}
-		for(a=[[1,1],[-1,1],[1,-1],[-1,-1]]){
+		for(a=[[1,1],[-1,1],[1,-1],[-1,-1]]){ // board mounting holes
 			translate([
 				a[0] * boardHoleWidth/2,
 				a[1] * boardHoleDepth/2,
 				0
 			])
-				cylinder(h=5,d=boardHolediamiter-.5,center=true);
+				cylinder(h=5,d=boardHolediamiter-.2,center=true);
 		}
 		// Board cut out
-		translate([0,0,baseHeigth-2.9]) plate4Point(boardWidth,boardDepth,boardThickness,1);
+		translate([0,0,baseHeigth-2.9]) 
+			plate4Point(
+				boardWidth+boardErrorGap,
+				boardDepth+boardErrorGap,
+				boardThickness,1);
 		// center cutout
 		plate4Point(baseWidth-8,baseDepth-8,10,6);
 	}
@@ -71,10 +76,10 @@ module feet(){
  for(a=[1, -1]){
 	translate([a*(baseDepth/2) - a*2, 0, 0]) 
 		difference(){
-			plate2Point(footLen, baseHeigth,6);
+			plate2Point(footLen, baseHeigth,7);
 			for(b=[1,-1]){
 				translate([0, b*(footLen/2) - b*3, 0])
-					cylinder(h=5,d=boardHolediamiter,center=true);
+					cylinder(h=5,d=boardHolediamiter+.5,center=true);
 			}
 		}
 	}
