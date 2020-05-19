@@ -1,7 +1,7 @@
 $fn=30;
 
-gridX = 10;
-gridY = 5;
+gridX = 1;
+gridY = 1;
 gridSpacingOC = 7;
 gridZ = 4;
 
