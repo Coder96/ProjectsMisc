@@ -1,6 +1,6 @@
 $fn=12;
 
-boardDepth = 20.2;
+boardDepth = 21.2;
 boardWidth = 25.2;
 boardHeigth = 10;
 
@@ -47,7 +47,7 @@ module base(){
 			rotate([0,0,90]) 
 				feet();
 		}
-		for(a=[[1,1],[-1,1],[1,-1],[-1,-1]]){
+		for(a=[[1,-1]]){//[[1,1],[-1,1],[1,-1],[-1,-1]]){
 			translate([
 				a[0] * boardHoleWidth/2,
 				a[1] * boardHoleDepth/2,
@@ -59,6 +59,19 @@ module base(){
 		translate([0,0,baseHeigth-2.9]) plate4Point(boardWidth,boardDepth,boardThickness,1);
 		// center cutout
 		plate4Point(baseWidth-8,baseDepth-8,10,6);
+		translate([0,2,0])
+			plate4Point(baseWidth-8,baseDepth-8,10,6);
+		//  pin cutout
+		translate([(-baseWidth/2)+5,1,0])
+			plate4Point(7,baseDepth-6,10,3);
+		//  button cutout
+		translate([(baseWidth/2)-6,baseDepth/2,3.1])
+			rotate([90,0,0])
+			plate4Point(7,6,10,4);
+		//  jst cutout
+		translate([(baseWidth/2)-(boardWidth/2),(-baseDepth/2),3.1])
+			rotate([90,0,0])
+			plate4Point(9,6,10,4);
 	}
 
 }
