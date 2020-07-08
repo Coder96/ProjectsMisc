@@ -29,12 +29,12 @@ difference() {
 					cube([th, base_d, th]);
 			}
 			if(supportType == "flat"){
-				translate([base_d/2 + wall_gap + orientation, 0, 0])
-					cylinder(h=th, d=base_d);
-				translate([base_d/2 + wall_gap + orientation, 0, -base_d])
-					cylinder(h=th, d=base_d);
-				translate([0, -base_d/2, -base_d])
-					cube([th, base_d, th]);
+ 				translate([base_d/2 + wall_gap + orientation, 0, 0])
+ 					cylinder(h=th, d=base_d);
+ 				translate([base_d/2 + wall_gap + orientation, 0, -base_d])
+ 					cylinder(h=th, d=base_d);
+ 				translate([0, -base_d/2, -base_d])
+ 					cube([th, base_d, th]);
 			}
 		}
 		translate([0, -base_d/2, 0])
@@ -59,7 +59,7 @@ difference() {
 		if(supportType == "flat"){
 			hull(){
 			// Bottom
-			translate([0, (-base_d/2)-th, -base_d-th-th])
+			translate([0, (-base_d/2)-th, -base_d-th-th+1])
 				cube([th, base_d+10, th]);
 			// top Front
 			translate([base_d+(base_d/2)-th, (-base_d/2)-th, -th])
@@ -71,8 +71,8 @@ difference() {
 		}
 	}
 //	hull(){
-	translate([th, -6, -.1])
-		cube([12, 12, th+1]);
+//	translate([th, -6, -.1])
+//		cube([12, 12, th+1]);
 //	translate([th+6, -6, th])
 //		cube([4, 12, 4]);
 //	}

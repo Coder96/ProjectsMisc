@@ -42,11 +42,11 @@ char gMqttPass[STRING_LEN];
 IotWebConf iotWebConf(thingName, &dnsServer, &server, wifiInitialApPassword, CONFIG_VERSION);
 
 IotWebConfSeparator pseparator1 = IotWebConfSeparator("MQTT Info");
-IotWebConfParameter pParm1 = IotWebConfParameter("MQTT Server" , "stringParam" , gMqttServer , STRING_LEN);
-IotWebConfParameter pParm2 = IotWebConfParameter("MQTT Port"   , "intParam"    , gMqttPort   , NUMBER_LEN);
-IotWebConfParameter pParm3 = IotWebConfParameter("MQTT Topic"  , "stringParam" , gMqttTopic  , STRING_LEN);
-IotWebConfParameter pParm4 = IotWebConfParameter("MQTT User"   , "stringParam" , gMqttUser   , STRING_LEN);
-IotWebConfParameter pParm5 = IotWebConfParameter("MQTT Pass"   , "stringParam" , gMqttPass   , STRING_LEN);
+IotWebConfParameter pParm1 = IotWebConfParameter("MQTT Server" , "gMqttServer"  , gMqttServer , STRING_LEN);
+IotWebConfParameter pParm2 = IotWebConfParameter("MQTT Port"   , "gMqttPort"    , gMqttPort   , NUMBER_LEN);
+IotWebConfParameter pParm3 = IotWebConfParameter("MQTT Topic"  , "gMqttTopic"   , gMqttTopic  , STRING_LEN);
+IotWebConfParameter pParm4 = IotWebConfParameter("MQTT User"   , "gMqttUser"    , gMqttUser   , STRING_LEN);
+IotWebConfParameter pParm5 = IotWebConfParameter("MQTT Pass"   , "gMqttPass"    , gMqttPass   , STRING_LEN);
  
 /*
 IotWebConfParameter stringParam = IotWebConfParameter("String param", "stringParam", stringParamValue, STRING_LEN);
@@ -56,6 +56,8 @@ IotWebConfParameter intParam = IotWebConfParameter("Int param", "intParam", intP
 IotWebConfSeparator separator2 = IotWebConfSeparator("Calibration factor");
 IotWebConfParameter floatParam = IotWebConfParameter("Float param", "floatParam", floatParamValue, NUMBER_LEN, "number", "e.g. 23.4", NULL, "step='0.1'");
 */
+WiFiClient espClient;
+PubSubClient mqttClient(espClient);
 
 void setup() 
 {
@@ -91,12 +93,28 @@ void setup()
   server.onNotFound([](){ iotWebConf.handleNotFound(); });
 
   Serial.println("Ready.");
+  
+  // Allow the hardware to sort itself out
+  delay(1500);
+  mqttClient.setServer(gMqttServer, (int)gMqttPort);
+  
+  if (mqttClient.connect("myClientID")) {
+    // connection succeeded
+    Serial.println("MQTT Connected");
+  } else {
+    // connection failed
+    // mqttClient.state() will provide more information
+    // on why it failed.
+    Serial.println("MQTT NOT Connected");
+  }
 }
 
 void loop() 
 {
   // -- doLoop should be called as frequently as possible.
   iotWebConf.doLoop();
+  
+  mqttClient.loop();
 }
 
 /**
