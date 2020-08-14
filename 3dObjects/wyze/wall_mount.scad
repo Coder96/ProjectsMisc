@@ -1,8 +1,5 @@
 $fn=60;
 
-
-
-
 baseWidth = 50;
 baseDepth = 50;
 baseHeigth = 56;
@@ -12,6 +9,7 @@ baseWallThickness = 5;
 baseCameraMountHoleDiamier = 7.5;
 
 backMountingHoles = "Yes"; // ["Yes", "No"]
+cableThroughHole = "Yes"; // ["Yes", "No"]
 
 difference(){
 	baseBody();
@@ -22,6 +20,10 @@ difference(){
 	if(backMountingHoles == "Yes"){
 		backMountHoles();
 	}
+	if(cableThroughHole == "Yes"){
+		cableThroughHole();
+	}
+	// Cut bottom off
 	translate([-(baseDepth/2)-20, 0, baseHeigth/2])
 		cube([15, baseWidth+2, baseWallThickness], center=true);
 }
@@ -66,4 +68,18 @@ module backMountHoles(){
 			color("green") 
 			cylinder(h=baseDepth*4, d=5.4, center=true);
 	}
+}
+module cableThroughHole(){
+	translate([-baseDepth+baseWallThickness, 0, -baseHeigth/2])
+		union(){
+			cube([5, 10 ,20], center=true);
+			translate([11,0,5])
+			difference(){
+				translate([-5, 0, -5])
+					cube([10, 10 ,10], center=true);
+				rotate([90, 0, 0])
+					resize([20, 10 ,10])
+					cylinder(h=14, d=10,center=true);
+			}
+		}
 }
