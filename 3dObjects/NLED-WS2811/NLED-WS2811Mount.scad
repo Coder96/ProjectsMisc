@@ -13,7 +13,7 @@ boardHolediamiter = 3;
 
 baseDepth = boardDepth + 2;
 baseWidth = boardWidth + 2;
-baseHeigth = boardThickness + 2;
+baseHeigth = boardThickness + 4;
 
 baseCornerDiameter = 4;
 
@@ -54,10 +54,10 @@ module base(){
 				a[1] * boardHoleDepth/2,
 				0
 			])
-				cylinder(h=5,d=boardHolediamiter-.2,center=true);
+				cylinder(h=baseHeigth+5,d=boardHolediamiter-.2,center=true);
 		}
 		// Board cut out
-		translate([0,0,baseHeigth-2.9]) 
+		translate([0,0,baseHeigth-boardThickness*2+.1]) 
 			plate4Point(
 				boardWidth+boardErrorGap,
 				boardDepth+boardErrorGap,
@@ -79,7 +79,7 @@ module feet(){
 			plate2Point(footLen, baseHeigth,7);
 			for(b=[1,-1]){
 				translate([0, b*(footLen/2) - b*3, 0])
-					cylinder(h=5,d=boardHolediamiter+.5,center=true);
+					cylinder(h=baseHeigth+5,d=boardHolediamiter+.5,center=true);
 			}
 		}
 	}
