@@ -1,0 +1,1 @@
+Giant LED by MadebyAmaury on Thingiverse: https://www.thingiverse.com/thing:4656775
