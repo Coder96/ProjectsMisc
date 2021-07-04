@@ -1,0 +1,23 @@
+//LED tester and comparer lid
+difference(){
+union(){
+//main block
+translate([0,0,0])
+cube([103,36,2]);
+//1st connector retainer
+translate([95,9,0])
+cube([8,5,9]);
+//2nd connector retainer
+translate([95,22,0])
+cube([8,5,9]);
+}
+//self-tapper holes
+translate([4,4,-1])
+cylinder(h=20,d=3,$fn=50);
+translate([4,32,-1])
+cylinder(h=20,d=3,$fn=50);
+translate([99,4,-1])
+cylinder(h=20,d=3,$fn=50);
+translate([99,32,-1])
+cylinder(h=20,d=3,$fn=50);
+}
