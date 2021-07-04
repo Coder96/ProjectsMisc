@@ -1,0 +1,45 @@
+//LED tester and comparer body
+hole=5;       //size of switch hole
+difference(){
+union(){
+//main block
+translate([0,0,0])
+cube([103,36,22]);
+}
+//battery compartment
+translate([8,2,2])
+cube([57,32,21]);
+//switch compartment
+translate([67,2,2])
+cube([26,32,21]);
+//switch hole
+translate([80,18,-1])
+cylinder(h=4,d=hole,$fn=50);
+//battery cable slot
+translate([64,5,7])
+cube([4,3,21]);
+//1st connector body
+translate([90,9,9])
+cube([20,5,15]);
+//1st connector fin trough
+translate([94,13.5,9])
+cube([8,2,15]);
+//2nd connector body
+translate([90,22,9])
+cube([20,5,15]);
+//2nd connector fin trough
+translate([94,26.5,9])
+cube([8,2,15]);
+//plastic/time saver
+translate([2,8,2])
+cube([9,20,21]);
+//self-tapper holes size 4
+translate([4,4,5])
+cylinder(h=20,d=2.5,$fn=50);
+translate([4,32,5])
+cylinder(h=20,d=2.5,$fn=50);
+translate([99,4,5])
+cylinder(h=20,d=2.5,$fn=50);
+translate([99,32,5])
+cylinder(h=20,d=2.5,$fn=50);
+}
