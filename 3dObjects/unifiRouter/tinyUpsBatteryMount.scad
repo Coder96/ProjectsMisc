@@ -1,6 +1,6 @@
 $fn=30;
 
-use <../library.scad>;
+use <../../scadLib/library.scad>;
 use <../tinyUps/tinyUpsTray.scad>;
 use <../driveHolder/driveHolder1uEnclouser.scad>;
 

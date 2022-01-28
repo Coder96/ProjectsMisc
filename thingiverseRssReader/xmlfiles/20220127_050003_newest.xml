@@ -1,0 +1,386 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!-- generator="FeedCreator 1.7.2-ppt (info@mypapit.net)" -->
+<rss version="2.0">
+    <channel>
+        <title>Thingiverse - Newest Things</title>
+        <description><![CDATA[The newest and coolest things from Thingiverse.com]]></description>
+        <link>https://www.thingiverse.com/newest</link>
+        <lastBuildDate>Thu, 27 Jan 2022 11:00:03 +0100</lastBuildDate>
+        <generator>FeedCreator 1.7.2-ppt (info@mypapit.net)</generator>
+        <language>en-us</language>
+        <copyright>Copyright 2022, Thingiverse.com</copyright>
+        <item>
+            <title>slingshot target</title>
+            <link>https://www.thingiverse.com/thing:5219049</link>
+            <description><![CDATA[<div style="margin: 5px;"><a href="https://www.thingiverse.com/thing:5219049"><img src="https://cdn.thingiverse.com/assets/91/9f/0b/b7/76/large_preview_target_fionda.png"  class="preview_large" style="width: 240px; height: 180px"></a><br/></div><div><div><p>tpu slingshot target</p></div></div>]]></description>
+            <author>pragamichele</author>
+            <pubDate>Thu, 27 Jan 2022 10:59:40 +0100</pubDate>
+            <guid>https://www.thingiverse.com/thing:5219049</guid>
+            <enclosure url="https://cdn.thingiverse.com/assets/f8/64/f2/24/65/target_fionda.stl" length="173084" type="application/sla"/>
+        </item>
+        <item>
+            <title>my PLUS version of Tronxy X5SA 400 pro</title>
+            <link>https://www.thingiverse.com/thing:5219050</link>
+            <description><![CDATA[<div style="margin: 5px;"><a href="https://www.thingiverse.com/thing:5219050"><img src="https://cdn.thingiverse.com/assets/1f/7f/2f/c8/0c/large_preview_Winkel_3_seitig_verssetzt_gesp.png"  class="preview_large" style="width: 240px; height: 180px"></a><br/></div><div><div><p>This is my PLUS version of the Tronxy X5SA-Pro 400. Almost all parts can be adapted to the smaller / larger brothers.</p>
+<p>The X5SA pro is a reasonably good basis. You can't get a solid basis cheaper. But you still have to do a lot to get a good printer.</p>
+<p>Goal of the conversion:</p>
+<ul><li>Completely enclosed, tightly possible for later heating</li>
+<li>Direct drive</li>
+<li>Water cooling</li>
+<li>new firmware</li>
+<li>new board</li>
+<li>better Z drive</li>
+<li>more stable<br>
+and above all: better cables (suitable for drag chains)</li>
+</ul><p>Status 2022-01-27<br>
+Frame angle - tested and installed<br>
+Switch housing - tested and installed<br>
+Z-drive with one motor - tested and installed<br>
+On / off housing - tested and installed<br>
+Connector housing - tested and installed<br>
+Water expansion tank - should work as a further development from an older version that was installed<br>
+Cable tray holder - tested and installed<br>
+Holder for water installation - to come<br>
+Holder for hotend - design ok, not tested</p>
+<p>I have installed parts in PETG</p>
+<p>I uploaded the current Fusion File. who wants to...</p>
+<p>have fun</p></div></div>]]></description>
+            <author>cheffeundwackl</author>
+            <pubDate>Thu, 27 Jan 2022 10:59:39 +0100</pubDate>
+            <guid>https://www.thingiverse.com/thing:5219050</guid>
+            <enclosure url="https://cdn.thingiverse.com/assets/4d/a9/cf/84/3d/Winkel_2_seitig.stl" length="54284" type="application/sla"/>
+        </item>
+        <item>
+            <title>SPC Gear SM900 Plastic holder</title>
+            <link>https://www.thingiverse.com/thing:5219046</link>
+            <description><![CDATA[<div style="margin: 5px;"><a href="https://www.thingiverse.com/thing:5219046"><img src="https://cdn.thingiverse.com/assets/09/14/80/8a/f1/large_preview_mic_plastic_v4_stl.png"  class="preview_large" style="width: 240px; height: 180px"></a><br/></div><div><div><p>100% infil.</p>
+<p>Better plastic holder. If it is little too big try printing it in 99% scale or less. My one fits perfect.</p></div></div>]]></description>
+            <author>mlody_piotrek</author>
+            <pubDate>Thu, 27 Jan 2022 10:58:39 +0100</pubDate>
+            <guid>https://www.thingiverse.com/thing:5219046</guid>
+            <enclosure url="https://cdn.thingiverse.com/assets/6e/5e/3b/21/47/mic_plastic_v4.3mf" length="82238" type="application/octet-stream"/>
+        </item>
+        <item>
+            <title>Crochet pincette</title>
+            <link>https://www.thingiverse.com/thing:5219042</link>
+            <description><![CDATA[<div><p>Pincette avec un crochet pour suspendre des affiches.</p></div>]]></description>
+            <author>canel</author>
+            <pubDate>Thu, 27 Jan 2022 10:54:00 +0100</pubDate>
+            <guid>https://www.thingiverse.com/thing:5219042</guid>
+            <enclosure url="https://cdn.thingiverse.com/assets/c8/be/4c/b2/98/crochet.scad" length="864" type="application/octet-stream"/>
+        </item>
+        <item>
+            <title>Aqara door sensor case (MCCGQ11LM)</title>
+            <link>https://www.thingiverse.com/thing:5219043</link>
+            <description><![CDATA[<div style="margin: 5px;"><a href="https://www.thingiverse.com/thing:5219043"><img src="https://cdn.thingiverse.com/assets/59/e5/3a/50/2c/large_preview_case_1.jpg"  class="preview_large" style="width: 240px; height: 180px"></a><br/></div><div><div><p>I designed this case in Fusion 360 for an Aqara door sensor mainly to use it for projects where I use this sensor as a general purpose zigbee sensor and I prefer something a bit smaller.</p>
+<p>There are 2 versions, one with a hole and one without it, and also included the Fusion 360 file.</p>
+<p>The one with the whole was designed to fit a small wire connector, which makes it handy to plug something else in there, or just use it as a normal door sensor if needed.</p>
+<p>You might want to reduce the size slightly when printing, as I made it a bit bigger than the board itself, as the initial plan was to have the wire from the bottom to the top through the side of the board and solder it where the reed switch is, so I needed a bit of room. I ended up soldering the wires to the D+ and - directly to the board.</p>
+<p>Use supports for the hole version.</p></div></div>]]></description>
+            <author>deyavi</author>
+            <pubDate>Thu, 27 Jan 2022 10:53:15 +0100</pubDate>
+            <guid>https://www.thingiverse.com/thing:5219043</guid>
+            <enclosure url="https://cdn.thingiverse.com/assets/71/2b/0c/77/20/aqara_case_lid.stl" length="314608" type="application/sla"/>
+        </item>
+        <item>
+            <title>קופסת איפור דינאמית - כולל הקדשה לסבתא Dynamic Makeup box with label</title>
+            <link>https://www.thingiverse.com/thing:5206573</link>
+            <description><![CDATA[<div style="margin: 5px;"><a href="https://www.thingiverse.com/thing:5206573"><img src="https://cdn.thingiverse.com/assets/80/9e/b4/88/de/large_preview_in_2x2.png"  class="preview_large" style="width: 240px; height: 180px"></a><br/></div><div><div><p>&#1511;&#1493;&#1508;&#1505;&#1514; &#1488;&#1497;&#1508;&#1493;&#1512; &#1491;&#1497;&#1504;&#1488;&#1502;&#1497;&#1514; &#1492;&#1499;&#1493;&#1500;&#1500;&#1514; &#1492;&#1511;&#1491;&#1513;&#1492; &#1488;&#1497;&#1513;&#1497;&#1514; &#1493;&#1500;&#1489; &#1492;&#1502;&#1493;&#1491;&#1508;&#1505;&#1497;&#1501; &#1489;&#1504;&#1508;&#1512;&#1491; &#1493;&#1489;&#1510;&#1489;&#1506;&#1497;&#1501; &#1513;&#1493;&#1504;&#1497;&#1501;, &#1490;&#1493;&#1491;&#1500; &#1492;&#1511;&#1493;&#1508;&#1505;&#1488; &#1492;&#1497;&#1504;&#1493; 160<em>120</em>50 &#1493;&#1504;&#1497;&#1514;&#1503; &#1500;&#1492;&#1491;&#1508;&#1497;&#1505; &#1497;&#1495;&#1497;&#1491;&#1493;&#1514; &#1511;&#1496;&#1504;&#1496;&#1493;&#1514; &#1500;&#1508;&#1497; &#1492;&#1510;&#1493;&#1512;&#1498; &#1500;&#1508;&#1497; &#1490;&#1493;&#1491;&#1500; &#1489;&#1505;&#1497;&#1505;&#1497; &#1513;&#1500; 40<em>40</em>50. &#1489;&#1493;&#1510;&#1506; &#1514;&#1499;&#1504;&#1493;&#1503; &#1500;&#1497;&#1495;&#1497;&#1491;&#1493;&#1514; &#1492;&#1489;&#1488;&#1493;&#1514;:<br>
+40<em>40,40</em>80, 40<em>120,40</em>160, 40<em>40 &#1492;&#1502;&#1495;&#1493;&#1500; &#1500; 9 &#1497;&#1495;&#1497;&#1491;&#1493;&#1514;<br>
+&#1489;&#1504;&#1493;&#1505;&#1507; &#1497;&#1513; &#1488;&#1508;&#1513;&#1512;&#1493;&#1514; &#1500;&#1495;&#1500;&#1511; &#1488;&#1514; &#1492;&#1497;&#1495;&#1497;&#1491;&#1492; &#1492;&#1490;&#1491;&#1493;&#1500;&#1492; 40</em>160 &#1500; &#1500;&#1513;&#1514;&#1497;&#1497;&#1501; &#1500;&#1512;&#1493;&#1495;&#1489;,&#1493;&#1500; 5 &#1489;&#1488;&#1493;&#1512;&#1498; &#1506;&#1501; &#1502;&#1508;&#1512;&#1497;&#1491;&#1497;&#1501; &#1504;&#1493;&#1505;&#1508;&#1497;&#1501;.<br>
+&#1492;&#1491;&#1508;&#1505;&#1514; &#1492;&#1511;&#1493;&#1508;&#1505;&#1492; &#1499;&#1493;&#1500;&#1500; &#1495;&#1500;&#1511;&#1497;&#1501; &#1492;&#1495;&#1500;&#1493;&#1511;&#1492; &#1500;&#1493;&#1511;&#1495;&#1514; &#1499; 180 &#1490;&#1512;&#1501; &#1513;&#1500; PLA.<br>
+&#1488;&#1504;&#1497; &#1492;&#1491;&#1508;&#1505;&#1514; &#1488;&#1514; &#1492;&#1495;&#1500;&#1511;&#1497;&#1501; &#1506;&#1501; &#1511;&#1497;&#1512; &#1488;&#1495;&#1491;, 20% &#1502;&#1497;&#1500;&#1493;&#1497;, &#1493;&#1502;&#1510;&#1489; &#1502;&#1497;&#1500;&#1493;&#1497; LIGHTING.<br>
+Makeup box, Including dynamic division, size 160*120</p></div></div>]]></description>
+            <author>ZEVLIB</author>
+            <pubDate>Thu, 27 Jan 2022 10:52:54 +0100</pubDate>
+            <guid>https://www.thingiverse.com/thing:5206573</guid>
+            <enclosure url="https://cdn.thingiverse.com/assets/03/d6/eb/e2/56/box_lev.stl" length="8284" type="application/sla"/>
+        </item>
+        <item>
+            <title>AutoTest Trophée</title>
+            <link>https://www.thingiverse.com/thing:5219038</link>
+            <description><![CDATA[<div style="margin: 5px;"><a href="https://www.thingiverse.com/thing:5219038"><img src="https://cdn.thingiverse.com/assets/e6/a9/3a/75/d7/large_preview_Base_v2.png"  class="preview_large" style="width: 240px; height: 180px"></a><br/></div><div><div><p>Petit Troph&eacute;e pour un ami qui a fait ENORMEMENT d'autotest en peu de temps</p>
+<p>Imprim&eacute; avec Elegoo Mars 2 pro</p>
+<p>R&eacute;sine Elegoo : </p>
+<ul><li>Blanc ABS Like pour l'auto test</li>
+<li>Translucide pour la tige</li>
+<li>Gris pour la base</li>
+</ul></div></div>]]></description>
+            <author>Xavrorec</author>
+            <pubDate>Thu, 27 Jan 2022 10:51:31 +0100</pubDate>
+            <guid>https://www.thingiverse.com/thing:5219038</guid>
+            <enclosure url="https://cdn.thingiverse.com/assets/5c/c2/3e/62/7c/Autotest_1.stl" length="595884" type="application/sla"/>
+        </item>
+        <item>
+            <title>Shade Tech(SHD TECH)</title>
+            <link>https://www.thingiverse.com/thing:5219036</link>
+            <description><![CDATA[<div style="margin: 5px;"><a href="https://www.thingiverse.com/thing:5219036"><img src="https://cdn.thingiverse.com/assets/97/7a/0d/52/b1/large_preview_sniper_turret.png"  class="preview_large" style="width: 240px; height: 180px"></a><br/></div><div><div><p>SHD Tech (pronounced &ldquo;Shade Tech&rdquo;) is a shorthand for "Strategic Homeland Division Technology".</p>
+<p>One of the Strategic Homeland Division's biggest advantages in the field is its revolutionary smart technology. Linked together into an intelligent grid by the SHD global satellite network, SHD Tech provides high-value, real-time intelligence for Division agents engaged in field operations.</p>
+<p>Developed either exclusively by the Division's Research &amp; Development department or adapted from military or commercial technological prototypes, SHD Tech is actually a catch-all term for all proprietary assets and systems employed exclusively by the Division and its agents. These include some of the most innovative augmented reality (AR) systems ever developed for policing or military actions: pod launchers, turrets, seeker mines and portable stations, to name a few.</p>
+<p>SHD Network is the agency's core technology. It links numerous dedicated assets directly controlled by the Division - drones and other unmanned aerial vehicles (UAVs), AWACS airplanes, and telecom satellites - and piggybacks their output onto existing civil, commercial, and military networking structures (cellphone towers, WiFi hotspots, NASA and GPS radionavigation satellites, and so on) to create a seamless global web of connectivity and data.</p>
+<p>This redundancy ensures the SHD Network's reliability in case of catastrophic emergency. This reliability is crucial: the network connects agents in the field to Division HQ and to strategic government decision makers. </p>
+<p>if you like what i do buy me a pepsi<br><a rel="nofollow" href="https://www.buymeacoffee.com/anoty">https://www.buymeacoffee.com/anoty</a></p></div></div>]]></description>
+            <author>anoty</author>
+            <pubDate>Thu, 27 Jan 2022 10:49:48 +0100</pubDate>
+            <guid>https://www.thingiverse.com/thing:5219036</guid>
+            <enclosure url="https://cdn.thingiverse.com/assets/1a/d4/f8/9f/21/seeker_mine_BP.stl" length="129484" type="application/sla"/>
+        </item>
+        <item>
+            <title>Bird cage clip </title>
+            <link>https://www.thingiverse.com/thing:5219031</link>
+            <description><![CDATA[<div style="margin: 5px;"><a href="https://www.thingiverse.com/thing:5219031"><img src="https://cdn.thingiverse.com/assets/06/c7/90/1f/82/large_preview_Screenshot_2022-01-27_110711.png"  class="preview_large" style="width: 240px; height: 180px"></a><br/></div><div><div><p>This clamp holds the food for your birds. :)</p>
+<p>You should print this without support and full in 0,1mm layer hight.</p>
+<p>Choose a none toxic filament like PLA or better: a food safe filament printet with a stainless steel nozzle. (if you have birds who prefer to eat the clamp)</p>
+<p>After printing remove the support base carefully and cut of the middle part, like I show in the last picture. </p>
+<p>The bars of your cage have to be a ca. 1 cm distance between each other, to clamp tight.</p></div></div>]]></description>
+            <author>HerrRakles</author>
+            <pubDate>Thu, 27 Jan 2022 10:49:16 +0100</pubDate>
+            <guid>https://www.thingiverse.com/thing:5219031</guid>
+            <enclosure url="https://cdn.thingiverse.com/assets/5e/37/58/5d/2f/Klammer.stl" length="211784" type="application/sla"/>
+        </item>
+        <item>
+            <title>SPD SL shoe mount</title>
+            <link>https://www.thingiverse.com/thing:5219035</link>
+            <description><![CDATA[<div style="margin: 5px;"><a href="https://www.thingiverse.com/thing:5219035"><img src="https://cdn.thingiverse.com/assets/90/5f/50/10/4e/large_preview_spd_shoe_mount.png"  class="preview_large" style="width: 240px; height: 180px"></a><br/></div><div><div><p>SPD-SL compatible wall mount for cycling shoes. </p></div></div>]]></description>
+            <author>usernam3</author>
+            <pubDate>Thu, 27 Jan 2022 10:48:24 +0100</pubDate>
+            <guid>https://www.thingiverse.com/thing:5219035</guid>
+            <enclosure url="https://cdn.thingiverse.com/assets/fc/6d/a9/bc/71/spd_shoe_mount.stl" length="22084" type="application/sla"/>
+        </item>
+        <item>
+            <title>3D Mouse / Mouse Companion Version 2</title>
+            <link>https://www.thingiverse.com/thing:5217685</link>
+            <description><![CDATA[<div style="margin: 5px;"><a href="https://www.thingiverse.com/thing:5217685"><img src="https://cdn.thingiverse.com/assets/c1/6a/c2/67/1a/large_preview_scroll_v80.jpg"  class="preview_large" style="width: 240px; height: 180px"></a><br/></div><div><div><h2><b>Like if you do. Comment for improvement.</b></h2>
+Please go to Thing Files and download each part separately.<p></p><p>
+
+Improved version</p><p>
+
+I'm disappointed/frustrated at my 3D Connexion Mouse Explorer. I find myself still using my mouse for the translations. Therefore I'm making my own interpretation of what a 3D mouse should be.</p><p>
+</p>
+
+<h2><span style="text-decoration: underline;"><b>Print:</b></span></h2><ul><li>
+Most parts don't need any -or very few- supports.
+
+</li></ul><h2><span style="text-decoration: underline;"><b>Materials:</b></span></h2><ul><li>
+Joystick module 5-pin KY 23 PS2 with the circuit board (geometry is provided).
+</li><li>4x mini press buttons (6x6x4.3 momentary button, 4 pin).
+</li><li>1 rotary encoder (5-pin Module EC11).
+</li><li>25x 6mm ball bearing (airsoft?).
+</li><li>2x M3x16mm bolt + nut.
+</li><li>Arduino Pro Micro.
+</li><li>55mm diameter rubber pad.
+
+</li></ul><h2><span style="text-decoration: underline;"><b>Assembly:</b></span></h2><ol><li>
+Check the pictures, they are worth 1000 words.
+</li><li>27-Jan-2022: Code is not done yet.
+
+</li></ol><h2><span style="text-decoration: underline;"><b>Known Issues and Planned Solutions:</b></span></h2><ul><li>
+I'm waiting for an Arduino Pro Nano to check if there is enough place in the base for it.
+</li><li>Idea: replace the 4 buttons on the base with linear potentiometers.
+</li><li>Temporary solution for the code: I'll declare it as a joystick through the Arduino app and configure the functions with Joystick Gremlin app.
+</li><li>Longer term solution: design my own circuit board and code.
+<p>
+
+<br></p></li></ul><b>Use the referral code STAR-TQTV-6RL5 to get 5000UEC when creating a new account for Star Citizen.</b></div></div>]]></description>
+            <author>Joker_G</author>
+            <pubDate>Thu, 27 Jan 2022 10:46:11 +0100</pubDate>
+            <guid>https://www.thingiverse.com/thing:5217685</guid>
+            <enclosure url="https://cdn.thingiverse.com/assets/36/ae/92/84/f7/Joker_G_Mouse_Companion_v2.3mf" length="6615118" type="application/octet-stream"/>
+        </item>
+        <item>
+            <title>Trophée Covid</title>
+            <link>https://www.thingiverse.com/thing:5219034</link>
+            <description><![CDATA[<div style="margin: 5px;"><a href="https://www.thingiverse.com/thing:5219034"><img src="https://cdn.thingiverse.com/assets/6f/7d/25/2b/80/large_preview_Covid.png"  class="preview_large" style="width: 240px; height: 180px"></a><br/></div><div><div><p>Petit Troph&eacute;e fait pour un ami qui a chopp&eacute; la Covid-19 plusieurs fois </p>
+<p>Imprim&eacute; avec la Elegoo Mars 2 Pro</p>
+<p>Avec R&eacute;sine Eleggo : </p>
+<ul><li>Rouge translucide pour le virus </li>
+<li>Translucide pour la tige</li>
+<li>Gris pour la Base</li>
+</ul></div></div>]]></description>
+            <author>Xavrorec</author>
+            <pubDate>Thu, 27 Jan 2022 10:45:25 +0100</pubDate>
+            <guid>https://www.thingiverse.com/thing:5219034</guid>
+            <enclosure url="https://cdn.thingiverse.com/assets/62/54/6c/2f/e4/Covid.stl" length="9057584" type="application/sla"/>
+        </item>
+        <item>
+            <title>Case &amp; Knob for DollaTek Mini 2.0 </title>
+            <link>https://www.thingiverse.com/thing:5219033</link>
+            <description><![CDATA[<div style="margin: 5px;"><a href="https://www.thingiverse.com/thing:5219033"><img src="https://cdn.thingiverse.com/assets/9c/ef/15/3d/cc/large_preview_audio_case_2.jpg"  class="preview_large" style="width: 240px; height: 180px"></a><br/></div><div><div><p>I made this case for the DollaTek Mini 2.0 or similar speaker amplifier.<br>
+The knob is a remix of the work of void (see the link).<br>
+Hope you'll enjoy it for your work with this amplifier or remix it to adapt for other model :) .</p></div></div>]]></description>
+            <author>Monky_98</author>
+            <pubDate>Thu, 27 Jan 2022 10:42:19 +0100</pubDate>
+            <guid>https://www.thingiverse.com/thing:5219033</guid>
+            <enclosure url="https://cdn.thingiverse.com/assets/bd/4e/9e/b0/5e/audio_case.stl" length="79134" type="application/sla"/>
+        </item>
+        <item>
+            <title>Voxelab Aquila V-slot cover</title>
+            <link>https://www.thingiverse.com/thing:5219032</link>
+            <description><![CDATA[<div style="margin: 5px;"><a href="https://www.thingiverse.com/thing:5219032"><img src="https://cdn.thingiverse.com/assets/29/30/c9/d9/6c/large_preview_Voxelab_Aquila_V-slot_cover.png"  class="preview_large" style="width: 240px; height: 180px"></a><br/></div><div><div><p>A simple 136mm length V-slot cover perfect for the Voxelab Aquila frame.<br>
+Remixed from 'Ender 3 V2 V-slot Covers' which I had trouble fitting to the frame of the Voxelab Aquila.</p></div></div>]]></description>
+            <author>SharpDesign</author>
+            <pubDate>Thu, 27 Jan 2022 10:42:14 +0100</pubDate>
+            <guid>https://www.thingiverse.com/thing:5219032</guid>
+            <enclosure url="https://cdn.thingiverse.com/assets/ee/ba/e8/4e/54/Voxelab_Aquila_V-slot_cover.stl" length="3884" type="application/sla"/>
+        </item>
+        <item>
+            <title>TA04 Tamiya Body post (home made) </title>
+            <link>https://www.thingiverse.com/thing:5219030</link>
+            <description><![CDATA[<div style="margin: 5px;"><a href="https://www.thingiverse.com/thing:5219030"><img src="https://cdn.thingiverse.com/assets/c5/34/76/7a/ee/large_preview_TA04_Body_Post.png"  class="preview_large" style="width: 240px; height: 180px"></a><br/></div><div><div><p>Tamiya TA04 Body post own design</p></div></div>]]></description>
+            <author>Charlied43</author>
+            <pubDate>Thu, 27 Jan 2022 10:38:46 +0100</pubDate>
+            <guid>https://www.thingiverse.com/thing:5219030</guid>
+            <enclosure url="https://cdn.thingiverse.com/assets/a3/e1/55/76/2f/TA04_Body_Post.stl" length="846483" type="application/sla"/>
+        </item>
+        <item>
+            <title>Radiomaster TX16s AGO1 Gimbal Spacer</title>
+            <link>https://www.thingiverse.com/thing:5219029</link>
+            <description><![CDATA[<div style="margin: 5px;"><a href="https://www.thingiverse.com/thing:5219029"><img src="https://cdn.thingiverse.com/assets/36/b7/30/5b/16/large_preview_TX16s_AGO1_Gimbal_Spacer.png"  class="preview_large" style="width: 240px; height: 180px"></a><br/></div><div><div><p>This is a remixed version of the original AG01 gimbal spacer, now with more inner space to make it easier to click onto the AG01 gimbals without too much force and no diy fabrication or sanding required . Print and click on, ready to go.</p>
+<p>Printed with PLA+ with 20% infill.</p></div></div>]]></description>
+            <author>ryanrocksize5</author>
+            <pubDate>Thu, 27 Jan 2022 10:35:58 +0100</pubDate>
+            <guid>https://www.thingiverse.com/thing:5219029</guid>
+            <enclosure url="https://cdn.thingiverse.com/assets/c1/8a/1d/87/6c/TX16s_AGO1_Gimbal_Spacer.stl" length="122984" type="application/sla"/>
+        </item>
+        <item>
+            <title>Headphone stand</title>
+            <link>https://www.thingiverse.com/thing:5219028</link>
+            <description><![CDATA[<div style="margin: 5px;"><a href="https://www.thingiverse.com/thing:5219028"><img src="https://cdn.thingiverse.com/assets/7e/c1/52/b8/dc/large_preview_Extension.png"  class="preview_large" style="width: 240px; height: 180px"></a><br/></div><div><div><p>Warning read this before printing!<br>
+I designed this headphone stand to print on my ender 5 pro(220x220). The extension was planned to snap on to the arm of the mainplate, but it didn't work with Pla and my settings. I broke the arm while I tried to snap it on. Then I slided the extension on the arm and glued it on. If you want to built it to snap on, you can customize it yourself (use "headphonestand_for costomization"). You can choose an Infill patter as an design element. if you don't know how to do it watch this video "Print Faster on Your <a rel="nofollow" href="https://www.amazon.com/Official-Creality-3D-Removable-220x220x250MM/dp/B07K3SZBHJ?dchild=1&amp;keywords=ender+3&amp;qid=1612857257&amp;sr=8-1-spons&amp;psc=1&amp;linkCode=ll1&amp;tag=tv-nothing-20&amp;linkId=5419ace64a5f58b068a896710257ed13&amp;language=en_US&amp;ref_=as_li_ss_tl"> Ender 3</a> Style Printer Using Tricks in Cura" from CHEP . You need to print the mainplate with support.</p></div></div>]]></description>
+            <author>Bloodwork512</author>
+            <pubDate>Thu, 27 Jan 2022 10:30:18 +0100</pubDate>
+            <guid>https://www.thingiverse.com/thing:5219028</guid>
+            <enclosure url="https://cdn.thingiverse.com/assets/b8/72/15/b8/0c/Headphonestand_for_customization.stl" length="369984" type="application/sla"/>
+        </item>
+        <item>
+            <title>Apple watch Charging station</title>
+            <link>https://www.thingiverse.com/thing:5219027</link>
+            <description><![CDATA[<div style="margin: 5px;"><a href="https://www.thingiverse.com/thing:5219027"><img src="https://cdn.thingiverse.com/assets/8b/7d/21/0c/c1/large_preview_Apple_watch_stand_v4.png"  class="preview_large" style="width: 240px; height: 180px"></a><br/></div><div><div><p>It's a applewatch charging station. It's designed for the applewatch series 3, 38mm but I think it works for every other model.</p></div></div>]]></description>
+            <author>McFly0503</author>
+            <pubDate>Thu, 27 Jan 2022 10:28:04 +0100</pubDate>
+            <guid>https://www.thingiverse.com/thing:5219027</guid>
+            <enclosure url="https://cdn.thingiverse.com/assets/b2/e1/ec/86/bb/Apple_watch_stand_v4.obj" length="277910" type="application/octet-stream"/>
+        </item>
+        <item>
+            <title>Cardboard Connector</title>
+            <link>https://www.thingiverse.com/thing:5219026</link>
+            <description><![CDATA[<div style="margin: 5px;"><a href="https://www.thingiverse.com/thing:5219026"><img src="https://cdn.thingiverse.com/assets/88/ef/7d/b2/8a/large_preview_cardboard_clip.png"  class="preview_large" style="width: 240px; height: 180px"></a><br/></div><div><div><p>This is a basic cardboard connector in order to produce double walls for a DIY Smart Home Project. This was made in order to hide the cables and the electronics in the interior of the waslls. Special thanks to Mitsos P!</p></div></div>]]></description>
+            <author>lobsterman21</author>
+            <pubDate>Thu, 27 Jan 2022 10:28:01 +0100</pubDate>
+            <guid>https://www.thingiverse.com/thing:5219026</guid>
+            <enclosure url="https://cdn.thingiverse.com/assets/4f/43/41/2e/50/cardboard_clip.stl" length="913684" type="application/sla"/>
+        </item>
+        <item>
+            <title>Sovol 3D - DUAL Filmanet Dry Box Stand Off</title>
+            <link>https://www.thingiverse.com/thing:5218895</link>
+            <description><![CDATA[<div style="margin: 5px;"><a href="https://www.thingiverse.com/thing:5218895"><img src="https://cdn.thingiverse.com/assets/d2/3b/3a/59/bd/large_preview_IMG_0554.JPEG"  class="preview_large" style="width: 240px; height: 180px"></a><br/></div><div><div><p>Due to the Heatplate in my DUAL Filament Dryer from Sovol 3D, I made a StandOff for the DryBox.</p>
+<p>The StandOff has a 20 mm height, to make sure that the Dryer has enough clearance for ventilation.</p>
+<p>Share your make, that makes me more happy as a Tip.</p>
+<hr><p>Da mein DUAL Sovol 3D Filamenttrockner zu viel w&auml;rme abstrahlt (50&deg; k&ouml;nnen auf dauer echt warm sein, vor allem f&uuml;r die Fl&auml;che wo die DryBox drauf steht), habe ich kurzer Hand einen Abstandshalter gebaut.</p>
+<p>Mit einen abstand von 20mm zur Box, gibt es jetzt gen&uuml;gend platz zum L&uuml;ften.</p>
+<p>Teile dein "make" mit mir, das w&uuml;rde mich sogar mehr freuen als ein Trinkgeld!</p></div></div>]]></description>
+            <author>UncleSash</author>
+            <pubDate>Thu, 27 Jan 2022 10:27:14 +0100</pubDate>
+            <guid>https://www.thingiverse.com/thing:5218895</guid>
+            <enclosure url="https://cdn.thingiverse.com/assets/a6/39/90/95/e5/SOVOL3D_dual_DryBox_StandOff_UncleSash.stl" length="128884" type="application/sla"/>
+        </item>
+        <item>
+            <title>Letter Jam Boardgame Insert</title>
+            <link>https://www.thingiverse.com/thing:5219021</link>
+            <description><![CDATA[<div style="margin: 5px;"><a href="https://www.thingiverse.com/thing:5219021"><img src="https://cdn.thingiverse.com/assets/71/cd/2e/09/42/large_preview_1.jpg"  class="preview_large" style="width: 240px; height: 180px"></a><br/></div><div><div><p>There should be enough space for sleeves.<br>
+If someone found good fitting sleeves for this game, please leave a comment.</p></div></div>]]></description>
+            <author>Kettch</author>
+            <pubDate>Thu, 27 Jan 2022 10:25:52 +0100</pubDate>
+            <guid>https://www.thingiverse.com/thing:5219021</guid>
+            <enclosure url="https://cdn.thingiverse.com/assets/b4/a7/cc/c7/ef/Letter_Jam_2.STL" length="366184" type="application/sla"/>
+        </item>
+        <item>
+            <title>adjustable furniture foot</title>
+            <link>https://www.thingiverse.com/thing:5219017</link>
+            <description><![CDATA[<div style="margin: 5px;"><a href="https://www.thingiverse.com/thing:5219017"><img src="https://cdn.thingiverse.com/assets/ee/f6/96/a3/7c/large_preview_WhatsApp_Image_2022-01-27_at_11.10.29_2.jpeg"  class="preview_large" style="width: 240px; height: 180px"></a><br/></div><div><div><p>just came up with the problem of uneven tiles in the bathroom.</p>
+<p>you can just screw these foots on any furniture you need to.</p>
+<p>they are made for 3.5mm screws with countersunk (in my case 3,5x17)</p>
+<p>the additional height with this foot is adjustable from ca. 14-23mm.</p>
+<p>goal was too not make them too high.</p></div></div>]]></description>
+            <author>jannnnnnnnis</author>
+            <pubDate>Thu, 27 Jan 2022 10:15:21 +0100</pubDate>
+            <guid>https://www.thingiverse.com/thing:5219017</guid>
+            <enclosure url="https://cdn.thingiverse.com/assets/1b/f0/6a/46/c2/Foot.stl" length="2085084" type="application/sla"/>
+        </item>
+        <item>
+            <title>Support for Turbo Levo charger</title>
+            <link>https://www.thingiverse.com/thing:5219019</link>
+            <description><![CDATA[<div style="margin: 5px;"><a href="https://www.thingiverse.com/thing:5219019"><img src="https://cdn.thingiverse.com/assets/bf/73/8e/b0/fc/large_preview_20220127_100044.jpg"  class="preview_large" style="width: 240px; height: 180px"></a><br/></div><div><div><p>Supporto a muro per il caricabatteria della Specialized Turbo Levo</p></div></div>]]></description>
+            <author>Fix68</author>
+            <pubDate>Thu, 27 Jan 2022 10:14:57 +0100</pubDate>
+            <guid>https://www.thingiverse.com/thing:5219019</guid>
+            <enclosure url="https://cdn.thingiverse.com/assets/f1/f6/89/9e/ed/supporto.stl" length="2866484" type="application/sla"/>
+        </item>
+        <item>
+            <title>Body Measuring Tape Ruler Case</title>
+            <link>https://www.thingiverse.com/thing:5219016</link>
+            <description><![CDATA[<div style="margin: 5px;"><a href="https://www.thingiverse.com/thing:5219016"><img src="https://cdn.thingiverse.com/assets/b1/01/ca/2e/fb/large_preview_photo16432755942.jpeg"  class="preview_large" style="width: 240px; height: 180px"></a><br/></div><div><div><p>Easy-print tape ruler case. Helps to keep the tape in order and not unwind </p></div></div>]]></description>
+            <author>kavboy</author>
+            <pubDate>Thu, 27 Jan 2022 10:14:41 +0100</pubDate>
+            <guid>https://www.thingiverse.com/thing:5219016</guid>
+            <enclosure url="https://cdn.thingiverse.com/assets/d7/a1/9c/0f/51/tape_case.stl" length="10784" type="application/sla"/>
+        </item>
+        <item>
+            <title>pin male full material fix</title>
+            <link>https://www.thingiverse.com/thing:5219020</link>
+            <description><![CDATA[<div style="margin: 5px;"><a href="https://www.thingiverse.com/thing:5219020"><img src="https://cdn.thingiverse.com/assets/60/80/0d/02/b5/large_preview_Pin_Male_v2.png"  class="preview_large" style="width: 240px; height: 180px"></a><br/></div><div><div><p>I had problems to slice it in full material 100%. The ring was always "empty". I quickly fixed it.</p></div></div>]]></description>
+            <author>janulle</author>
+            <pubDate>Thu, 27 Jan 2022 10:14:10 +0100</pubDate>
+            <guid>https://www.thingiverse.com/thing:5219020</guid>
+            <enclosure url="https://cdn.thingiverse.com/assets/a0/c5/64/08/db/Pin_Male_v2.stl" length="67184" type="application/sla"/>
+        </item>
+        <item>
+            <title>Y Stepper motor Cooler Ender 3 V2 </title>
+            <link>https://www.thingiverse.com/thing:5219018</link>
+            <description><![CDATA[<div style="margin: 5px;"><a href="https://www.thingiverse.com/thing:5219018"><img src="https://cdn.thingiverse.com/assets/0b/70/62/6a/be/large_preview_Whakamatao_Steppermotor.png"  class="preview_large" style="width: 240px; height: 180px"></a><br/></div><div><div><p>Redesigned from as the insulation from my print bed hits the housing, knocks it loose and adds resistance to the Y axis motor when the insulation runs over the top.</p>
+<p>Trimmed down to fit under the insulation whilst still allowing airflow over and to the side of the stepper motor. Bolt holes line up with the internal screws on the factory 42mm by 34mm stepper motors. I have used my old hotend fan which was a 4010 fan though as stated on the original thing, a 4020 is also a good choice. </p>
+<p>Will be looking to add cooling veins through the mounting flange in the future to allow some airflow to pass the face. </p></div></div>]]></description>
+            <author>Logzorz</author>
+            <pubDate>Thu, 27 Jan 2022 10:12:46 +0100</pubDate>
+            <guid>https://www.thingiverse.com/thing:5219018</guid>
+            <enclosure url="https://cdn.thingiverse.com/assets/78/4b/06/62/b3/Whakamatao_Steppermotor.stl" length="100784" type="application/sla"/>
+        </item>
+        <item>
+            <title>Sena 50s Stand</title>
+            <link>https://www.thingiverse.com/thing:5219015</link>
+            <description><![CDATA[<div style="margin: 5px;"><a href="https://www.thingiverse.com/thing:5219015"><img src="https://cdn.thingiverse.com/assets/3b/a3/46/80/13/large_preview_Sena_50_stand_1.png"  class="preview_large" style="width: 240px; height: 180px"></a><br/></div><div><div><p>Desk Stand for Sena 50S </p>
+<p>Remix of the Sena 50s Wall mount by Sebi_Wilhelm </p></div></div>]]></description>
+            <author>Jedgpz</author>
+            <pubDate>Thu, 27 Jan 2022 10:09:28 +0100</pubDate>
+            <guid>https://www.thingiverse.com/thing:5219015</guid>
+            <enclosure url="https://cdn.thingiverse.com/assets/fc/25/eb/63/ad/Sena_50_stand_1.stl" length="24684" type="application/sla"/>
+        </item>
+        <item>
+            <title>H0 Tragkraftspritze</title>
+            <link>https://www.thingiverse.com/thing:5219013</link>
+            <description><![CDATA[<div style="margin: 5px;"><a href="https://www.thingiverse.com/thing:5219013"><img src="https://cdn.thingiverse.com/assets/25/7a/3b/7a/76/large_preview_Tragkraftspritze_v12.png"  class="preview_large" style="width: 240px; height: 180px"></a><br/></div><div><div><p>Druckbar mit <a rel="nofollow" href="https://www.amazon.com/ANYCUBIC-Photocuring-Monochrome-Off-line-Printing/dp/B08Q394GQ1?dchild=1&amp;keywords=photon&amp;qid=1617126624&amp;sr=8-3&amp;linkCode=ll1&amp;tag=tv-nothing-20&amp;linkId=bf56b1e55751634fd84c577f300c3e86&amp;language=en_US&amp;ref_=as_li_ss_tl"> Anycubic</a> <a rel="nofollow" href="https://www.amazon.com/ANYCUBIC-Photocuring-Monochrome-Off-line-Printing/dp/B08Q394GQ1?dchild=1&amp;keywords=photon&amp;qid=1617126624&amp;sr=8-3&amp;linkCode=ll1&amp;tag=tv-nothing-20&amp;linkId=bf56b1e55751634fd84c577f300c3e86&amp;language=en_US&amp;ref_=as_li_ss_tl"> Photon</a> Mono</p></div></div>]]></description>
+            <author>Roemer1964</author>
+            <pubDate>Thu, 27 Jan 2022 10:08:17 +0100</pubDate>
+            <guid>https://www.thingiverse.com/thing:5219013</guid>
+            <enclosure url="https://cdn.thingiverse.com/assets/08/96/e3/ff/14/Tragkraftspritze_Einzelelemente_v1.stl" length="1615184" type="application/sla"/>
+        </item>
+        <item>
+            <title>Team Corally Steering End Link Reinforcement</title>
+            <link>https://www.thingiverse.com/thing:5219012</link>
+            <description><![CDATA[<div style="margin: 5px;"><a href="https://www.thingiverse.com/thing:5219012"><img src="https://cdn.thingiverse.com/assets/7b/15/08/0e/05/large_preview_corally-steering-end-reinforcement.png"  class="preview_large" style="width: 240px; height: 180px"></a><br/></div><div><div><p>Designed to go over the stock outer steering end. Fits snug but CA gluing it might also be beneficial. </p></div></div>]]></description>
+            <author>bisak</author>
+            <pubDate>Thu, 27 Jan 2022 10:06:15 +0100</pubDate>
+            <guid>https://www.thingiverse.com/thing:5219012</guid>
+            <enclosure url="https://cdn.thingiverse.com/assets/20/42/37/b8/73/corally-steering-end-reinforcement.stl" length="1160384" type="application/sla"/>
+        </item>
+        <item>
+            <title>H0 Stromerzeuger</title>
+            <link>https://www.thingiverse.com/thing:5219011</link>
+            <description><![CDATA[<div style="margin: 5px;"><a href="https://www.thingiverse.com/thing:5219011"><img src="https://cdn.thingiverse.com/assets/bc/c2/3d/ad/ef/large_preview_Stromerzeuger_v1.png"  class="preview_large" style="width: 240px; height: 180px"></a><br/></div><div><div><p>Druckbar mit <a rel="nofollow" href="https://www.amazon.com/ANYCUBIC-Photocuring-Monochrome-Off-line-Printing/dp/B08Q394GQ1?dchild=1&amp;keywords=photon&amp;qid=1617126624&amp;sr=8-3&amp;linkCode=ll1&amp;tag=tv-nothing-20&amp;linkId=bf56b1e55751634fd84c577f300c3e86&amp;language=en_US&amp;ref_=as_li_ss_tl"> Anycubic</a> <a rel="nofollow" href="https://www.amazon.com/ANYCUBIC-Photocuring-Monochrome-Off-line-Printing/dp/B08Q394GQ1?dchild=1&amp;keywords=photon&amp;qid=1617126624&amp;sr=8-3&amp;linkCode=ll1&amp;tag=tv-nothing-20&amp;linkId=bf56b1e55751634fd84c577f300c3e86&amp;language=en_US&amp;ref_=as_li_ss_tl"> Photon</a> Mono</p></div></div>]]></description>
+            <author>Roemer1964</author>
+            <pubDate>Thu, 27 Jan 2022 10:06:07 +0100</pubDate>
+            <guid>https://www.thingiverse.com/thing:5219011</guid>
+            <enclosure url="https://cdn.thingiverse.com/assets/14/7b/de/57/fc/Stromerzeuger_v1.stl" length="174284" type="application/sla"/>
+        </item>
+    </channel>
+</rss>

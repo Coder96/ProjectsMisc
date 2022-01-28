@@ -17,10 +17,10 @@ translate([0,0,0]){
   } //end union 
 	 translate([0,0,h2]) cube([20,20,h+0.01],center=true);			
 				
-		color("DeepPink")translate([-15,-15,h2]) rotate ([0,0,0]) fillet_e(h,3,1,fn);
-		color("Yellow")translate([  0,-15,h]) rotate ([0,90,0]) fillet_e(30,3,1,fn);
+		color("DeepPink")     translate([-15,-15,h2]) rotate([0,0,0])   fillet_e(h,3,1,fn);
+		color("Yellow")       translate([  0,-15,h]) rotate ([0,90,0])  fillet_e(30,3,1,fn);
 		color("DarkGoldenrod")translate([-15,  0,h]) rotate ([-90,0,0]) fillet_e(30,3,1,fn);
-		color("SpringGreen")translate([-15,-15,h]) rotate ([0,0,0]) fillet_c(3,fn);
+		color("SpringGreen")  translate([-15,-15,h]) rotate ([0,0,0])   fillet_c(3,fn);
 		
 		color("DarkOrange")translate([ 15, 15,h2]) rotate ([0,0,180]) chamfer_e(h,3,1);
 		color("Fuchsia")translate([  0, 15,h]) rotate ([0,90,180]) chamfer_e(30,3,1);

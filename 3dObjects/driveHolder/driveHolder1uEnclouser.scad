@@ -1,7 +1,7 @@
 $fn=30;
 
 use <../honeycomb_mesh.scad>;
-use <../library.scad>;
+use <../../scadLib/library.scad>;
 
 
 hdWidth = 70;

@@ -1,0 +1,326 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!-- generator="FeedCreator 1.7.2-ppt (info@mypapit.net)" -->
+<rss version="2.0">
+    <channel>
+        <title>Thingiverse - Newest Things</title>
+        <description><![CDATA[The newest and coolest things from Thingiverse.com]]></description>
+        <link>https://www.thingiverse.com/newest</link>
+        <lastBuildDate>Thu, 27 Jan 2022 13:40:03 +0100</lastBuildDate>
+        <generator>FeedCreator 1.7.2-ppt (info@mypapit.net)</generator>
+        <language>en-us</language>
+        <copyright>Copyright 2022, Thingiverse.com</copyright>
+        <item>
+            <title>Hermit Adapter for Ender6</title>
+            <link>https://www.thingiverse.com/thing:5219183</link>
+            <description><![CDATA[<div><p>This is the early stages of me trying to get an adapter working for Hermit crab quick change and the ender 6. </p></div>]]></description>
+            <author>flukethought</author>
+            <pubDate>Thu, 27 Jan 2022 13:39:44 +0100</pubDate>
+            <guid>https://www.thingiverse.com/thing:5219183</guid>
+            <enclosure url="https://cdn.thingiverse.com/assets/1c/e9/96/a7/52/Body1attempt2.stl" length="227284" type="application/sla"/>
+        </item>
+        <item>
+            <title>Cup Organizer </title>
+            <link>https://www.thingiverse.com/thing:5219179</link>
+            <description><![CDATA[<div style="margin: 5px;"><a href="https://www.thingiverse.com/thing:5219179"><img src="https://cdn.thingiverse.com/assets/ed/5a/ac/d6/22/large_preview_cup_stacker_link_50.png"  class="preview_large" style="width: 240px; height: 180px"></a><br/></div><div><div><p>This is an organizer that is designed to organize two cups in a vertical position.<br>
+Cups like coffee mugs are not easy to organize since they have handles. Or some other cups with special shape also leads to the same problem.</p>
+<p>The first thing that came to my mind is a round disk in which both sides could hold the cup's open edge. However, it may not able to fit in cups with different diameters.  Then I tried to find some solution with more versatility.</p>
+<p>I need to find some mechanism that could change its dimension in one direction by a motion in the other direction. Then the four-bar linkage mechanism came to my mind. Thus this organizer comes out with the combination of three sets of four-bar linkage mechanisms.</p>
+<p>The plates of the organizer come in two different shapes. Besides, the dimensions of the shaft and holes may vary from different printing setups, some adjustments may need to be done to make the shaft and hole fit.  In order to keep the axial position of the parts, it's better to keep the texture of the 3D printed shaft and holes.</p></div></div>]]></description>
+            <author>winfordew</author>
+            <pubDate>Thu, 27 Jan 2022 13:39:00 +0100</pubDate>
+            <guid>https://www.thingiverse.com/thing:5219179</guid>
+            <enclosure url="https://cdn.thingiverse.com/assets/f8/50/f3/74/ca/cup_stacker_plate_base_round.STL" length="25784" type="application/sla"/>
+        </item>
+        <item>
+            <title>Gloomhaven JOTL token basket</title>
+            <link>https://www.thingiverse.com/thing:5219180</link>
+            <description><![CDATA[<div style="margin: 5px;"><a href="https://www.thingiverse.com/thing:5219180"><img src="https://cdn.thingiverse.com/assets/4a/90/2a/da/35/large_preview_GHJOTL_bakje_tm_6.png"  class="preview_large" style="width: 240px; height: 180px"></a><br/></div><div><div><p>Basket to hold the damage tokens for Gloomhaven Jaws of the Lion. As the pictures show, the monster card and monster devider thing slide inside the basket. The little edges make sure that the tokens don't get mixed up. Besides that, there is a little bit of extra space around the monster card to fit a larger amount of tokens and muddle/strengthen/poison things. </p>
+<p>I designed a basket for 6 and 10 monsters. Make sure to print it flat and use supports. Also make sure to remove all the supports with a scraper or something otherwise the monster card will not fit perfectly.</p>
+<p>In the picture not all supports we removed yet, therefore it is not all fitting correctly. </p>
+<p>I printed this in black PETG but PLA would also work fine.</p></div></div>]]></description>
+            <author>Olivier2001</author>
+            <pubDate>Thu, 27 Jan 2022 13:38:56 +0100</pubDate>
+            <guid>https://www.thingiverse.com/thing:5219180</guid>
+            <enclosure url="https://cdn.thingiverse.com/assets/e1/e0/50/22/ea/GHJOTL_bakje_tm_6.STL" length="28284" type="application/sla"/>
+        </item>
+        <item>
+            <title>Lost Cities Insert</title>
+            <link>https://www.thingiverse.com/thing:5219176</link>
+            <description><![CDATA[<div style="margin: 5px;"><a href="https://www.thingiverse.com/thing:5219176"><img src="https://cdn.thingiverse.com/assets/c9/a0/a7/72/cd/large_preview_LostCities_Insert_v0.png"  class="preview_large" style="width: 240px; height: 180px"></a><br/></div><div><div><p>Fits Sleeved cards and is flush with the box lid.</p></div></div>]]></description>
+            <author>RogalDorn1523</author>
+            <pubDate>Thu, 27 Jan 2022 13:37:28 +0100</pubDate>
+            <guid>https://www.thingiverse.com/thing:5219176</guid>
+            <enclosure url="https://cdn.thingiverse.com/assets/9b/72/35/81/17/LostCities_Insert_v0.stl" length="163084" type="application/sla"/>
+        </item>
+        <item>
+            <title>Raspberry Pi holder - VESA 100x100</title>
+            <link>https://www.thingiverse.com/thing:5219174</link>
+            <description><![CDATA[<div style="margin: 5px;"><a href="https://www.thingiverse.com/thing:5219174"><img src="https://cdn.thingiverse.com/assets/ac/e8/f4/19/af/large_preview_Pi_Holder_VESA.png"  class="preview_large" style="width: 240px; height: 180px"></a><br/></div><div><div><p>Easy Raspberry Pi holder for VESA 100x100 mount</p></div></div>]]></description>
+            <author>blahab</author>
+            <pubDate>Thu, 27 Jan 2022 13:34:40 +0100</pubDate>
+            <guid>https://www.thingiverse.com/thing:5219174</guid>
+            <enclosure url="https://cdn.thingiverse.com/assets/58/d0/e9/99/3a/Pi_Holder_VESA.stl" length="284584" type="application/sla"/>
+        </item>
+        <item>
+            <title>Flamingo</title>
+            <link>https://www.thingiverse.com/thing:5219171</link>
+            <description><![CDATA[<div style="margin: 5px;"><a href="https://www.thingiverse.com/thing:5219171"><img src="https://cdn.thingiverse.com/assets/49/fa/65/11/42/large_preview_neckchild.png"  class="preview_large" style="width: 240px; height: 180px"></a><br/></div><div><div><p>Flamingo</p></div></div>]]></description>
+            <author>zacharymiller104</author>
+            <pubDate>Thu, 27 Jan 2022 13:31:31 +0100</pubDate>
+            <guid>https://www.thingiverse.com/thing:5219171</guid>
+            <enclosure url="https://cdn.thingiverse.com/assets/43/0f/e5/8f/62/neckchild.stl" length="216084" type="application/sla"/>
+        </item>
+        <item>
+            <title>Customizeble Battery Organizer</title>
+            <link>https://www.thingiverse.com/thing:5219166</link>
+            <description><![CDATA[<div style="margin: 5px;"><a href="https://www.thingiverse.com/thing:5219166"><img src="https://cdn.thingiverse.com/assets/88/47/ca/3b/a6/large_preview_BatteryOrganizer.scad__OpenSCAD_047.png"  class="preview_large" style="width: 240px; height: 180px"></a><br/></div><div><div><p>Battery organizer - can customize number of rows/columns, size of battery</p></div></div>]]></description>
+            <author>dlbain</author>
+            <pubDate>Thu, 27 Jan 2022 13:28:09 +0100</pubDate>
+            <guid>https://www.thingiverse.com/thing:5219166</guid>
+            <enclosure url="https://cdn.thingiverse.com/assets/49/ed/dc/6e/06/BatteryOrganizer.scad" length="510" type="application/octet-stream"/>
+        </item>
+        <item>
+            <title>Filament Spool Ruler | FilRight-1kg-1.75mm-PLA</title>
+            <link>https://www.thingiverse.com/thing:5219161</link>
+            <description><![CDATA[<div><p>How much filament is left on the spool?<br>
+With this ruler you get a rough estimation.</p>
+<p>Proven to work with FilRight-1kg-1.75mm-PLA filament spools.<br>
+Not sure if it works with other brands.<br>
+The dimensions of the spool are incorporated in the scale. </p></div>]]></description>
+            <author>3D_Chris66</author>
+            <pubDate>Thu, 27 Jan 2022 13:26:32 +0100</pubDate>
+            <guid>https://www.thingiverse.com/thing:5219161</guid>
+            <enclosure url="https://cdn.thingiverse.com/assets/92/a1/49/4c/3d/Spool_Ruler-FilRight-1kg-1.75mm-PLA.stl" length="2754684" type="application/sla"/>
+        </item>
+        <item>
+            <title>	Remixed X axis cable chain tray for Ender 5 Plus with linear rails</title>
+            <link>https://www.thingiverse.com/thing:5219159</link>
+            <description><![CDATA[<div style="margin: 5px;"><a href="https://www.thingiverse.com/thing:5219159"><img src="https://cdn.thingiverse.com/assets/92/41/09/2c/8e/large_preview_Remixed_X_axis_cable_chain_tray_for_Ender_5_Plus_with_linear_rails.png"  class="preview_large" style="width: 240px; height: 180px"></a><br/></div><div><div><p>This remix mounts from the bottom in the middle for better support and removes a piece that protruded into the path of the mgn12 carriage.</p></div></div>]]></description>
+            <author>cpfarhood</author>
+            <pubDate>Thu, 27 Jan 2022 13:23:22 +0100</pubDate>
+            <guid>https://www.thingiverse.com/thing:5219159</guid>
+            <enclosure url="https://cdn.thingiverse.com/assets/5e/af/36/2f/ed/Remixed_X_axis_cable_chain_tray_for_Ender_5_Plus_with_linear_rails.stl" length="29484" type="application/sla"/>
+        </item>
+        <item>
+            <title>Cover Webcam Notebook</title>
+            <link>https://www.thingiverse.com/thing:5219158</link>
+            <description><![CDATA[<div style="margin: 5px;"><a href="https://www.thingiverse.com/thing:5219158"><img src="https://cdn.thingiverse.com/assets/c8/db/0b/31/3c/large_preview_Cover_v1.1.png"  class="preview_large" style="width: 240px; height: 180px"></a><br/></div><div><div><p>This is a minimalist cover of the webcam. </p>
+<p>It was designed for the notebook HP Elitebook.</p></div></div>]]></description>
+            <author>MATRIX2006</author>
+            <pubDate>Thu, 27 Jan 2022 13:21:52 +0100</pubDate>
+            <guid>https://www.thingiverse.com/thing:5219158</guid>
+            <enclosure url="https://cdn.thingiverse.com/assets/0d/0b/02/b1/6f/Cover_v1.1.stl" length="29684" type="application/sla"/>
+        </item>
+        <item>
+            <title>Ender 3 Max PSU Cover Replacement for Noctua Fan Upgrade</title>
+            <link>https://www.thingiverse.com/thing:5219157</link>
+            <description><![CDATA[<div style="margin: 5px;"><a href="https://www.thingiverse.com/thing:5219157"><img src="https://cdn.thingiverse.com/assets/ae/e3/a3/36/69/large_preview_Top.png"  class="preview_large" style="width: 240px; height: 180px"></a><br/></div><div><div><p>This PSU cover increases the depth of the PSU to allow for the installation of a Noctua NF-A6x25.</p>
+<p>The cover is split into two parts to make it easier to print while still allowing the original bottom panel to fit over the PSU case.</p>
+<p>I friction welded the two parts together for added rigidity but you could also use any adhesive like superglue or 3DGloop to hold them together.</p>
+<p>It uses the original screws and mounts back onto the PSU just like the OEM part.</p></div></div>]]></description>
+            <author>malick_e</author>
+            <pubDate>Thu, 27 Jan 2022 13:20:29 +0100</pubDate>
+            <guid>https://www.thingiverse.com/thing:5219157</guid>
+            <enclosure url="https://cdn.thingiverse.com/assets/ae/d2/6b/da/39/Bottom.stl" length="75884" type="application/sla"/>
+        </item>
+        <item>
+            <title>LM2596 HOLDER V2</title>
+            <link>https://www.thingiverse.com/thing:5219155</link>
+            <description><![CDATA[<div style="margin: 5px;"><a href="https://www.thingiverse.com/thing:5219155"><img src="https://cdn.thingiverse.com/assets/98/cf/f6/bd/78/large_preview_01.jpeg"  class="preview_large" style="width: 240px; height: 180px"></a><br/></div><div><div><p>This is a robust LM2596 module casing. Module and cover are fixed with common self-tapping screw 3x10mm you can find them in any store. Cables are locked by cover and common zip ties. This casing allow module to be securely wall mounted with four 4mm holes or double sided tape in the flat back. Print can be done with any resolution and use two small support for zip ties holes. It's really easy to remove. </p></div></div>]]></description>
+            <author>rom1nux</author>
+            <pubDate>Thu, 27 Jan 2022 13:17:19 +0100</pubDate>
+            <guid>https://www.thingiverse.com/thing:5219155</guid>
+            <enclosure url="https://cdn.thingiverse.com/assets/5b/cb/e5/d3/07/LM2596-HOLDER-V2.f3d" length="406689" type="application/octet-stream"/>
+        </item>
+        <item>
+            <title>Ski Helmet Mask (Medical/FFP2) Holder</title>
+            <link>https://www.thingiverse.com/thing:5219152</link>
+            <description><![CDATA[<div style="margin: 5px;"><a href="https://www.thingiverse.com/thing:5219152"><img src="https://cdn.thingiverse.com/assets/a3/43/b0/c9/78/large_preview_render1.png"  class="preview_large" style="width: 240px; height: 180px"></a><br/></div><div><div><p>Medical or FFP2 Mask holder for ski helmets. </p></div></div>]]></description>
+            <author>MakerDuck77</author>
+            <pubDate>Thu, 27 Jan 2022 13:12:04 +0100</pubDate>
+            <guid>https://www.thingiverse.com/thing:5219152</guid>
+            <enclosure url="https://cdn.thingiverse.com/assets/53/ad/55/5d/28/skimaskholder_R.stl" length="695884" type="application/sla"/>
+        </item>
+        <item>
+            <title>UDL M1887 Winchester Shell Adapter</title>
+            <link>https://www.thingiverse.com/thing:5219150</link>
+            <description><![CDATA[<div style="margin: 5px;"><a href="https://www.thingiverse.com/thing:5219150"><img src="https://cdn.thingiverse.com/assets/0c/30/20/45/a2/large_preview_Shell_Adapter.png"  class="preview_large" style="width: 240px; height: 180px"></a><br/></div><div><div><p>This is an adapter for UDL M1887 Winchester Shell nerf toy.<br>
+Inner part needs sanding after printing<br><strong>You HAVE to sand the primer rim</strong> (the part of it that looks in your direction when you load the shell) to break the angle and create a curve - it will NOT LOAD if you don't </p></div></div>]]></description>
+            <author>neur0mancer</author>
+            <pubDate>Thu, 27 Jan 2022 13:09:45 +0100</pubDate>
+            <guid>https://www.thingiverse.com/thing:5219150</guid>
+            <enclosure url="https://cdn.thingiverse.com/assets/37/bf/1b/d7/1c/Shell_Adapter.stl" length="432984" type="application/sla"/>
+        </item>
+        <item>
+            <title>Tea Bag Holder with Tray</title>
+            <link>https://www.thingiverse.com/thing:5219147</link>
+            <description><![CDATA[<div style="margin: 5px;"><a href="https://www.thingiverse.com/thing:5219147"><img src="https://cdn.thingiverse.com/assets/6b/30/d4/b4/b6/large_preview_20220127_125704_13.10.06.jpg"  class="preview_large" style="width: 240px; height: 180px"></a><br/></div><div><div><p>Two containers to hold and display teabags, with tabs to help hold the teabags up, and a nice tray to keep them together.</p></div></div>]]></description>
+            <author>malick_e</author>
+            <pubDate>Thu, 27 Jan 2022 13:07:54 +0100</pubDate>
+            <guid>https://www.thingiverse.com/thing:5219147</guid>
+            <enclosure url="https://cdn.thingiverse.com/assets/d0/72/2f/8d/eb/Tray.stl" length="167084" type="application/sla"/>
+        </item>
+        <item>
+            <title>Killa Kan / Deff Dread Arms</title>
+            <link>https://www.thingiverse.com/thing:5219143</link>
+            <description><![CDATA[<div style="margin: 5px;"><a href="https://www.thingiverse.com/thing:5219143"><img src="https://cdn.thingiverse.com/assets/a3/e0/c0/f3/8a/large_preview_DreadClaw_Arm_1.png"  class="preview_large" style="width: 240px; height: 180px"></a><br/></div><div><div><p>Tried to create my first model which is 100% self designed with CAD software only.<br>
+Arms should be usable for Killa Kans and Deff Dreads</p></div></div>]]></description>
+            <author>TheSmoerebroet</author>
+            <pubDate>Thu, 27 Jan 2022 13:07:14 +0100</pubDate>
+            <guid>https://www.thingiverse.com/thing:5219143</guid>
+            <enclosure url="https://cdn.thingiverse.com/assets/5f/5c/2a/e3/be/DreadClaw_Arm_1.stl" length="1136384" type="application/sla"/>
+        </item>
+        <item>
+            <title>House with L</title>
+            <link>https://www.thingiverse.com/thing:5219146</link>
+            <description><![CDATA[<div style="margin: 5px;"><a href="https://www.thingiverse.com/thing:5219146"><img src="https://cdn.thingiverse.com/assets/df/e3/7c/3f/70/large_preview_dutch_orange_-_0_-_grandioses_Wosotdee.png"  class="preview_large" style="width: 240px; height: 180px"></a><br/></div><div><div><p>This is a test house</p></div></div>]]></description>
+            <author>Bonkel89</author>
+            <pubDate>Thu, 27 Jan 2022 13:06:50 +0100</pubDate>
+            <guid>https://www.thingiverse.com/thing:5219146</guid>
+            <enclosure url="https://cdn.thingiverse.com/assets/fb/06/9d/0f/61/dutch_orange_-_0_-_grandioses_Wosotdee.stl" length="25884" type="application/sla"/>
+        </item>
+        <item>
+            <title>Fan Duct remix 10mm Lower</title>
+            <link>https://www.thingiverse.com/thing:5219145</link>
+            <description><![CDATA[<div style="margin: 5px;"><a href="https://www.thingiverse.com/thing:5219145"><img src="https://cdn.thingiverse.com/assets/eb/19/07/3e/2f/large_preview_fan_duct_edit_new.png"  class="preview_large" style="width: 240px; height: 180px"></a><br/></div><div><div><p>Remixed so it sits 10mm lower, as the original sat to high up and was hitting the heat block.</p></div></div>]]></description>
+            <author>steve1987113</author>
+            <pubDate>Thu, 27 Jan 2022 13:05:23 +0100</pubDate>
+            <guid>https://www.thingiverse.com/thing:5219145</guid>
+            <enclosure url="https://cdn.thingiverse.com/assets/2a/18/52/e1/eb/fan_duct_edit_new.stl" length="302484" type="application/sla"/>
+        </item>
+        <item>
+            <title>Smashers Reassembly Tool</title>
+            <link>https://www.thingiverse.com/thing:5219142</link>
+            <description><![CDATA[<div style="margin: 5px;"><a href="https://www.thingiverse.com/thing:5219142"><img src="https://cdn.thingiverse.com/assets/a2/e8/a3/ab/53/large_preview_Smashers_Reassembly_Tool.png"  class="preview_large" style="width: 240px; height: 180px"></a><br/></div><div><div><p>This is an assembly helper for Smasher's.  Smasher's are balls that break apart when thrown.  It can be tricky to reassemble them -- especially for little hands.  This assembly tool helped my son putting the Smasher's back together.</p></div></div>]]></description>
+            <author>Nibbelodean</author>
+            <pubDate>Thu, 27 Jan 2022 12:57:36 +0100</pubDate>
+            <guid>https://www.thingiverse.com/thing:5219142</guid>
+            <enclosure url="https://cdn.thingiverse.com/assets/6f/a1/9d/5f/9e/Smashers_Reassembly_Tool.stl" length="128484" type="application/sla"/>
+        </item>
+        <item>
+            <title>Weirboy Staff</title>
+            <link>https://www.thingiverse.com/thing:5219138</link>
+            <description><![CDATA[<div style="margin: 5px;"><a href="https://www.thingiverse.com/thing:5219138"><img src="https://cdn.thingiverse.com/assets/af/17/5b/ff/aa/large_preview_Weirdboy_Staff_Final.png"  class="preview_large" style="width: 240px; height: 180px"></a><br/></div><div><div><p>Got bored, tried to remix a weirdboy and created this staff for it.<br>
+Happy 'eadbangin prevention!</p></div></div>]]></description>
+            <author>TheSmoerebroet</author>
+            <pubDate>Thu, 27 Jan 2022 12:53:50 +0100</pubDate>
+            <guid>https://www.thingiverse.com/thing:5219138</guid>
+            <enclosure url="https://cdn.thingiverse.com/assets/94/86/aa/14/89/Weirdboy_Staff_Final.stl" length="988684" type="application/sla"/>
+        </item>
+        <item>
+            <title>Reely Freemen 2.0 - Roof Visor</title>
+            <link>https://www.thingiverse.com/thing:5216600</link>
+            <description><![CDATA[<div style="margin: 5px;"><a href="https://www.thingiverse.com/thing:5216600"><img src="https://cdn.thingiverse.com/assets/c4/96/ba/c7/2b/large_preview_Mracitko_V4_M2_toprint.png"  class="preview_large" style="width: 240px; height: 180px"></a><br/></div><div><div><p>Roof Visor for Reely Freemen 2.0</p>
+<p>Printable without supports.<br>
+You will need:<br>
+double-sized tape or 3 screws M2x4mm with washers for fix it<br>
+10x LED 3mm</p></div></div>]]></description>
+            <author>Kubiczech81</author>
+            <pubDate>Thu, 27 Jan 2022 12:50:05 +0100</pubDate>
+            <guid>https://www.thingiverse.com/thing:5216600</guid>
+            <enclosure url="https://cdn.thingiverse.com/assets/c3/1e/d9/e5/71/Mracitko_V4_M2_toprint.stl" length="78884" type="application/sla"/>
+        </item>
+        <item>
+            <title>Switch Hobbytech Rogue Terra </title>
+            <link>https://www.thingiverse.com/thing:5219136</link>
+            <description><![CDATA[<div style="margin: 5px;"><a href="https://www.thingiverse.com/thing:5219136"><img src="https://cdn.thingiverse.com/assets/85/9d/3f/77/8a/large_preview_BP_RogueTerra_Final.png"  class="preview_large" style="width: 240px; height: 180px"></a><br/></div><div><div><p>A switch to turn on and off the rogue Terra, without removing the bodyshell.</p></div></div>]]></description>
+            <author>Dreed34</author>
+            <pubDate>Thu, 27 Jan 2022 12:49:33 +0100</pubDate>
+            <guid>https://www.thingiverse.com/thing:5219136</guid>
+            <enclosure url="https://cdn.thingiverse.com/assets/5d/a4/42/77/f1/BP_RogueTerra_Final.stl" length="33984" type="application/sla"/>
+        </item>
+        <item>
+            <title>Hemera Mount for Ender3 Pro with cable management</title>
+            <link>https://www.thingiverse.com/thing:5219134</link>
+            <description><![CDATA[<div style="margin: 5px;"><a href="https://www.thingiverse.com/thing:5219134"><img src="https://cdn.thingiverse.com/assets/1a/a9/25/b8/20/large_preview_hemera_mount.png"  class="preview_large" style="width: 240px; height: 180px"></a><br/></div><div><div><p>The original design works great even if only has 3 screws I didn't have any problem with it. This remix adds a simple cable management canal with some grooves for cable ties.</p>
+<p>Print without supports like the original.</p></div></div>]]></description>
+            <author>academo</author>
+            <pubDate>Thu, 27 Jan 2022 12:45:57 +0100</pubDate>
+            <guid>https://www.thingiverse.com/thing:5219134</guid>
+            <enclosure url="https://cdn.thingiverse.com/assets/3a/c6/6c/c4/37/hemera_mount.stl" length="419434" type="application/sla"/>
+        </item>
+        <item>
+            <title>Paper Eject Spool for HP M15w</title>
+            <link>https://www.thingiverse.com/thing:5219130</link>
+            <description><![CDATA[<div style="margin: 5px;"><a href="https://www.thingiverse.com/thing:5219130"><img src="https://cdn.thingiverse.com/assets/dd/2f/4b/37/bf/large_preview_HP_M15w_paper_eject_spool_replacement.png"  class="preview_large" style="width: 240px; height: 180px"></a><br/></div><div><div><p>This spool is a replacement for the paper eject spool in M15w printer from HP.  Mine broke, so I designed this one.  It looks like the original, but could probably be less complex on second thought.</p></div></div>]]></description>
+            <author>Nibbelodean</author>
+            <pubDate>Thu, 27 Jan 2022 12:43:07 +0100</pubDate>
+            <guid>https://www.thingiverse.com/thing:5219130</guid>
+            <enclosure url="https://cdn.thingiverse.com/assets/18/3b/a8/a9/dc/HP_M15w_paper_eject_spool_replacement.stl" length="334384" type="application/sla"/>
+        </item>
+        <item>
+            <title>Work Rezax Hex Tool 17&quot;/18&quot;</title>
+            <link>https://www.thingiverse.com/thing:5219132</link>
+            <description><![CDATA[<div style="margin: 5px;"><a href="https://www.thingiverse.com/thing:5219132"><img src="https://cdn.thingiverse.com/assets/6b/fa/ad/2b/6b/large_preview_Rezax_Hex_Tool.png"  class="preview_large" style="width: 240px; height: 180px"></a><br/></div><div><div><p>Hi,</p>
+<p>This is a quick hex tool I drew up in order to screw down properly the hex cap on work rezax rims as they have a tendency to come loose.<br>
+There's a small pry bar on the end to help lift up the waffle upon removal.</p>
+<p>Infill should be at least 20% but no more than 40% (although it's up to you), would much rather the tool break than the threads on the hex strip.</p>
+<p>This works on both 17'' and 18'' hex caps both tall and short.</p>
+<p>Designed to be printed without supports.</p>
+<p>Let me know if there's anything that needs to be edited.<br>
+Step files available for editing.</p>
+<p>Thanks.</p></div></div>]]></description>
+            <author>ICEBLOCK</author>
+            <pubDate>Thu, 27 Jan 2022 12:43:06 +0100</pubDate>
+            <guid>https://www.thingiverse.com/thing:5219132</guid>
+            <enclosure url="https://cdn.thingiverse.com/assets/8b/99/30/8a/c7/Rezax_Hex_Tool.stl" length="9530284" type="application/sla"/>
+        </item>
+        <item>
+            <title>Proxxon Micromot 12V tools socket / plug for panel mount</title>
+            <link>https://www.thingiverse.com/thing:5219127</link>
+            <description><![CDATA[<div style="margin: 5px;"><a href="https://www.thingiverse.com/thing:5219127"><img src="https://cdn.thingiverse.com/assets/c2/62/53/f8/87/large_preview_proxxon_plug_plug_top.png"  class="preview_large" style="width: 240px; height: 180px"></a><br/></div><div><div><p>This is a plug shell for Proxxon Micromot series of tools, which operate on 12V power.</p>
+<p>It has 2 halves which bolt together (4mm bolt fits in the hole), and for contacts, it uses butt connectors (without the plastic sleeve), similiar to <a rel="nofollow" href="/thing:3437152">https://www.thingiverse.com/thing:3437152</a></p>
+<p>The butt connectors should be solid all the way around (so not have a split to help crush them), and be a tight fit around the tools plugs poles.</p>
+<p>I used butt connectors called "VT STV-B Butt connector, 1.5 - 2.5 mm&sup2;", bough from here: <a rel="nofollow" href="https://www.reichelt.com/de/en/butt-connector-1-5-2-5-mm-blue-vt-stv-b-p231400.html">https://www.reichelt.com/de/en/butt-connector-1-5-2-5-mm-blue-vt-stv-b-p231400.html</a>, however, there must be similiar connectors available elsewhere too, you might want to test others before ordering those if you find the shipping expensive.</p>
+<p>The plug is designed to slide into a slot in a panel. I have however included the .blend file as well if you want to edit this more easily.</p></div></div>]]></description>
+            <author>Okxa</author>
+            <pubDate>Thu, 27 Jan 2022 12:36:35 +0100</pubDate>
+            <guid>https://www.thingiverse.com/thing:5219127</guid>
+            <enclosure url="https://cdn.thingiverse.com/assets/66/4e/ef/9a/b9/proxxon_plug_plug_top.stl" length="67284" type="application/sla"/>
+        </item>
+        <item>
+            <title>Hotend adapter Creality CR6 SE to CR 10 / ENDER 3</title>
+            <link>https://www.thingiverse.com/thing:5219126</link>
+            <description><![CDATA[<div style="margin: 5px;"><a href="https://www.thingiverse.com/thing:5219126"><img src="https://cdn.thingiverse.com/assets/a5/d7/ae/73/5c/large_preview_cr10tocr6V2.png"  class="preview_large" style="width: 240px; height: 180px"></a><br/></div><div><div><p>Due to the low availability of spare parts for CR6 i decided to make myself an adapter for hotend that i can mount hotend from creality cr 10. I have never done such things so process was very long and the result is awful, but it works! Works really well, my printer is making much better prints than before. </p>
+<p>Dont do supports inside screw holes! </p>
+<p>There are holes to mount a fan, but i found it works better when i mount fan on the hotend case.</p>
+<p>I printed it using standard PLA, with ABS, adapter for sure will last much longer :) </p>
+<p>Fell free to improve this model, he really needs this!</p>
+<p>I used 0.4mm nozzle, i dont know if holes for screws dont gonna be to big with smaller nozzles. </p></div></div>]]></description>
+            <author>sebiczanski</author>
+            <pubDate>Thu, 27 Jan 2022 12:34:19 +0100</pubDate>
+            <guid>https://www.thingiverse.com/thing:5219126</guid>
+            <enclosure url="https://cdn.thingiverse.com/assets/64/19/0b/0d/4e/cr10tocr6V2.stl" length="2843584" type="application/sla"/>
+        </item>
+        <item>
+            <title>Amplifier extention foot, Verstärker Fuß</title>
+            <link>https://www.thingiverse.com/thing:4980960</link>
+            <description><![CDATA[<div style="margin: 5px;"><a href="https://www.thingiverse.com/thing:4980960"><img src="https://cdn.thingiverse.com/assets/16/5d/47/07/c0/large_preview_Verst%C3%A4rker_F%C3%BC%C3%9Fe.png"  class="preview_large" style="width: 240px; height: 180px"></a><br/></div><div><div><p>My amplifier does not fit into the new shelf. So I had to make it stand higher.<br>
+The foot contains of two parts a hard PLA or PETG foot and a TPA ring to avoid scratches.<br>
+The two parts will click into each other easily. </p></div></div>]]></description>
+            <author>molodeztom</author>
+            <pubDate>Thu, 27 Jan 2022 12:32:26 +0100</pubDate>
+            <guid>https://www.thingiverse.com/thing:4980960</guid>
+            <enclosure url="https://cdn.thingiverse.com/assets/c0/fc/6c/88/8f/Verst%C3%A4rkerGummiringV9.stl" length="254984" type="application/sla"/>
+        </item>
+        <item>
+            <title>OttoDIYBodyMatrix</title>
+            <link>https://www.thingiverse.com/thing:5219125</link>
+            <description><![CDATA[<div style="margin: 5px;"><a href="https://www.thingiverse.com/thing:5219125"><img src="https://cdn.thingiverse.com/assets/e9/e6/08/d5/cf/large_preview_OttoDIYbodyMatrix.png"  class="preview_large" style="width: 240px; height: 180px"></a><br/></div><div><div><p>buiit-in 8x8LEDMatrix</p></div></div>]]></description>
+            <author>1200VFR</author>
+            <pubDate>Thu, 27 Jan 2022 12:32:19 +0100</pubDate>
+            <guid>https://www.thingiverse.com/thing:5219125</guid>
+            <enclosure url="https://cdn.thingiverse.com/assets/7e/1f/b9/63/0f/OttoDIYbodyMatrix.stl" length="489284" type="application/sla"/>
+        </item>
+        <item>
+            <title>Laser cut switch display stand</title>
+            <link>https://www.thingiverse.com/thing:5219124</link>
+            <description><![CDATA[<div><p>laser cut switch display for games.<br>
+3mm clear acrylic</p></div>]]></description>
+            <author>phana007</author>
+            <pubDate>Thu, 27 Jan 2022 12:31:26 +0100</pubDate>
+            <guid>https://www.thingiverse.com/thing:5219124</guid>
+            <enclosure url="https://cdn.thingiverse.com/assets/a2/15/08/16/f0/switch_display.svg" length="3445" type="image/svg+xml"/>
+        </item>
+    </channel>
+</rss>

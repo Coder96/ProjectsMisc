@@ -1,0 +1,400 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!-- generator="FeedCreator 1.7.2-ppt (info@mypapit.net)" -->
+<rss version="2.0">
+    <channel>
+        <title>Thingiverse - Newest Things</title>
+        <description><![CDATA[The newest and coolest things from Thingiverse.com]]></description>
+        <link>https://www.thingiverse.com/newest</link>
+        <lastBuildDate>Fri, 28 Jan 2022 12:20:02 +0100</lastBuildDate>
+        <generator>FeedCreator 1.7.2-ppt (info@mypapit.net)</generator>
+        <language>en-us</language>
+        <copyright>Copyright 2022, Thingiverse.com</copyright>
+        <item>
+            <title>Mario piranha plant car tow hook cover</title>
+            <link>https://www.thingiverse.com/thing:5220718</link>
+            <description><![CDATA[<div style="margin: 5px;"><a href="https://www.thingiverse.com/thing:5220718"><img src="https://cdn.thingiverse.com/assets/15/3d/b4/66/22/large_preview_Dot-9-8mm.png"  class="preview_large" style="width: 240px; height: 180px"></a><br/></div><div><div><p>Print everything (leaf needs to be printed twice). Add support if needed (especially the plant body).<br>
+The Dot* files might need to scale down to 95% or 90%, depending on your printer tuning, so they would fit in the holes on the head easily.<br>
+Then glue together using some good glue (you don't want it to be a road hazard). The leaves can be heated (by heating gun or kettle) so they can be inserted more easily.</p>
+<p>Fits hook that has 5cm diameter ball, and 3cm diameter "arm". </p></div></div>]]></description>
+            <author>jerryfromearth</author>
+            <pubDate>Fri, 28 Jan 2022 12:19:42 +0100</pubDate>
+            <guid>https://www.thingiverse.com/thing:5220718</guid>
+            <enclosure url="https://cdn.thingiverse.com/assets/d5/15/d8/36/0a/Dot-6-10mm.stl" length="41284" type="application/sla"/>
+        </item>
+        <item>
+            <title>Timelapse trigger holder</title>
+            <link>https://www.thingiverse.com/thing:5220717</link>
+            <description><![CDATA[<div style="margin: 5px;"><a href="https://www.thingiverse.com/thing:5220717"><img src="https://cdn.thingiverse.com/assets/34/04/fe/6a/81/large_preview_TL_trigger_holder.png"  class="preview_large" style="width: 240px; height: 180px"></a><br/></div><div><div><p>Timelapse trigger holder for d3v-163-1c5 microswitch. </p>
+<p>I suggest using long arm version of the switch. Will be triggered at X=0, custom G-code needed for timelapse (see below).</p>
+<p>Print clip side down, as show in print bed image. Clips can (and probably will) break if not printed flat.</p>
+<p>IMPORTANT: Use Settings &gt; Move axis and make sure you have enough space on X-axis when X=0! If switch is not activated at X=0 and released at X=2, please modify coordinates at custom g-code as needed.</p>
+<p>Adjust wait times and speeds on g-code to match your equipment. Please reference Google for wiring your trigger.</p>
+<p>G-code (for reference): <a rel="nofollow" href="https://pastebin.com/zcenEVkP">https://pastebin.com/zcenEVkP</a></p></div></div>]]></description>
+            <author>OeschMe</author>
+            <pubDate>Fri, 28 Jan 2022 12:19:11 +0100</pubDate>
+            <guid>https://www.thingiverse.com/thing:5220717</guid>
+            <enclosure url="https://cdn.thingiverse.com/assets/f8/71/74/d7/80/TL_trigger_holder.stl" length="33384" type="application/sla"/>
+        </item>
+        <item>
+            <title>Ender 3v2 Micro Swiss Direct Drive Drag Chain Mount</title>
+            <link>https://www.thingiverse.com/thing:5220716</link>
+            <description><![CDATA[<div style="margin: 5px;"><a href="https://www.thingiverse.com/thing:5220716"><img src="https://cdn.thingiverse.com/assets/e2/62/26/9a/6b/large_preview_Ender_3V2_Micro_Swiss_DD_drag_chain_mount_fixed.png"  class="preview_large" style="width: 240px; height: 180px"></a><br/></div><div><div><p>Removed some extra material that was preventing the clip from properly sitting on the stepper motor. Since the motor has differing dimensions for the black vs silver sections, the original did not fit quite right.</p>
+<p>I also removed a portion of what appeared to be a zip-tie mount from the bottom at one side. This was rubbing on one of the wheels.</p></div></div>]]></description>
+            <author>steinerk</author>
+            <pubDate>Fri, 28 Jan 2022 12:18:16 +0100</pubDate>
+            <guid>https://www.thingiverse.com/thing:5220716</guid>
+            <enclosure url="https://cdn.thingiverse.com/assets/a4/87/b4/dd/eb/Ender_3V2_Micro_Swiss_DD_drag_chain_mount_fixed.stl" length="68984" type="application/sla"/>
+        </item>
+        <item>
+            <title>Adjustable feet for Voxelab Aquila</title>
+            <link>https://www.thingiverse.com/thing:5220715</link>
+            <description><![CDATA[<div style="margin: 5px;"><a href="https://www.thingiverse.com/thing:5220715"><img src="https://cdn.thingiverse.com/assets/92/59/c7/8b/80/large_preview_back_right_remix_2.png"  class="preview_large" style="width: 240px; height: 180px"></a><br/></div><div><div><p>Remix of the 2" Risers by jdlavinder, I removed 20mm of the height. They were to tall for my enclosure but I needed adjustable feet because printer had a wobble. </p></div></div>]]></description>
+            <author>Billdeaton</author>
+            <pubDate>Fri, 28 Jan 2022 12:13:06 +0100</pubDate>
+            <guid>https://www.thingiverse.com/thing:5220715</guid>
+            <enclosure url="https://cdn.thingiverse.com/assets/5e/e4/88/f2/d9/back_right_remix_2.stl" length="166184" type="application/sla"/>
+        </item>
+        <item>
+            <title>Dji Ronin SC 2 Screen/Joystick Protector</title>
+            <link>https://www.thingiverse.com/thing:5220710</link>
+            <description><![CDATA[<div style="margin: 5px;"><a href="https://www.thingiverse.com/thing:5220710"><img src="https://cdn.thingiverse.com/assets/b5/b4/a9/27/5f/large_preview_Dji_Ronin_SC_2.png"  class="preview_large" style="width: 240px; height: 180px"></a><br/></div><div><div><p>I created a screen/joystick protector for the DJI Ronin SC-2</p>
+<p>I did it because when I travel I don't want to take the hardcover box with me, with this protection I can just put it in my backpack without scratches or pressure on the stick.</p></div></div>]]></description>
+            <author>Raykombat</author>
+            <pubDate>Fri, 28 Jan 2022 12:07:36 +0100</pubDate>
+            <guid>https://www.thingiverse.com/thing:5220710</guid>
+            <enclosure url="https://cdn.thingiverse.com/assets/7f/8d/01/91/16/Dji_Ronin_SC_2.stl" length="136584" type="application/sla"/>
+        </item>
+        <item>
+            <title>Dogcom logo</title>
+            <link>https://www.thingiverse.com/thing:5220709</link>
+            <description><![CDATA[<div style="margin: 5px;"><a href="https://www.thingiverse.com/thing:5220709"><img src="https://cdn.thingiverse.com/assets/5b/2b/b8/e3/b6/large_preview_Dogcom.png"  class="preview_large" style="width: 240px; height: 180px"></a><br/></div><div><div><p>Dogcom logo</p></div></div>]]></description>
+            <author>Bonerfpv</author>
+            <pubDate>Fri, 28 Jan 2022 12:06:32 +0100</pubDate>
+            <guid>https://www.thingiverse.com/thing:5220709</guid>
+            <enclosure url="https://cdn.thingiverse.com/assets/34/db/32/70/43/Dogcom.stl" length="1655184" type="application/sla"/>
+        </item>
+        <item>
+            <title>Batteries holder Mavic Air 2s</title>
+            <link>https://www.thingiverse.com/thing:5220708</link>
+            <description><![CDATA[<div><p>Printed in PLA. Support required.</p></div>]]></description>
+            <author>Rikjahardhu</author>
+            <pubDate>Fri, 28 Jan 2022 12:06:10 +0100</pubDate>
+            <guid>https://www.thingiverse.com/thing:5220708</guid>
+            <enclosure url="https://cdn.thingiverse.com/assets/15/a2/d4/f0/a3/Soporte_bater%C3%ADas_Mavic_Air_2s.stl" length="39084" type="application/sla"/>
+        </item>
+        <item>
+            <title>Vinyl Cutter Clamp Handle</title>
+            <link>https://www.thingiverse.com/thing:5220701</link>
+            <description><![CDATA[<div style="margin: 5px;"><a href="https://www.thingiverse.com/thing:5220701"><img src="https://cdn.thingiverse.com/assets/bd/85/bd/5f/f3/large_preview_handle_1.jpg"  class="preview_large" style="width: 240px; height: 180px"></a><br/></div><div><div><p>Clamp handle to fit my ebay special Rabbit 720 Vinyl cutter</p></div></div>]]></description>
+            <author>morpheus__101</author>
+            <pubDate>Fri, 28 Jan 2022 12:04:34 +0100</pubDate>
+            <guid>https://www.thingiverse.com/thing:5220701</guid>
+            <enclosure url="https://cdn.thingiverse.com/assets/7a/e6/5c/1a/45/Vinyl_Cutter_Clamp_Handle.stl" length="262684" type="application/sla"/>
+        </item>
+        <item>
+            <title>Asus Zephyrus G14 Zenscreen adapter</title>
+            <link>https://www.thingiverse.com/thing:5220706</link>
+            <description><![CDATA[<div style="margin: 5px;"><a href="https://www.thingiverse.com/thing:5220706"><img src="https://cdn.thingiverse.com/assets/bd/49/24/06/fb/large_preview_zenscreenB.png"  class="preview_large" style="width: 240px; height: 180px"></a><br/></div><div><div><p>This thing consists of two parts that allow a 14" zenscreen to be attached to the screen of a G14 laptop. </p></div></div>]]></description>
+            <author>skynet3d</author>
+            <pubDate>Fri, 28 Jan 2022 12:04:22 +0100</pubDate>
+            <guid>https://www.thingiverse.com/thing:5220706</guid>
+            <enclosure url="https://cdn.thingiverse.com/assets/20/f4/40/40/c5/zenscreenB.stl" length="54484" type="application/sla"/>
+        </item>
+        <item>
+            <title>Remote CLAMP for 24mm handlebar (suzuki bandit)</title>
+            <link>https://www.thingiverse.com/thing:5220698</link>
+            <description><![CDATA[<div style="margin: 5px;"><a href="https://www.thingiverse.com/thing:5220698"><img src="https://cdn.thingiverse.com/assets/bf/39/24/b0/ec/large_preview_cierre_mano_m4.png"  class="preview_large" style="width: 240px; height: 180px"></a><br/></div><div><div><p>Printed in PLA. Support required. 4 screws m3 and 1 m4.</p></div></div>]]></description>
+            <author>Rikjahardhu</author>
+            <pubDate>Fri, 28 Jan 2022 12:03:21 +0100</pubDate>
+            <guid>https://www.thingiverse.com/thing:5220698</guid>
+            <enclosure url="https://cdn.thingiverse.com/assets/01/a8/21/91/47/Anclaje_manillar_moto_Mando_DJI.stl" length="161584" type="application/sla"/>
+        </item>
+        <item>
+            <title>Puzzle Figurine</title>
+            <link>https://www.thingiverse.com/thing:5220700</link>
+            <description><![CDATA[<div style="margin: 5px;"><a href="https://www.thingiverse.com/thing:5220700"><img src="https://cdn.thingiverse.com/assets/58/8e/2d/b3/d9/large_preview_Puzzle_Figurine.png"  class="preview_large" style="width: 240px; height: 180px"></a><br/></div><div><div><p>home decor</p></div></div>]]></description>
+            <author>Anugod</author>
+            <pubDate>Fri, 28 Jan 2022 12:02:42 +0100</pubDate>
+            <guid>https://www.thingiverse.com/thing:5220700</guid>
+            <enclosure url="https://cdn.thingiverse.com/assets/71/41/09/cb/2e/Puzzle_Figurine.stl" length="16084" type="application/sla"/>
+        </item>
+        <item>
+            <title>Chainsaw depth 0.65mm</title>
+            <link>https://www.thingiverse.com/thing:5220689</link>
+            <description><![CDATA[<div style="margin: 5px;"><a href="https://www.thingiverse.com/thing:5220689"><img src="https://cdn.thingiverse.com/assets/7d/42/fe/0e/b3/large_preview_Chainsaw_Depth_0.65.png"  class="preview_large" style="width: 240px; height: 180px"></a><br/></div><div><div><p>tool to measure the depth of cut of the chainsaw chain</p></div></div>]]></description>
+            <author>camaleon662</author>
+            <pubDate>Fri, 28 Jan 2022 11:59:23 +0100</pubDate>
+            <guid>https://www.thingiverse.com/thing:5220689</guid>
+            <enclosure url="https://cdn.thingiverse.com/assets/85/e2/e0/b3/25/Chainsaw_Depth_0.65.stl" length="5684" type="application/sla"/>
+        </item>
+        <item>
+            <title>Customizable tube cutter for Hot End Fix</title>
+            <link>https://www.thingiverse.com/thing:5203036</link>
+            <description><![CDATA[<div style="margin: 5px;"><a href="https://www.thingiverse.com/thing:5203036"><img src="https://cdn.thingiverse.com/assets/68/68/21/27/4d/large_preview_ender3-cutter.png"  class="preview_large" style="width: 240px; height: 180px"></a><br/></div><div><div><p>This is a customizable variant of the cutter aid for the "Original Hot End Fix for <a rel="nofollow" href="https://www.amazon.com/s?k=creality&amp;linkCode=ll2&amp;tag=tv-nothing-20&amp;linkId=fb73b7199b6aab27c98136def5ec96ae&amp;language=en_US&amp;ref_=as_li_ss_tl"> Creality</a>".<br>
+I created this one, because the original did not leave enough space for the cutting blade and broke too easily.<br>
+The default setting cuts at the recommended 31.3mm for <a rel="nofollow" href="https://www.amazon.com/s?k=creality&amp;linkCode=ll2&amp;tag=tv-nothing-20&amp;linkId=fb73b7199b6aab27c98136def5ec96ae&amp;language=en_US&amp;ref_=as_li_ss_tl"> Creality</a> <a rel="nofollow" href="https://www.amazon.com/Official-Creality-3D-Removable-220x220x250MM/dp/B07K3SZBHJ?dchild=1&amp;keywords=ender+3&amp;qid=1612857257&amp;sr=8-1-spons&amp;psc=1&amp;linkCode=ll1&amp;tag=tv-nothing-20&amp;linkId=5419ace64a5f58b068a896710257ed13&amp;language=en_US&amp;ref_=as_li_ss_tl"> Ender 3</a> (+ pro and V2).<br>
+It assumes your cutting blade is 0.6mm thick and makes the cut in the middle.<br>
+I've also set the width for the tube to exactly 4.0mm to better keep the tube in place, once fitted. Enlarge the diameter if you want an easier fit.</p></div></div>]]></description>
+            <author>b457144n</author>
+            <pubDate>Fri, 28 Jan 2022 11:59:23 +0100</pubDate>
+            <guid>https://www.thingiverse.com/thing:5203036</guid>
+            <enclosure url="https://cdn.thingiverse.com/assets/aa/3b/00/6e/bc/ender3-cutter.stl" length="226484" type="application/sla"/>
+        </item>
+        <item>
+            <title>[In Progress][Testing] Pentacon Six - Nikon F adapter for Юпитер-36Б Lens</title>
+            <link>https://www.thingiverse.com/thing:5220686</link>
+            <description><![CDATA[<div style="margin: 5px;"><a href="https://www.thingiverse.com/thing:5220686"><img src="https://cdn.thingiverse.com/assets/7c/53/a5/b0/54/large_preview_PentaconSix-NikonF_Jupiter36.png"  class="preview_large" style="width: 240px; height: 180px"></a><br/></div><div><div><h1>WARNING - Work In Progress</h1>
+<h1>250mm f/35 <strong>Jupiter 36&#1041;</strong> or 90 f/2.8 <strong>Vega 12&#1041;</strong>  into Nikon F adapter</h1>
+<h2>Lens adapter for Middle format USSR lens <strong>Jupiter 36&#1041;</strong> (Pentacon Six) or <strong>Vega 12&#1041;</strong> (Pentacon Six)  into Nikon F camera.</h2>
+<h3><strong>WARNING</strong> - this particular adapter is for "&#1041;" version of the lens and <strong>NOT</strong> for "B" (yes this is a cirylic letters)</h3>
+<p>So your lens should have name:</p>
+<ul><li>Jupiter 36 (export name variant)</li>
+<li>Jupiter 36&#1041; (earlier export name variant)</li>
+<li>&#1070;&#1087;&#1080;&#1090;&#1077;&#1088; 36&#1041; (domestic market name variant)<br>
+Or just make sure you do have a lens version with Pentacon Six bayonet<br>
+This is important because you can have a Kiev-88(&#1050;&#1080;&#1077;&#1074;-88) or Salute(&#1057;&#1072;&#1083;&#1102;&#1090;) version of the lens. And it could be marked as "&#1070;&#1087;&#1080;&#1090;&#1077;&#1088; 36&#1042;" &lt;- this one has another one bayonet type and current adapter will not fit!</li>
+</ul><h2>Key features</h2>
+<ul><li>P6 bayonet is made more heavy and solid</li>
+<li>Current working length of adapter is just calcualted (not yet tested)</li>
+<li>Parts of adapter made using design of lens control elements</li>
+</ul><h2>To be tested</h2>
+<ul><li>The adapter length - to test - does adapter has correct infinity </li>
+<li>Does F bayonet has a correct angle to fit lens in correct place</li>
+<li>Does F bayonet is correct and fit into camera without any issues</li>
+</ul><p>Model adapted based on <a rel="nofollow" href="/thing:2124598">P6 to EF adapter v2.0</a> originally made by <a rel="nofollow" href="/photo-krause">photo-krause</a></p>
+<p>Redesign of this model made in order to fit into old design of Jupiter 36&#1041; lens</p>
+<p><img src="https://fotonn.ru/components/com_virtuemart/shop_image/product/8802024c31db9410de6402f3901acf40.jpg" alt="Jupiter 36&#1041;"><br>
+This one ^</p>
+<p>It's important - because the newer version of Jupiter 36&#1041; manufactured since 1982 - have a different design.</p>
+<p>Or for Vega 12&#1041; like this one:</p>
+<p><img src="https://radojuva.com/wp-content/uploads/2012/01/vega-12-b-lens-review-2.jpg" alt="Vega 12&#1041;"></p>
+<p>Matte plasic to use is much more prefferable. First of all - because of the look :-).<br>
+But the main reason is - a light reflections inside the adapter boly while shooting. If something went wrong and your adapter will not absorb unwanted light - you will see the lighten spot in the center of your shoot. This means - your adapter is not so ubsorbable for the light as it should be) Use matte black plastic)</p>
+<hr><h1>&#1042;&#1053;&#1048;&#1052;&#1040;&#1053;&#1048;&#1045; - &#1101;&#1090;&#1086; &#1090;&#1077;&#1089;&#1090;&#1086;&#1074;&#1099;&#1081; &#1074;&#1072;&#1088;&#1080;&#1072;&#1085;&#1090; &#1084;&#1086;&#1076;&#1077;&#1083;&#1080; &#1080; &#1084;&#1086;&#1078;&#1077;&#1090; &#1089;&#1086;&#1076;&#1077;&#1088;&#1078;&#1072;&#1090;&#1100; &#1085;&#1077;&#1090;&#1086;&#1095;&#1085;&#1086;&#1089;&#1090;&#1080;</h1>
+<h1>&#1040;&#1076;&#1072;&#1087;&#1090;&#1077;&#1088; &#1076;&#1083;&#1103; 250&#1084;&#1084; f/3.5 <strong>&#1070;&#1087;&#1080;&#1090;&#1077;&#1088; 36&#1041;</strong> &#1080;&#1083;&#1080; 90&#1084;&#1084; f/2.8 <strong>&#1042;&#1077;&#1075;&#1072; 12&#1041;</strong> &#1085;&#1072; Nikon F</h1>
+<h2>&#1040;&#1076;&#1072;&#1087;&#1090;&#1077;&#1088; &#1076;&#1083;&#1103; &#1089;&#1088;&#1077;&#1076;&#1085;&#1077;&#1092;&#1086;&#1088;&#1084;&#1072;&#1090;&#1085;&#1086;&#1075;&#1086; &#1086;&#1073;&#1098;&#1077;&#1082;&#1090;&#1080;&#1074;&#1072; &#1070;&#1087;&#1080;&#1090;&#1077;&#1088; 36&#1041; (&#1042;&#1072;&#1078;&#1085;&#1086;! &#1053;&#1077; "&#1042;", &#1072; &#1080;&#1084;&#1077;&#1085;&#1085;&#1086; "&#1041;" &#1076;&#1083;&#1103; Pentacon Six)</h2>
+<h2>&#1050;&#1083;&#1102;&#1095;&#1077;&#1074;&#1099;&#1077; &#1086;&#1089;&#1086;&#1073;&#1077;&#1085;&#1085;&#1086;&#1089;&#1090;&#1080;</h2>
+<ul><li>P6 &#1073;&#1072;&#1081;&#1086;&#1085;&#1077;&#1090; &#1091;&#1089;&#1080;&#1083;&#1077;&#1085;</li>
+<li>&#1058;&#1077;&#1082;&#1091;&#1097;&#1080;&#1081; &#1088;&#1072;&#1073;&#1086;&#1095;&#1080;&#1081; &#1086;&#1090;&#1088;&#1077;&#1079;&#1086;&#1082; &#1072;&#1076;&#1072;&#1087;&#1090;&#1077;&#1088;&#1072; &#1087;&#1088;&#1086;&#1089;&#1090;&#1086; &#1074;&#1099;&#1089;&#1095;&#1080;&#1090;&#1072;&#1085; (&#1077;&#1097;&#1077; &#1085;&#1077; &#1087;&#1088;&#1086;&#1074;&#1077;&#1088;&#1077;&#1085;&#1072; &#1073;&#1077;&#1089;&#1082;&#1086;&#1085;&#1077;&#1095;&#1085;&#1086;&#1089;&#1090;&#1100;)</li>
+<li>&#1044;&#1080;&#1079;&#1072;&#1081;&#1085; &#1072;&#1076;&#1072;&#1087;&#1090;&#1077;&#1088;&#1072; &#1074;&#1099;&#1087;&#1086;&#1083;&#1085;&#1077;&#1085; &#1074; &#1087;&#1088;&#1086;&#1076;&#1086;&#1083;&#1078;&#1077;&#1085;&#1080;&#1077; &#1076;&#1080;&#1079;&#1072;&#1081;&#1085;&#1072; &#1086;&#1073;&#1098;&#1077;&#1082;&#1090;&#1080;&#1074;&#1072;</li>
+</ul><h2>&#1055;&#1083;&#1072;&#1085; &#1087;&#1086; &#1090;&#1077;&#1089;&#1090;&#1080;&#1088;&#1086;&#1074;&#1072;&#1085;&#1080;&#1102;:</h2>
+<ul><li>&#1055;&#1088;&#1086;&#1074;&#1077;&#1088;&#1080;&#1090;&#1100; &#1087;&#1088;&#1072;&#1074;&#1080;&#1083;&#1100;&#1085;&#1086; &#1083;&#1080; &#1087;&#1086;&#1076;&#1089;&#1095;&#1080;&#1090;&#1072;&#1085;&#1072; &#1076;&#1083;&#1080;&#1085;&#1085;&#1072; &#1072;&#1076;&#1087;&#1090;&#1077;&#1088;&#1072; &#1080; &#1087;&#1088;&#1072;&#1074;&#1080;&#1083;&#1100;&#1085;&#1072; &#1083;&#1080; &#1088;&#1072;&#1073;&#1086;&#1090;&#1072; &#1089; &#1073;&#1077;&#1089;&#1082;&#1086;&#1085;&#1077;&#1095;&#1085;&#1086;&#1089;&#1090;&#1100;&#1102;</li>
+<li>&#1048;&#1084;&#1077;&#1077;&#1090; &#1083;&#1080; F &#1073;&#1072;&#1081;&#1086;&#1085;&#1077;&#1090; &#1087;&#1088;&#1072;&#1074;&#1080;&#1083;&#1100;&#1085;&#1099;&#1081; &#1091;&#1075;&#1086;&#1083; (&#1087;&#1088;&#1072;&#1074;&#1080;&#1083;&#1100;&#1085;&#1099;&#1081; - &#1101;&#1090;&#1086; &#1079;&#1085;&#1072;&#1095;&#1080;&#1090; &#1095;&#1090;&#1086; &#1087;&#1086;&#1089;&#1083;&#1077; &#1091;&#1089;&#1090;&#1072;&#1085;&#1086;&#1074;&#1082;&#1080; &#1086;&#1073;&#1098;&#1077;&#1082;&#1090;&#1080;&#1074;&#1072; &#1085;&#1072; &#1082;&#1072;&#1084;&#1077;&#1088;&#1091; - &#1086;&#1073;&#1098;&#1077;&#1082;&#1090;&#1080;&#1074; &#1089;&#1084;&#1086;&#1090;&#1088;&#1080;&#1090; &#1086;&#1088;&#1075;&#1072;&#1085;&#1072;&#1084;&#1080; &#1091;&#1087;&#1088;&#1072;&#1074;&#1083;&#1077;&#1085;&#1080;&#1103; &#1095;&#1077;&#1090;&#1082;&#1086; &#1074;&#1074;&#1077;&#1088;&#1093;, &#1082;&#1072;&#1082; &#1080; &#1096;&#1090;&#1072;&#1090;&#1085;&#1099;&#1081;)</li>
+<li>&#1057;&#1072;&#1076;&#1080;&#1090;&#1089;&#1103; &#1083;&#1080; F &#1073;&#1072;&#1081;&#1086;&#1085;&#1077;&#1090; &#1085;&#1072; &#1082;&#1072;&#1084;&#1077;&#1088;&#1091; &#1073;&#1077;&#1079; &#1083;&#1102;&#1092;&#1090;&#1086;&#1074; &#1080; &#1087;&#1088;&#1086;&#1074;&#1086;&#1088;&#1086;&#1090;&#1086;&#1074;.</li>
+</ul><p>&#1052;&#1086;&#1076;&#1077;&#1083;&#1100; &#1087;&#1077;&#1088;&#1077;&#1076;&#1077;&#1083;&#1072;&#1085;&#1072; &#1080;&#1079;  <a rel="nofollow" href="/thing:2124598">P6 to EF adapter v2.0</a> &#1079;&#1072; &#1072;&#1074;&#1090;&#1086;&#1088;&#1089;&#1090;&#1074;&#1086;&#1084; <a rel="nofollow" href="/photo-krause">photo-krause</a></p>
+<p>&#1054;&#1088;&#1080;&#1075;&#1080;&#1085;&#1072;&#1083;&#1100;&#1085;&#1072;&#1103; &#1084;&#1086;&#1076;&#1077;&#1083;&#1100; &#1080;&#1084;&#1077;&#1083;&#1072; &#1086;&#1095;&#1077;&#1085;&#1100; &#1090;&#1086;&#1085;&#1082;&#1091;&#1102; &#1089;&#1090;&#1077;&#1085;&#1082;&#1091; &#1074; &#1084;&#1077;&#1089;&#1090;&#1077; &#1082;&#1088;&#1077;&#1087;&#1083;&#1077;&#1085;&#1080;&#1103; &#1073;&#1072;&#1081;&#1086;&#1085;&#1077;&#1090;&#1072; - &#1089;&#1090;&#1077;&#1085;&#1082;&#1072; &#1088;&#1072;&#1079;&#1088;&#1091;&#1096;&#1072;&#1083;&#1072;&#1089;&#1100; (&#1073;&#1099;&#1083;&#1080; &#1087;&#1086;&#1087;&#1099;&#1090;&#1082;&#1080; &#1087;&#1077;&#1095;&#1072;&#1090;&#1080; ABS &#1048; PETG - &#1086;&#1073;&#1072; &#1089; &#1086;&#1076;&#1085;&#1080;&#1084; &#1080; &#1090;&#1077;&#1084; &#1078;&#1077; &#1091;&#1089;&#1087;&#1077;&#1093;&#1086;&#1084; - &#1074;&#1077;&#1089; &#1086;&#1073;&#1098;&#1077;&#1082;&#1090;&#1080;&#1074;&#1072; &#1091;&#1085;&#1080;&#1095;&#1090;&#1086;&#1078;&#1072;&#1083; &#1073;&#1072;&#1081;&#1086;&#1085;&#1077;&#1090;&#1085;&#1086;&#1077; &#1082;&#1088;&#1077;&#1087;&#1083;&#1077;&#1085;&#1080;&#1077; &#1072;&#1076;&#1072;&#1087;&#1090;&#1077;&#1088;&#1072;)</p>
+<p>&#1050;&#1088;&#1077;&#1087;&#1083;&#1077;&#1085;&#1080;&#1077; &#1091;&#1089;&#1080;&#1083;&#1077;&#1085;&#1086; &#1076;&#1086;&#1087;&#1086;&#1083;&#1085;&#1080;&#1090;&#1077;&#1083;&#1100;&#1085;&#1099;&#1084; &#1082;&#1086;&#1083;&#1100;&#1094;&#1086;&#1084;, &#1089;&#1090;&#1080;&#1083;&#1080;&#1079;&#1086;&#1074;&#1072;&#1085;&#1085;&#1099;&#1084; &#1087;&#1086;&#1076; &#1085;&#1072;&#1082;&#1072;&#1090;&#1082;&#1091; &#1085;&#1072; &#1086;&#1088;&#1075;&#1072;&#1085;&#1072;&#1093; &#1091;&#1087;&#1088;&#1072;&#1074;&#1083;&#1077;&#1085;&#1080;&#1103; &#1086;&#1073;&#1098;&#1077;&#1082;&#1090;&#1080;&#1074;&#1086;&#1084;. &#1048;&#1079;-&#1079;&#1072; &#1095;&#1077;&#1075;&#1086; - &#1090;&#1077;&#1087;&#1077;&#1088;&#1100; &#1072;&#1076;&#1072;&#1087;&#1090;&#1077;&#1088; &#1080; &#1086;&#1073;&#1098;&#1077;&#1082;&#1090;&#1080;&#1074; &#1082;&#1072;&#1078;&#1091;&#1090;&#1089;&#1103; &#1095;&#1077;&#1084;-&#1090;&#1086; &#1094;&#1077;&#1083;&#1100;&#1085;&#1099;&#1084; (&#1087;&#1088;&#1080; &#1091;&#1089;&#1083;&#1086;&#1074;&#1080;&#1080; &#1087;&#1077;&#1095;&#1072;&#1090;&#1080; &#1084;&#1072;&#1090;&#1086;&#1074;&#1099;&#1084; &#1087;&#1083;&#1072;&#1089;&#1090;&#1080;&#1082;&#1086;&#1084;)</p></div></div>]]></description>
+            <author>dmitribatulin</author>
+            <pubDate>Fri, 28 Jan 2022 11:58:00 +0100</pubDate>
+            <guid>https://www.thingiverse.com/thing:5220686</guid>
+            <enclosure url="https://cdn.thingiverse.com/assets/1b/b8/d8/1c/a2/PentaconSix-NikonF_Jupiter36.stl" length="1435684" type="application/sla"/>
+        </item>
+        <item>
+            <title>Speaker Stands (IKEA MULIG mod)</title>
+            <link>https://www.thingiverse.com/thing:5220527</link>
+            <description><![CDATA[<div style="margin: 5px;"><a href="https://www.thingiverse.com/thing:5220527"><img src="https://cdn.thingiverse.com/assets/93/ae/6c/48/a8/large_preview_20220128_094031.jpg"  class="preview_large" style="width: 240px; height: 180px"></a><br/></div><div><div><h1>Speaker Holder from IKEA MULIG</h1>
+<h2>Printer settings</h2>
+<p>For 4 stands print:</p>
+<ul><li>20220103_Ikea_Connector_v3.stl <strong>x 4</strong></li>
+<li>20220103_Ikea_fuss<em>v2</em>*.stl <strong>x 4</strong></li>
+<li>20220103_Ikea_Kabel<em>v1</em>.stl <strong>x 8</strong></li>
+</ul><p>For 2 stands print:</p>
+<ul><li>20220103_Ikea_Connector_v3.stl <strong>x 2</strong></li>
+<li>20220103_Ikea_fuss<em>v2</em>*.stl <strong>x 2</strong></li>
+<li>20220103_Ikea_Kabel<em>v1</em>.stl <strong>x 4</strong></li>
+</ul><p>Very easy to print. I used PLA with an infill of 100.</p>
+<h2>Used items for 4 stands</h2>
+<ul><li>2x Ikea MULIGs<br><a rel="nofollow" href="https://www.ikea.com/us/en/p/mulig-clothes-rack-white-60179434/">https://www.ikea.com/us/en/p/mulig-clothes-rack-white-60179434/</a></li>
+<li>4x Generic speaker wall mount eg.:<br><a rel="nofollow" href="https://www.amazon.com/WALI-Adjustments-Bookshelf-Surrounding-SWM402/dp/B0784876S1/ref=sr_1_8?keywords=speaker+mount&amp;qid=1643368575&amp;sr=8-8&amp;tag=tv-nothing-20">https://www.amazon.com/WALI-Adjustments-Bookshelf-Surrounding-SWM402/dp/B0784876S1/ref=sr_1_8?keywords=speaker+mount&amp;qid=1643368575&amp;sr=8-8</a></li>
+</ul><h2>Used tools</h2>
+<ul><li>Cheap hacksaw with mitre eg.:<br><a rel="nofollow" href="https://www.amazon.com/HAUTMEC-hacksaw-adjustable-cutting-HT0034-PL/dp/B07CSK7TCD/ref=sr_1_3?keywords=hacksaw+with+miter+box&amp;qid=1643368792&amp;sprefix=hacksaw+with+m%2Caps%2C158&amp;sr=8-3&amp;tag=tv-nothing-20">https://www.amazon.com/HAUTMEC-hacksaw-adjustable-cutting-HT0034-PL/dp/B07CSK7TCD/ref=sr_1_3?keywords=hacksaw+with+miter+box&amp;qid=1643368792&amp;sprefix=hacksaw+with+m%2Caps%2C158&amp;sr=8-3</a> </li>
+</ul><h2>Build instruction</h2>
+<ol><li>Disassemble the Mulig</li>
+<li>Take the straight rod with threads on both ends and saw it into two pieces of 30cm.<br><strong>IMPORTANT each piece must have a thread on one side. </strong></li>
+<li>Use the leftover piece from the middle of the straight rod for the vertical feet. Saw them into pieces of 14 cm.</li>
+<li>Take the curved feet from the Mulig and stick it into the vertical rod (like in the original building instruction)<br>
+5.Thighten them with one of the 30cm pieces.</li>
+<li>Take a printed 20220103_Ikea_Connector_v3 and attach it to the end of the 30cm piece (glue can be helpful).</li>
+<li>Stick the 14cm feet into the other opening from the 20220103_Ikea_Connector_v3</li>
+<li>Take the printed 20220103_Ikea_fuss<em>v2</em>* and put it over the end of the 14cm piece. The size of the 20220103_Ikea_fuss<em>v2</em> (1mm or 2mm) depends on your sawing-skills.</li>
+<li>Screw the generic speaker wall mount on the top part of the long rod (other side of the curved foot, where you would screw on the top part of the Mullig).</li>
+<li>Attach your speaker to the mount</li>
+<li>Clip the 20220103_Ikea_Kabel on the vertical rod and run the cables through the holes of the clip</li>
+</ol><h2>Background</h2>
+<p>After we moved to our new flat we bought two Ikea MULIG Clothes rack to temporarily store our clothes. After our bedroom closet was delivered the racks were just lying around and since I wanted to buy a speaker stand for my Logitech Z906 5.1 I decided to use the MULIGs. </p></div></div>]]></description>
+            <author>RamiFee</author>
+            <pubDate>Fri, 28 Jan 2022 11:54:53 +0100</pubDate>
+            <guid>https://www.thingiverse.com/thing:5220527</guid>
+            <enclosure url="https://cdn.thingiverse.com/assets/da/47/6a/cd/43/20220103_Ikea_Connector_v3.stl" length="303034" type="application/sla"/>
+        </item>
+        <item>
+            <title>6pcs Needle File Stand Holder with Label</title>
+            <link>https://www.thingiverse.com/thing:5220673</link>
+            <description><![CDATA[<div style="margin: 5px;"><a href="https://www.thingiverse.com/thing:5220673"><img src="https://cdn.thingiverse.com/assets/a7/cb/86/0f/8f/large_preview_Needle_file_stand_6pcs.png"  class="preview_large" style="width: 240px; height: 180px"></a><br/></div><div><div><p>Simple one-piece needle file stand for "Magnusson Needle File Set 5-1/2'' 6PCS", with label. </p>
+<p><em>Slit opening: 4mm;<br>
+Slit depth: 12mm.</em></p>
+<p>Printed laying down. </p></div></div>]]></description>
+            <author>Aeronaut_Studio</author>
+            <pubDate>Fri, 28 Jan 2022 11:53:25 +0100</pubDate>
+            <guid>https://www.thingiverse.com/thing:5220673</guid>
+            <enclosure url="https://cdn.thingiverse.com/assets/58/4e/5e/09/e0/Needle_file_stand_6pcs.stl" length="60684" type="application/sla"/>
+        </item>
+        <item>
+            <title>Parkside X20V Team battery LED light with mini voltmeter</title>
+            <link>https://www.thingiverse.com/thing:5220672</link>
+            <description><![CDATA[<div style="margin: 5px;"><a href="https://www.thingiverse.com/thing:5220672"><img src="https://cdn.thingiverse.com/assets/83/ae/75/58/75/large_preview_Parkside_flood_light.png"  class="preview_large" style="width: 240px; height: 180px"></a><br/></div><div><div><p>I really liked the original idea from jaaanik but I was worried of over discharging the battery so I added a place where I can fit a small inexpensive mini voltmeter. You can find these in any electronic store or on aliexpress or other websites.</p>
+<p>For printing place it facing upwards (bottom is where the voltmeter comes fitted afterwards) and enable support which touches the buildplate. A good brim is also recommended.</p></div></div>]]></description>
+            <author>Bruiceee</author>
+            <pubDate>Fri, 28 Jan 2022 11:50:16 +0100</pubDate>
+            <guid>https://www.thingiverse.com/thing:5220672</guid>
+            <enclosure url="https://cdn.thingiverse.com/assets/dc/55/de/39/ed/Parkside_flood_light.stl" length="89684" type="application/sla"/>
+        </item>
+        <item>
+            <title>chips tongs</title>
+            <link>https://www.thingiverse.com/thing:5220670</link>
+            <description><![CDATA[<div style="margin: 5px;"><a href="https://www.thingiverse.com/thing:5220670"><img src="https://cdn.thingiverse.com/assets/56/7b/0f/ae/fa/large_preview_chipszange2.png"  class="preview_large" style="width: 240px; height: 180px"></a><br/></div><div><div><p>chips tongs for eating potato chips </p></div></div>]]></description>
+            <author>niwla23</author>
+            <pubDate>Fri, 28 Jan 2022 11:45:22 +0100</pubDate>
+            <guid>https://www.thingiverse.com/thing:5220670</guid>
+            <enclosure url="https://cdn.thingiverse.com/assets/d4/f0/92/d7/3f/chipszange2.stl" length="545084" type="application/sla"/>
+        </item>
+        <item>
+            <title>Fernbedienungshalter Zen-Rad TV Wohnmobil</title>
+            <link>https://www.thingiverse.com/thing:5220669</link>
+            <description><![CDATA[<div style="margin: 5px;"><a href="https://www.thingiverse.com/thing:5220669"><img src="https://cdn.thingiverse.com/assets/de/77/23/29/8a/large_preview_Fernbedienung_ZenRad_v5.png"  class="preview_large" style="width: 240px; height: 180px"></a><br/></div><div><div><p>Diese Halterung ist f&uuml;r die Fernbedienung unseres TV-Ger&auml;tes im Wohnmobil von der Firma ZenRad.</p></div></div>]]></description>
+            <author>HeidMIc</author>
+            <pubDate>Fri, 28 Jan 2022 11:42:09 +0100</pubDate>
+            <guid>https://www.thingiverse.com/thing:5220669</guid>
+            <enclosure url="https://cdn.thingiverse.com/assets/0e/2c/c7/77/5e/Fernbedienung_ZenRad_v5.stl" length="190684" type="application/sla"/>
+        </item>
+        <item>
+            <title>HoverMower, DIY lawn mower based ion Hoverboards</title>
+            <link>https://www.thingiverse.com/thing:5220665</link>
+            <description><![CDATA[<div style="margin: 5px;"><a href="https://www.thingiverse.com/thing:5220665"><img src="https://cdn.thingiverse.com/assets/e2/fb/f8/95/eb/large_preview_Mow_motor_holder_clamp.png"  class="preview_large" style="width: 240px; height: 180px"></a><br/></div><div><div><p>This is Hovermower, a 3D printable lawn mower based on Hoverboard. A Hoverboard is a self-balancing board (toy). I tooked the powerful BLDC motors, PCB as motor driver, Battery, charger and LED headlights to build a lawn mower around this.</p>
+<p>HoverMower is equipped with a moving chassis. This means, most part of chassis (the white one) is able to move a bit to detect collisions with obstacles</p>
+<p>As I found Thingiverse buggy in past months, and because this project is pretty complex, too complex to be posted here, I created a Git Organization with lots of repositories.</p>
+<p>You can find everything you need here:</p>
+<p>Documentation: <a rel="nofollow" href="http://www.hovermower.github.io">http://www.hovermower.github.io</a><br>
+STL and STEP Files: <a rel="nofollow" href="https://github.com/HoverMower/hovermower-chassis">https://github.com/HoverMower/hovermower-chassis</a><br>
+Git organization with even more related repos: <a rel="nofollow" href="https://github.com/HoverMower">https://github.com/HoverMower</a></p></div></div>]]></description>
+            <author>PaddyCube</author>
+            <pubDate>Fri, 28 Jan 2022 11:39:39 +0100</pubDate>
+            <guid>https://www.thingiverse.com/thing:5220665</guid>
+            <enclosure url="https://cdn.thingiverse.com/assets/3e/3c/53/e0/62/Mow_motor_holder_clamp.stl" length="102084" type="application/sla"/>
+        </item>
+        <item>
+            <title>Microsoft Azure Keychain</title>
+            <link>https://www.thingiverse.com/thing:5220556</link>
+            <description><![CDATA[<div style="margin: 5px;"><a href="https://www.thingiverse.com/thing:5220556"><img src="https://cdn.thingiverse.com/assets/b1/34/1c/10/b6/large_preview_Azure-Logo.png"  class="preview_large" style="width: 240px; height: 180px"></a><br/></div><div><div><p>Just an Azure Keychain and 3d Logo for you MSFT Advocates :)</p></div></div>]]></description>
+            <author>tzooki</author>
+            <pubDate>Fri, 28 Jan 2022 11:38:29 +0100</pubDate>
+            <guid>https://www.thingiverse.com/thing:5220556</guid>
+            <enclosure url="https://cdn.thingiverse.com/assets/0a/2e/fa/2b/bc/Azure-Logo.stl" length="32484" type="application/sla"/>
+        </item>
+        <item>
+            <title>Support pare choc Corally SKETER</title>
+            <link>https://www.thingiverse.com/thing:5220664</link>
+            <description><![CDATA[<div style="margin: 5px;"><a href="https://www.thingiverse.com/thing:5220664"><img src="https://cdn.thingiverse.com/assets/ab/2f/79/d7/86/large_preview_test_sketer.png"  class="preview_large" style="width: 240px; height: 180px"></a><br/></div><div><div><p>Support de pare choc corally sketer. Print en tpu 95a et 100 pour 100 remplissage.</p></div></div>]]></description>
+            <author>romanotest</author>
+            <pubDate>Fri, 28 Jan 2022 11:37:48 +0100</pubDate>
+            <guid>https://www.thingiverse.com/thing:5220664</guid>
+            <enclosure url="https://cdn.thingiverse.com/assets/16/4f/cf/d4/64/test_sketer.stl" length="152184" type="application/sla"/>
+        </item>
+        <item>
+            <title>Transversal wire management clip for 2020 profile</title>
+            <link>https://www.thingiverse.com/thing:5220663</link>
+            <description><![CDATA[<div style="margin: 5px;"><a href="https://www.thingiverse.com/thing:5220663"><img src="https://cdn.thingiverse.com/assets/f0/46/d3/d1/43/large_preview_PXL_20220128_105837553.jpg"  class="preview_large" style="width: 240px; height: 180px"></a><br/></div><div><div><p>Whilst remixing the longitudinal wire clips (<a rel="nofollow" href="/thing:5220650">https://www.thingiverse.com/thing:5220650</a>) I took the chance to try and develop a transversal one, since I had a couple of uses for it in mind.</p>
+<p>It clips into 2020 profile to hold wires crossing them perpendicularly.</p>
+<p>Donations accepted: <a rel="nofollow" href="https://ko-fi.com/pjvenda">https://ko-fi.com/pjvenda</a></p></div></div>]]></description>
+            <author>pjvenda</author>
+            <pubDate>Fri, 28 Jan 2022 11:32:52 +0100</pubDate>
+            <guid>https://www.thingiverse.com/thing:5220663</guid>
+            <enclosure url="https://cdn.thingiverse.com/assets/7c/ff/d7/fe/c0/clip_11id_trans.stl" length="64084" type="application/sla"/>
+        </item>
+        <item>
+            <title>Duino-coin mining rig for ESP32</title>
+            <link>https://www.thingiverse.com/thing:5220662</link>
+            <description><![CDATA[<div style="margin: 5px;"><a href="https://www.thingiverse.com/thing:5220662"><img src="https://cdn.thingiverse.com/assets/fa/b8/36/d1/bb/large_preview_Side_Duino-Coin_mining_Rig.png"  class="preview_large" style="width: 240px; height: 180px"></a><br/></div><div><div><p>Mining rig for five ESP32 boards and a 70mm fan.<br>
+I soldered the five boards in series to power only the bottom one by cable.<br>
+Print two side cover pieces. I glued the pieces with hot glue to be able to open easily if I have to update the boards.</p>
+<p>More information about Duino-coin and how to get started: <a rel="nofollow" href="https://duinocoin.com/getting-started">https://duinocoin.com/getting-started</a></p></div></div>]]></description>
+            <author>Asturel</author>
+            <pubDate>Fri, 28 Jan 2022 11:32:28 +0100</pubDate>
+            <guid>https://www.thingiverse.com/thing:5220662</guid>
+            <enclosure url="https://cdn.thingiverse.com/assets/22/08/79/3a/b3/Box__Duino-Coin_mining_Rig.stl" length="5884" type="application/sla"/>
+        </item>
+        <item>
+            <title>Boyueda Laotie Janobike rear EXA shock cover</title>
+            <link>https://www.thingiverse.com/thing:5220660</link>
+            <description><![CDATA[<div style="margin: 5px;"><a href="https://www.thingiverse.com/thing:5220660"><img src="https://cdn.thingiverse.com/assets/24/a7/fb/b4/25/large_preview_Boyueda_rear_shock_cover.png"  class="preview_large" style="width: 240px; height: 180px"></a><br/></div><div><div><p>Boyueda Laotie Janobike rear shock cover. Fits nice with Exaform 291 damper and up to 1750lbs spring. PLA or Petg will be fine. Use 3 long zipties to mount.</p></div></div>]]></description>
+            <author>MakoFPV</author>
+            <pubDate>Fri, 28 Jan 2022 11:27:57 +0100</pubDate>
+            <guid>https://www.thingiverse.com/thing:5220660</guid>
+            <enclosure url="https://cdn.thingiverse.com/assets/d3/cf/71/5a/05/Boyueda_rear_shock_cover.stl" length="245784" type="application/sla"/>
+        </item>
+        <item>
+            <title>Zhongli Stone Stele Pillar Magnet</title>
+            <link>https://www.thingiverse.com/thing:5220659</link>
+            <description><![CDATA[<div style="margin: 5px;"><a href="https://www.thingiverse.com/thing:5220659"><img src="https://cdn.thingiverse.com/assets/4f/44/a4/ec/71/large_preview_zhongli_pillar_v3.png"  class="preview_large" style="width: 240px; height: 180px"></a><br/></div><div><div><p>A fridge magnet in the shape of zhongli's stone stele/pillar/zhlong.</p>
+<p>Uses 2 of 10x2mm magnets that need to be glued in. You can also add your own holes in fusion with the other file.</p></div></div>]]></description>
+            <author>bassadin</author>
+            <pubDate>Fri, 28 Jan 2022 11:26:18 +0100</pubDate>
+            <guid>https://www.thingiverse.com/thing:5220659</guid>
+            <enclosure url="https://cdn.thingiverse.com/assets/a9/dc/e7/ae/bc/zhongli_pillar_v3.stl" length="1871422" type="application/sla"/>
+        </item>
+        <item>
+            <title>RC Kanister / Halterungen/ 1:10 / Traxxas</title>
+            <link>https://www.thingiverse.com/thing:5220598</link>
+            <description><![CDATA[<div style="margin: 5px;"><a href="https://www.thingiverse.com/thing:5220598"><img src="https://cdn.thingiverse.com/assets/76/8f/ef/05/55/large_preview_Wasserkanister.jpg"  class="preview_large" style="width: 240px; height: 180px"></a><br/></div><div><div><p>Hallo hier mal ein Paar Kanister und auch Halterung zum Befestigen. </p>
+<p>1 Fach<br>
+2 Fach<br>
+Normal<br>
+Breit</p>
+<p>Kann als PETG oder PLA gedruckt werden</p>
+<p>Die Kanister k&ouml;nnen auch bef&uuml;llt werden. Die Wandung sind auch etwas dicker, damit sie auch direkt an der Karosse verschraubt werden k&ouml;nnen. </p>
+<p>Ihr ben&ouml;tigt noch ein Gummiband zum Befestigen.</p>
+<p>Hier mal ein Beispiel:</p>
+<p><a rel="nofollow" href="https://www.amazon.de/Elastic-Kordel-1-5-mm-schwarz/dp/B0064B9MPS/ref=sr_1_7?__mk_de_DE=%C3%85M%C3%85%C5%BD%C3%95%C3%91&amp;crid=B00KSU3E8IOU&amp;keywords=Gummiband+Expanderseil+1%2C5mm&amp;qid=1643368669&amp;sprefix=gummiband+expanderseil+1+5mm%2Caps%2C80&amp;sr=8-7&amp;tag=tv-nothing-20">https://www.amazon.de/Elastic-Kordel-1-5-mm-schwarz/dp/B0064B9MPS/ref=sr_1_7?__mk_de_DE=%C3%85M%C3%85%C5%BD%C3%95%C3%91&amp;crid=B00KSU3E8IOU&amp;keywords=Gummiband+Expanderseil+1%2C5mm&amp;qid=1643368669&amp;sprefix=gummiband+expanderseil+1+5mm%2Caps%2C80&amp;sr=8-7</a></p>
+<p>1mm solltet ihr bestellen da die L&ouml;cher zur Befestigung maximal 1,5mm sind und ihr ja noch einen Knoten machen m&uuml;sst zum fest mach.</p></div></div>]]></description>
+            <author>3D_Radi</author>
+            <pubDate>Fri, 28 Jan 2022 11:25:44 +0100</pubDate>
+            <guid>https://www.thingiverse.com/thing:5220598</guid>
+            <enclosure url="https://cdn.thingiverse.com/assets/d6/28/8b/b7/c0/Verschluss_Kanister_Wasser.stl" length="60301" type="application/sla"/>
+        </item>
+        <item>
+            <title>TYT MD380 , UV380 , Retevis RT3 RT3S USB charger</title>
+            <link>https://www.thingiverse.com/thing:5220657</link>
+            <description><![CDATA[<div style="margin: 5px;"><a href="https://www.thingiverse.com/thing:5220657"><img src="https://cdn.thingiverse.com/assets/a1/d7/45/cf/b4/large_preview_Cover.png"  class="preview_large" style="width: 240px; height: 180px"></a><br/></div><div><div><p>Type C charger for radio.<br>
+PCB You can buy here <a rel="nofollow" href="https://www.aliexpress.com/item/1005003207108880.html">https://www.aliexpress.com/item/1005003207108880.html</a> (2S 2A ONLY)<br>
+maybe You will need to fit PCB due to variable dimensions<br>
+also You will need some glue and two wires :) </p></div></div>]]></description>
+            <author>Shureg</author>
+            <pubDate>Fri, 28 Jan 2022 11:24:42 +0100</pubDate>
+            <guid>https://www.thingiverse.com/thing:5220657</guid>
+            <enclosure url="https://cdn.thingiverse.com/assets/8a/b8/a4/6c/21/Insert.stl" length="26984" type="application/sla"/>
+        </item>
+        <item>
+            <title>Non air Hopper</title>
+            <link>https://www.thingiverse.com/thing:5220654</link>
+            <description><![CDATA[<div style="margin: 5px;"><a href="https://www.thingiverse.com/thing:5220654"><img src="https://cdn.thingiverse.com/assets/39/bb/5a/b0/ef/large_preview_hopper_g.png"  class="preview_large" style="width: 240px; height: 180px"></a><br/></div><div><div><p>This is a G gauge model of a 10T non air coal hopper used on the Hunter Valley coal fields. This particular design was used by the Pelaw Main Colliery. The main hopper is printed upside down using supports touching build plate only. The frame itself slots together. I have included built in supports on the side frame but you will need to add supports on the inner end frame. The frame is glued together with medium superglue and sprayed with a kicker. Very important to use an accelerator as this creates heat which helps bond the PLA. The hopper can be glued to the frame but it was removable in real life.<br>
+The axles are from 3mm rod and can be pressed into the wheels under a drill press using the jig supplied. The center jig ensures the correct back to back of the flanges. Alternatively LGB wheel sets can be used. There is just enough flex in the frame to install the wheel sets after the frame has been assembled and painted. I have included a coupler adapter to fit LGB style couplers. This is screwed in place under the inner end frame. Holes are included to take 10mm long 3mm screws.<br>
+The main tow hook can be used with 3 link chain. 11.5mm long by 1.8mm diameter clock chain was used. The hook stood up to the weight of six wagons without weight be shunted back and forth without breaking.<br>
+This was printed in PLA using .2 layer height.<br>
+Still have to design brake gear which is installed on one side so I will add this soon.</p></div></div>]]></description>
+            <author>dako1966</author>
+            <pubDate>Fri, 28 Jan 2022 11:22:15 +0100</pubDate>
+            <guid>https://www.thingiverse.com/thing:5220654</guid>
+            <enclosure url="https://cdn.thingiverse.com/assets/5e/cc/46/a6/7b/hopper_g.stl" length="144850884" type="application/sla"/>
+        </item>
+        <item>
+            <title>Heewing Ranger T1: Insta360GO2 support including air intake</title>
+            <link>https://www.thingiverse.com/thing:5220653</link>
+            <description><![CDATA[<div style="margin: 5px;"><a href="https://www.thingiverse.com/thing:5220653"><img src="https://cdn.thingiverse.com/assets/df/39/70/bd/29/large_preview_Insta360HolderAirIntake.png"  class="preview_large" style="width: 240px; height: 180px"></a><br/></div><div><div><p>This is a compact and reliable support. It includes the air intake without having the Insta poping high above the fuselage. it replace the stock air intake front cover of the plane.<br>
+It must be printed in TPU without any support</p></div></div>]]></description>
+            <author>Syl20M</author>
+            <pubDate>Fri, 28 Jan 2022 11:20:39 +0100</pubDate>
+            <guid>https://www.thingiverse.com/thing:5220653</guid>
+            <enclosure url="https://cdn.thingiverse.com/assets/1f/af/59/cb/e2/Insta360HolderAirIntake.STL" length="373684" type="application/sla"/>
+        </item>
+    </channel>
+</rss>

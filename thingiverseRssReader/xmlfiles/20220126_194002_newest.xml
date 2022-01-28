@@ -1,0 +1,351 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!-- generator="FeedCreator 1.7.2-ppt (info@mypapit.net)" -->
+<rss version="2.0">
+    <channel>
+        <title>Thingiverse - Newest Things</title>
+        <description><![CDATA[The newest and coolest things from Thingiverse.com]]></description>
+        <link>https://www.thingiverse.com/newest</link>
+        <lastBuildDate>Thu, 27 Jan 2022 01:40:02 +0100</lastBuildDate>
+        <generator>FeedCreator 1.7.2-ppt (info@mypapit.net)</generator>
+        <language>en-us</language>
+        <copyright>Copyright 2022, Thingiverse.com</copyright>
+        <item>
+            <title>Makita Blower Mount</title>
+            <link>https://www.thingiverse.com/thing:5203589</link>
+            <description><![CDATA[<div style="margin: 5px;"><a href="https://www.thingiverse.com/thing:5203589"><img src="https://cdn.thingiverse.com/assets/45/00/06/6e/a5/large_preview_IMG_1209.jpg"  class="preview_large" style="width: 240px; height: 180px"></a><br/></div><div><div><p>Couldn't find a mount for my blower - first model I ever actually made and took a ton of versions. This mounts to a wall/rack/anything via the 4 screw holes and clips onto what I believe to be where Makita meant to make a mounting clip for these but never did.</p></div></div>]]></description>
+            <author>Esorell</author>
+            <pubDate>Thu, 27 Jan 2022 01:37:12 +0100</pubDate>
+            <guid>https://www.thingiverse.com/thing:5203589</guid>
+            <enclosure url="https://cdn.thingiverse.com/assets/76/2a/f9/67/f7/Makita_Blower_Mount_v6.stl" length="324184" type="application/sla"/>
+        </item>
+        <item>
+            <title>Lifecam VX-3000 Support for Ender 3</title>
+            <link>https://www.thingiverse.com/thing:5218524</link>
+            <description><![CDATA[<div style="margin: 5px;"><a href="https://www.thingiverse.com/thing:5218524"><img src="https://cdn.thingiverse.com/assets/82/0d/23/b9/54/large_preview_Base_v5.png"  class="preview_large" style="width: 240px; height: 180px"></a><br/></div><div><div><p>This is a mount for the Microsoft LifeCam VX-3000 to attach to Ender-3.</p>
+<p>Remix of the C270 Webcam support for <a rel="nofollow" href="https://www.amazon.com/Official-Creality-3D-Removable-220x220x250MM/dp/B07K3SZBHJ?dchild=1&amp;keywords=ender+3&amp;qid=1612857257&amp;sr=8-1-spons&amp;psc=1&amp;linkCode=ll1&amp;tag=tv-nothing-20&amp;linkId=5419ace64a5f58b068a896710257ed13&amp;language=en_US&amp;ref_=as_li_ss_tl"> Ender 3</a>- remodel of the mount only. All other pieces created by OP Waverunner62. Cheers from Canada friend, my name is also Eric!</p>
+<p>Used the old mount as a base to expand model to support the shape and size of the webcam I already owned, the Microsoft LifeCam VX-3000.</p>
+<p>Printed on Ender-3 Max in about 12 hours in total. There is a clip base and a screw base to screw onto existing printer hardware. I recommend using the 45&deg; angle screw base for stability. Print at least 3 arms for full length and maneuverability. Use supports for the camera mount piece and print vertically aligned for best results. The rest of the pieces are best printed horizontally. Zip-ties for webcam cord is not necessary but can be used if you prefer.</p>
+<p>Hardware:<br>
+4x M4 30mm bolts<br>
+4x M4 Nuts</p></div></div>]]></description>
+            <author>lunarLarceny</author>
+            <pubDate>Thu, 27 Jan 2022 01:34:17 +0100</pubDate>
+            <guid>https://www.thingiverse.com/thing:5218524</guid>
+            <enclosure url="https://cdn.thingiverse.com/assets/58/33/8d/f6/11/VX3000_mount.stl" length="196884" type="application/sla"/>
+        </item>
+        <item>
+            <title>lightbearer laser engraver</title>
+            <link>https://www.thingiverse.com/thing:5218522</link>
+            <description><![CDATA[<div style="margin: 5px;"><a href="https://www.thingiverse.com/thing:5218522"><img src="https://cdn.thingiverse.com/assets/67/01/2d/eb/ec/large_preview_x_carriage_top.png"  class="preview_large" style="width: 240px; height: 180px"></a><br/></div><div><div><p>this is a custom core-xy frame for laser engraving. This is, in my honest opinion, the most user friendly frame. Super easy to assemble and minimum adjustment requires on belt tension to get it to work perfectly square. using mgn12 linear rails, there is minimum to no play on the axes. i have done my best, also, to keep the weight of the laser head the most centered and close to the x aluminium profile. Belt path is optimized and aligned with the frame.</p>
+<p>BOM:</p>
+<p>2040x600 (x2)<br>
+2020x600 (x3)<br>
+mgn12h x500mm (x3), optional: you can go for 550mm for the x but those are are to find<br>
+gt2 belt 6mm wide x 5m (2x2,5m)<br>
+gt2 toothed idlers 3mm i.d. (x6)<br>
+gt2 toothless idlers 5mm i.d (x2) because i didnt have 3mm i.d. toothless on hand but will update a newer version soon with 3mm i.d. ones.<br>
+gt2 16 teeth sprocket (for steppers)<br>
+0.9 nema17 steppers<br>
+2209/2208 stepper driver<br>
+your choice of board (im using arduino with a cnc shield)<br>
+15x10 cable drag chain<br>
+12v (5amp minimum) power supply<br>
+atomstack a5 laser head used for this project, if you need a different laserhead holder just let me know, in the meanwhile i will upload some more optional holder for the other brand so you could use your choice of laserhead.</p></div></div>]]></description>
+            <author>steph-vezina</author>
+            <pubDate>Thu, 27 Jan 2022 01:31:50 +0100</pubDate>
+            <guid>https://www.thingiverse.com/thing:5218522</guid>
+            <enclosure url="https://cdn.thingiverse.com/assets/51/bd/ac/9f/9a/x_switch_stopper.stl" length="28384" type="application/sla"/>
+        </item>
+        <item>
+            <title>Engagement Ring Case with Lithophane Insert (Screws Required)</title>
+            <link>https://www.thingiverse.com/thing:5218521</link>
+            <description><![CDATA[<div style="margin: 5px;"><a href="https://www.thingiverse.com/thing:5218521"><img src="https://cdn.thingiverse.com/assets/30/e5/ca/e5/d8/large_preview_IMG_20211224_192119.jpg"  class="preview_large" style="width: 240px; height: 180px"></a><br/></div><div><div><p>Full model can be purchased and downloaded from my Cults3D page:<br><a rel="nofollow" href="https://cults3d.com/en/3d-model/jewelry/engagement-ring-case-with-lithophane-insert-screws-required">https://cults3d.com/en/3d-model/jewelry/engagement-ring-case-with-lithophane-insert-screws-required</a></p>
+<p>Made this beautiful engagement ring case for my fiancee last christmas, just in time for Christmas Eve proposal. Now, you can too!</p>
+<p>Case dimensions 36mm (H) x 55mm (L) x 55mm (W) when closed.</p>
+<p>Lid hinge is designed such that the lid can stay up-right to the casing body without generating too much friction. Click-snap feature along the tip edge of the lid. Sand it down as required, but I found mine one printed okay.</p>
+<p>You can mount a lithophane portrait with dimensions of 35mm x 35mm x 3mm thick, at the back of the lid, then supported by the 2 layers of Lithophane support inserts and 3x M3 counter sunk screws.</p>
+<p>I use this free lithophane maker here:<br>
+(<a rel="nofollow" href="https://lithophanemaker.com/Framed%20Lithophane.html">https://lithophanemaker.com/Framed%20Lithophane.html</a>)</p>
+<p>The ring cushion will be a separate insert to the casing body. Best to be printed with TPU filament as it is elastic.</p>
+<p>DISCLAIMER: Avoid printing the ring cushion with hard material, otherwise it can potentially scratch your ring.</p>
+<p>Recommended ring dimensions for the current ring cushion design:</p>
+<p>Width of the band all the way around = 2.2mm<br>
+Depth of band = 1.5mm<br>
+Outside diameter = 19.5mm<br>
+Height from top of diamond to outside base of shank = 24mm</p>
+<p>Following screws will be required to complete the assembly:<br>
+2 x Pan Head Screws M2.5 x 16mm long - for fixing the hinge.<br>
+3 x Counter Sunk Screws M3 x 6mm long - for fixing the lithophane on lid.</p>
+<p>My case body and lid was printed using CCTREE Copper Filled PLA filament for elegant effect.<br>
+(<a rel="nofollow" href="https://www.amazon.co.uk/gp/product/B074W1WQL8/?tag=tv-nothing-20">https://www.amazon.co.uk/gp/product/B074W1WQL8/</a>)</p>
+<p>Apply few coats of Hycote spray for the fine polishing finish:<br>
+(<a rel="nofollow" href="https://www.amazon.co.uk/Hycote-Clear-Lacquer-400ml-Energy/dp/B004SNLNY2?tag=tv-nothing-20">https://www.amazon.co.uk/Hycote-Clear-Lacquer-400ml-Energy/dp/B004SNLNY2</a>)</p></div></div>]]></description>
+            <author>IvanC87</author>
+            <pubDate>Thu, 27 Jan 2022 01:31:18 +0100</pubDate>
+            <guid>https://www.thingiverse.com/thing:5218521</guid>
+            <enclosure url="https://cdn.thingiverse.com/assets/08/50/c5/74/25/Ring.stl" length="141284" type="application/sla"/>
+        </item>
+        <item>
+            <title>Cookie Cutters</title>
+            <link>https://www.thingiverse.com/thing:5218520</link>
+            <description><![CDATA[<div style="margin: 5px;"><a href="https://www.thingiverse.com/thing:5218520"><img src="https://cdn.thingiverse.com/assets/26/a3/c6/ee/d4/large_preview_Rectangle_Cookie_Cutter_35x70mm.png"  class="preview_large" style="width: 240px; height: 180px"></a><br/></div><div><div><p>These prints are designed to be printed at .2 Layer height. Use a minimum of 2 walls but more walls will decrease overall print time. The interior dimensions of these cookie cutters are as follows:</p>
+<p>Square: 2"x2" or 50.8x50.8mm<br>
+Rectangle: 35x70mm</p>
+<p>Hopefully, you enjoy these simple cookie cutters as much as my wife has!</p></div></div>]]></description>
+            <author>ashort1017</author>
+            <pubDate>Thu, 27 Jan 2022 01:29:55 +0100</pubDate>
+            <guid>https://www.thingiverse.com/thing:5218520</guid>
+            <enclosure url="https://cdn.thingiverse.com/assets/1e/8f/40/51/f0/Rectangle_Cookie_Cutter_35x70mm.stl" length="3284" type="application/sla"/>
+        </item>
+        <item>
+            <title>Ender 3 Pro PSU / Power Supply Cover 92x25, improved printability </title>
+            <link>https://www.thingiverse.com/thing:5218518</link>
+            <description><![CDATA[<div style="margin: 5px;"><a href="https://www.thingiverse.com/thing:5218518"><img src="https://cdn.thingiverse.com/assets/8f/e7/30/0a/a7/large_preview_PSUFanMod.png"  class="preview_large" style="width: 240px; height: 180px"></a><br/></div><div><div><p>This is a remix of a remix of a very nice honeycomb PSU cover for the <a rel="nofollow" href="https://www.amazon.com/Official-Creality-3D-Removable-220x220x250MM/dp/B07K3SZBHJ?dchild=1&amp;keywords=ender+3&amp;qid=1612857257&amp;sr=8-1-spons&amp;psc=1&amp;linkCode=ll1&amp;tag=tv-nothing-20&amp;linkId=5419ace64a5f58b068a896710257ed13&amp;language=en_US&amp;ref_=as_li_ss_tl"> Ender 3</a> Pro which was adjusted to improve printability of screw holes and overhanging parts that are inside the model.</p>
+<p>The only support needed now is for the large overhang at the front</p></div></div>]]></description>
+            <author>Wwuully</author>
+            <pubDate>Thu, 27 Jan 2022 01:27:12 +0100</pubDate>
+            <guid>https://www.thingiverse.com/thing:5218518</guid>
+            <enclosure url="https://cdn.thingiverse.com/assets/6e/6d/96/0f/4a/PSUFanMod.stl" length="727684" type="application/sla"/>
+        </item>
+        <item>
+            <title>Soccer cleat</title>
+            <link>https://www.thingiverse.com/thing:5218517</link>
+            <description><![CDATA[<div style="margin: 5px;"><a href="https://www.thingiverse.com/thing:5218517"><img src="https://cdn.thingiverse.com/assets/88/f3/e8/f9/f6/large_preview_shapr3d_export_2022-01-26_19h21m.png"  class="preview_large" style="width: 240px; height: 180px"></a><br/></div><div><div><p>Soccer cleat attachment for shoe</p></div></div>]]></description>
+            <author>Corbo_2</author>
+            <pubDate>Thu, 27 Jan 2022 01:25:28 +0100</pubDate>
+            <guid>https://www.thingiverse.com/thing:5218517</guid>
+            <enclosure url="https://cdn.thingiverse.com/assets/c1/4a/a9/8b/c5/shapr3d_export_2022-01-26_19h21m.stl" length="50384" type="application/sla"/>
+        </item>
+        <item>
+            <title>Snow Imp</title>
+            <link>https://www.thingiverse.com/thing:5218516</link>
+            <description><![CDATA[<div style="margin: 5px;"><a href="https://www.thingiverse.com/thing:5218516"><img src="https://cdn.thingiverse.com/assets/c6/6c/13/80/8e/large_preview_Snow_Imp.jpg"  class="preview_large" style="width: 240px; height: 180px"></a><br/></div><div><div><p>A Snow Imp.</p>
+<p>You can support me on <a rel="nofollow" href="https://www.patreon.com/Schlossbauer">https://www.patreon.com/Schlossbauer</a> if you like my work.</p></div></div>]]></description>
+            <author>schlossbauer</author>
+            <pubDate>Thu, 27 Jan 2022 01:22:19 +0100</pubDate>
+            <guid>https://www.thingiverse.com/thing:5218516</guid>
+            <enclosure url="https://cdn.thingiverse.com/assets/de/c1/e8/4b/6c/Snow_Imp.stl" length="20610184" type="application/sla"/>
+        </item>
+        <item>
+            <title>FX Wildcat Impact Dreamline Cocking Lever</title>
+            <link>https://www.thingiverse.com/thing:5218514</link>
+            <description><![CDATA[<div style="margin: 5px;"><a href="https://www.thingiverse.com/thing:5218514"><img src="https://cdn.thingiverse.com/assets/92/91/a1/8e/1d/large_preview_FX_Cocking_Lever_v4.png"  class="preview_large" style="width: 240px; height: 180px"></a><br/></div><div><div><p>FX Wildcat Impact Dreamline Cocking Lever</p>
+<p>This is a work in progress, and YMMV. </p></div></div>]]></description>
+            <author>nirinium</author>
+            <pubDate>Thu, 27 Jan 2022 01:19:39 +0100</pubDate>
+            <guid>https://www.thingiverse.com/thing:5218514</guid>
+            <enclosure url="https://cdn.thingiverse.com/assets/01/ba/0a/53/37/FX_Cocking_Lever_v4.stl" length="97684" type="application/sla"/>
+        </item>
+        <item>
+            <title>Magnetic Roku Remote</title>
+            <link>https://www.thingiverse.com/thing:5218508</link>
+            <description><![CDATA[<div style="margin: 5px;"><a href="https://www.thingiverse.com/thing:5218508"><img src="https://cdn.thingiverse.com/assets/74/9b/61/9f/3d/large_preview_Magnetic_Roku_Remote.png"  class="preview_large" style="width: 240px; height: 180px"></a><br/></div><div><div><p>Same as the one from  maxxscholten but I added a space in the back for 3mm wide 2mm high magnets so you can place it somewhere where it WON'T be swallowed up by the couch.</p></div></div>]]></description>
+            <author>Erikwithaknotac</author>
+            <pubDate>Thu, 27 Jan 2022 01:18:09 +0100</pubDate>
+            <guid>https://www.thingiverse.com/thing:5218508</guid>
+            <enclosure url="https://cdn.thingiverse.com/assets/1f/80/c0/79/6e/Magnetic_Roku_Remote.stl" length="93984" type="application/sla"/>
+        </item>
+        <item>
+            <title>The Ruck</title>
+            <link>https://www.thingiverse.com/thing:5218499</link>
+            <description><![CDATA[<div style="margin: 5px;"><a href="https://www.thingiverse.com/thing:5218499"><img src="https://cdn.thingiverse.com/assets/db/09/a4/a5/cf/large_preview_The_Ruck_1.png"  class="preview_large" style="width: 240px; height: 180px"></a><br/></div><div><div><p>The Rock but as a Duck! PETG Filament works the best.</p></div></div>]]></description>
+            <author>lilshaka757</author>
+            <pubDate>Thu, 27 Jan 2022 01:15:10 +0100</pubDate>
+            <guid>https://www.thingiverse.com/thing:5218499</guid>
+            <enclosure url="https://cdn.thingiverse.com/assets/25/08/32/53/66/The_Ruck_1.stl" length="1552784" type="application/sla"/>
+        </item>
+        <item>
+            <title>Shimano XT Brake Lever Piston Guide Top and Bottom</title>
+            <link>https://www.thingiverse.com/thing:5218483</link>
+            <description><![CDATA[<div style="margin: 5px;"><a href="https://www.thingiverse.com/thing:5218483"><img src="https://cdn.thingiverse.com/assets/d3/a3/e4/d5/f0/large_preview_Shimano_Bottom.png"  class="preview_large" style="width: 240px; height: 180px"></a><br/></div><div><div><p>Starting from cantankerousjoe's design for the top part, I re made the model in Inventor and made the bottom part as well.  I printed them in PTEG, they look fair, but I am afraid are not not too strong. Broke a couple during installation.<br>
+For Left Hand lever, you will need to mirror the bottom for Right Hand lever you need to mirror the top part before slicing.</p></div></div>]]></description>
+            <author>sevciu</author>
+            <pubDate>Thu, 27 Jan 2022 01:09:22 +0100</pubDate>
+            <guid>https://www.thingiverse.com/thing:5218483</guid>
+            <enclosure url="https://cdn.thingiverse.com/assets/89/85/81/62/19/Shimano_Bottom.stl" length="184984" type="application/sla"/>
+        </item>
+        <item>
+            <title>Pathtag Sherpa</title>
+            <link>https://www.thingiverse.com/thing:5218470</link>
+            <description><![CDATA[<div style="margin: 5px;"><a href="https://www.thingiverse.com/thing:5218470"><img src="https://cdn.thingiverse.com/assets/46/28/66/22/18/large_preview_2022-01-26_18.14.30.jpg"  class="preview_large" style="width: 240px; height: 180px"></a><br/></div><div><div><p>I designed this sherpa to be the diameter of a geocoin. The hole is large enough to hold a standard pathtag, and there's a small hole under it to glue in a 6x2mm magnet. I've included three STL files:</p>
+<p>1) Full.stl is 5mm thick and can be used to hold a pathtag on one side and a sticker on the other.</p>
+<p>2) Cutout.stl is 4.1mm thick and contains both holes. The intention is to attach it to another thin part (44.1mm in diameter) to create your own pathtag holder. Glue a "Coin" to a "Cutout" along with a magnet.</p>
+<p>3) Coin.stl is a sample design with something like the Pathtags logo. If you print the first layers in yellow, then swap to blue for the middle, and finally white for the last, it'll match the picture. I use .15mm resolution with the first layer at .3mm, so for me this was only 8 layers, and the first 2 layers were yellow (the star), the next 3 layers were blue, and the Iast 3 layers were white (the dots). Maybe you could design something personal for your own use.</p>
+<p>You might want to add a little "bump" around the magnet's hole to allow the pathtag to come out more easily. The way it is now, the fit is not tight, but the magnet holds it pretty securely, and it takes a "thwack" against your hand to get the pathtag out. A bump in the middle would allow you to just press down on one side of the pathtag to get the other side to pop up for easy removal. I like it a little more secure.</p></div></div>]]></description>
+            <author>GeekinTexas</author>
+            <pubDate>Thu, 27 Jan 2022 01:05:43 +0100</pubDate>
+            <guid>https://www.thingiverse.com/thing:5218470</guid>
+            <enclosure url="https://cdn.thingiverse.com/assets/c1/4c/64/9d/e7/Cutout.stl" length="38484" type="application/sla"/>
+        </item>
+        <item>
+            <title>Lithophane Box </title>
+            <link>https://www.thingiverse.com/thing:5218479</link>
+            <description><![CDATA[<div style="margin: 5px;"><a href="https://www.thingiverse.com/thing:5218479"><img src="https://cdn.thingiverse.com/assets/4c/c7/1a/4e/34/large_preview_lithophane_box_V4_v9print.png"  class="preview_large" style="width: 240px; height: 180px"></a><br/></div><div><div><p>Box and Plate are two different parts held together with 3mm double-sided tape. I used a small remote-controlled LED light to light it (amazon link below). Each tile is held on with the same 3mm double-sided tape. The tiles are made with lithophane maker(link below) with the dimensions of 85.5 by 85.5 by 3 mm, with a 0.2 resolution, and a 5 mm base height (everything else is the default).</p>
+<p>Tape: <a rel="nofollow" href="https://www.amazon.com/gp/product/B019OQ4ZG0/ref=ppx_yo_dt_b_asin_title_o01_s00?ie=UTF8&amp;th=1&amp;tag=tv-nothing-20">https://www.amazon.com/gp/product/B019OQ4ZG0/ref=ppx_yo_dt_b_asin_title_o01_s00?ie=UTF8&amp;th=1</a><br>
+Light: <a rel="nofollow" href="https://www.amazon.com/gp/product/B07FY57K63/ref=ppx_yo_dt_b_asin_title_o03_s00?ie=UTF8&amp;psc=1&amp;tag=tv-nothing-20">https://www.amazon.com/gp/product/B07FY57K63/ref=ppx_yo_dt_b_asin_title_o03_s00?ie=UTF8&amp;psc=1https://www.amazon.com/gp/product/B07FY57K63/ref=ppx_yo_dt_b_asin_title_o03_s00?ie=UTF8&amp;psc=1</a><br>
+lithophane Maker: <a rel="nofollow" href="https://lithophanemaker.com/Framed%20Lithophane.html">https://lithophanemaker.com/Framed%20Lithophane.html</a><br>
+Lithophane PLA: <a rel="nofollow" href="https://www.amazon.com/gp/product/B08JZ6QP9M/ref=ppx_yo_dt_b_asin_title_o02_s00?ie=UTF8&amp;psc=1&amp;tag=tv-nothing-20">https://www.amazon.com/gp/product/B08JZ6QP9M/ref=ppx_yo_dt_b_asin_title_o02_s00?ie=UTF8&amp;psc=1</a></p></div></div>]]></description>
+            <author>zacharye3</author>
+            <pubDate>Thu, 27 Jan 2022 01:03:31 +0100</pubDate>
+            <guid>https://www.thingiverse.com/thing:5218479</guid>
+            <enclosure url="https://cdn.thingiverse.com/assets/93/b8/3a/92/4d/lithophane_box_V4_v9print.stl" length="216484" type="application/sla"/>
+        </item>
+        <item>
+            <title>Underdesk_mount_Motorola_E_xt2052-1</title>
+            <link>https://www.thingiverse.com/thing:5218477</link>
+            <description><![CDATA[<div style="margin: 5px;"><a href="https://www.thingiverse.com/thing:5218477"><img src="https://cdn.thingiverse.com/assets/2b/0d/90/81/f4/large_preview_Underdesk_mount_Motorola_E_xt2052-1.png"  class="preview_large" style="width: 240px; height: 180px"></a><br/></div><div><div><p>Please Like and Follow me for design improvements.</p>
+<p>For access to the 3D Printing Knowledgebase with troubleshooting and design education, join our monthly Ko-fi membership. <a rel="nofollow" href="https://ko-fi.com/3dpkb/tiers">https://ko-fi.com/3dpkb/tiers</a></p></div></div>]]></description>
+            <author>GlitchStitcher</author>
+            <pubDate>Thu, 27 Jan 2022 01:01:21 +0100</pubDate>
+            <guid>https://www.thingiverse.com/thing:5218477</guid>
+            <enclosure url="https://cdn.thingiverse.com/assets/2c/8d/83/b7/04/Underdesk_mount_Motorola_E_xt2052-1.stl" length="61084" type="application/sla"/>
+        </item>
+        <item>
+            <title>Matek M9N-5883 Titan XL5 mount</title>
+            <link>https://www.thingiverse.com/thing:5218476</link>
+            <description><![CDATA[<div style="margin: 5px;"><a href="https://www.thingiverse.com/thing:5218476"><img src="https://cdn.thingiverse.com/assets/30/5e/27/ab/f1/large_preview_Version1.png"  class="preview_large" style="width: 240px; height: 180px"></a><br/></div><div><div><p>A shorter mount than the original designs I remixed from for the Matek M9N-5883 GPS module that I am using for my iFlight Nazgul5 V2 but should fit other XL5 models.</p></div></div>]]></description>
+            <author>StonyTark</author>
+            <pubDate>Thu, 27 Jan 2022 00:59:22 +0100</pubDate>
+            <guid>https://www.thingiverse.com/thing:5218476</guid>
+            <enclosure url="https://cdn.thingiverse.com/assets/37/96/b8/1a/74/Version1.obj" length="134564" type="application/octet-stream"/>
+        </item>
+        <item>
+            <title>Spool Adapter CR10 S Pro</title>
+            <link>https://www.thingiverse.com/thing:5218475</link>
+            <description><![CDATA[<div style="margin: 5px;"><a href="https://www.thingiverse.com/thing:5218475"><img src="https://cdn.thingiverse.com/assets/7c/c0/3b/0f/44/large_preview_thumbnail_image0.jpg"  class="preview_large" style="width: 240px; height: 180px"></a><br/></div><div><div><p>This is a remix from a design. I made the center hole bigger to fit the CR 10S Pro. See below for link to original design.<br><a rel="nofollow" href="/thing:3562398">https://www.thingiverse.com/thing:3562398</a></p></div></div>]]></description>
+            <author>Murray8765</author>
+            <pubDate>Thu, 27 Jan 2022 00:57:42 +0100</pubDate>
+            <guid>https://www.thingiverse.com/thing:5218475</guid>
+            <enclosure url="https://cdn.thingiverse.com/assets/56/4b/ef/6f/33/Filament_Spool_Adapter_cr10s-pro.stl" length="56484" type="application/sla"/>
+        </item>
+        <item>
+            <title>Air vent cover</title>
+            <link>https://www.thingiverse.com/thing:5218474</link>
+            <description><![CDATA[<div style="margin: 5px;"><a href="https://www.thingiverse.com/thing:5218474"><img src="https://cdn.thingiverse.com/assets/be/8e/8a/5b/fe/large_preview_vent_cover_2.jpg"  class="preview_large" style="width: 240px; height: 180px"></a><br/></div><div><div><p>I wanted an to make an air vent cover because I was tired of air blowing on me while I'm a my desk so I made this. This cover is for half of the vent so print 2 to redirect to whole vent. </p></div></div>]]></description>
+            <author>maker1218</author>
+            <pubDate>Thu, 27 Jan 2022 00:54:05 +0100</pubDate>
+            <guid>https://www.thingiverse.com/thing:5218474</guid>
+            <enclosure url="https://cdn.thingiverse.com/assets/80/03/99/25/d7/vent_cover_v5.stl" length="112884" type="application/sla"/>
+        </item>
+        <item>
+            <title>Wireless Charger Car Holder</title>
+            <link>https://www.thingiverse.com/thing:5214493</link>
+            <description><![CDATA[<div style="margin: 5px;"><a href="https://www.thingiverse.com/thing:5214493"><img src="https://cdn.thingiverse.com/assets/d3/4d/98/ba/4c/large_preview_wireless_phone_holder-3.png"  class="preview_large" style="width: 240px; height: 180px"></a><br/></div><div><div><p>Needed a car center console holder for my Anker charger.  Remixed Bitterbuffalo's mount so it lays flat and made some cutouts for the charging cord.  Seems to work for my Samsung.  Also added a forward attachment to mount a pair of 40mm (or one 80mm) fan for cooling purposes (center console doesn't get much airflow).    </p></div></div>]]></description>
+            <author>crasyhorse44</author>
+            <pubDate>Thu, 27 Jan 2022 00:53:37 +0100</pubDate>
+            <guid>https://www.thingiverse.com/thing:5214493</guid>
+            <enclosure url="https://cdn.thingiverse.com/assets/2d/3c/5e/6c/59/wireless_phone_holder-3.stl" length="190284" type="application/sla"/>
+        </item>
+        <item>
+            <title>Truck Tonneau Cover Lever</title>
+            <link>https://www.thingiverse.com/thing:5218473</link>
+            <description><![CDATA[<div style="margin: 5px;"><a href="https://www.thingiverse.com/thing:5218473"><img src="https://cdn.thingiverse.com/assets/34/02/d8/c8/4b/large_preview_Tonneau_Cover_Lever_Bottom.png"  class="preview_large" style="width: 240px; height: 180px"></a><br/></div><div><div><p>This is a replacement lever for the tonneau cover on my Ford Ranger. I couldn't find any designs that matched the one I already had (and I didn't want to spend the $30-40 on a new one) so I designed my own.</p>
+<p>The original is made out of a more flexible plastic that allows for tension between the top and bottom pieces. Since I printed this in PLA, I had to come up with another way to lock the lever in place, which I did with a small notch on the top piece. Because of this, the lever sort of snaps a bit when unlocking (when I tested it on my truck) but it should smooth out a bit over time. </p>
+<p>I also included an unthreaded barrel nut that I used (just forced the bolt through to create a thread and it holds well). Metal would be nicer but I wasn't able to find an M6 barrel nut anywhere in my city.</p>
+<p>It's not perfect but it seems to work enough. Any remixes to improve it would be great!</p>
+<p>I've uploaded a picture of it in use, along with the original one on the other side of the truck (in black) to compare.</p></div></div>]]></description>
+            <author>GooseShaw</author>
+            <pubDate>Thu, 27 Jan 2022 00:52:56 +0100</pubDate>
+            <guid>https://www.thingiverse.com/thing:5218473</guid>
+            <enclosure url="https://cdn.thingiverse.com/assets/76/46/26/8b/6d/Tonneau_Cover_Lever_Top.stl" length="337181" type="application/sla"/>
+        </item>
+        <item>
+            <title>Traxxas Maxx wheelie bar wheels with tires</title>
+            <link>https://www.thingiverse.com/thing:5218471</link>
+            <description><![CDATA[<div style="margin: 5px;"><a href="https://www.thingiverse.com/thing:5218471"><img src="https://cdn.thingiverse.com/assets/b2/a1/da/a9/47/large_preview_2.jpg"  class="preview_large" style="width: 240px; height: 180px"></a><br/></div><div><div><p>The Traxxas Maxx factory wheelie bar wheels make an awful scratching sound whenever they come into contact with cement. These wheels for the wheelie bar are designed to employ a TPU tire so it's nice and quiet. The wheel can be printed in PLA, PETG, ABS, whatever really. The factory axle and spacer parts inside the original wheels are used in these replacement wheels as well. Traxxas part number 5119a is a bearing that can be used to replace the factory plastic spacers if one wishes but is not necessary.</p></div></div>]]></description>
+            <author>3DprintingMark</author>
+            <pubDate>Thu, 27 Jan 2022 00:48:29 +0100</pubDate>
+            <guid>https://www.thingiverse.com/thing:5218471</guid>
+            <enclosure url="https://cdn.thingiverse.com/assets/be/9a/60/be/91/wheel.stl" length="411984" type="application/sla"/>
+        </item>
+        <item>
+            <title>Curve Ring</title>
+            <link>https://www.thingiverse.com/thing:5218459</link>
+            <description><![CDATA[<div style="margin: 5px;"><a href="https://www.thingiverse.com/thing:5218459"><img src="https://cdn.thingiverse.com/assets/0d/bd/ad/9b/bc/large_preview_Curve_Ring_No1.png"  class="preview_large" style="width: 240px; height: 180px"></a><br/></div><div><div><p>My fast post !</p>
+<p>You can adjust the size for your finger<br>
+paint printed ring &amp; enjoy only your fashion.</p></div></div>]]></description>
+            <author>Under_Ground_Designer</author>
+            <pubDate>Thu, 27 Jan 2022 00:44:51 +0100</pubDate>
+            <guid>https://www.thingiverse.com/thing:5218459</guid>
+            <enclosure url="https://cdn.thingiverse.com/assets/03/d0/60/b9/5f/Curve_Ring_No1.stl" length="7138584" type="application/sla"/>
+        </item>
+        <item>
+            <title>Van Halen Band Plaque</title>
+            <link>https://www.thingiverse.com/thing:5218466</link>
+            <description><![CDATA[<div style="margin: 5px;"><a href="https://www.thingiverse.com/thing:5218466"><img src="https://cdn.thingiverse.com/assets/db/7c/0c/8d/32/large_preview_Emblem-Van-Halen.jpg"  class="preview_large" style="width: 240px; height: 180px"></a><br/></div><div><div><p>This is my first ever custom-made 3d print. I made it a couple of years ago, just after EVH passed away. I never thought to upload it until now. Print this with 20 percent infill, Standard support (touching buildplate), and on high quality.</p></div></div>]]></description>
+            <author>dubred</author>
+            <pubDate>Thu, 27 Jan 2022 00:44:40 +0100</pubDate>
+            <guid>https://www.thingiverse.com/thing:5218466</guid>
+            <enclosure url="https://cdn.thingiverse.com/assets/ca/dc/69/ff/fe/Van_Halen.stl" length="509684" type="application/sla"/>
+        </item>
+        <item>
+            <title>Cherry Tomato or Grape Cutter</title>
+            <link>https://www.thingiverse.com/thing:5218468</link>
+            <description><![CDATA[<div style="margin: 5px;"><a href="https://www.thingiverse.com/thing:5218468"><img src="https://cdn.thingiverse.com/assets/c3/ad/13/46/97/large_preview_tomato_cutter.png"  class="preview_large" style="width: 240px; height: 180px"></a><br/></div><div><div><p>My mother is super paranoid about my kids choking. (They are a 7 and 11). She texts me for no reason to make sure I am cutting up their grapes.</p>
+<p>I printed this to ease her panic, but then realized it actually works really great for cutting cherry tomatoes for salads, olives, grapes, etc. </p>
+<p>Load the tomatoes/olives/grapes into the top, and then drag a sharp knife down the slot. </p></div></div>]]></description>
+            <author>Keyarra</author>
+            <pubDate>Thu, 27 Jan 2022 00:44:31 +0100</pubDate>
+            <guid>https://www.thingiverse.com/thing:5218468</guid>
+            <enclosure url="https://cdn.thingiverse.com/assets/60/23/f0/07/99/tomato_cutter.stl" length="114484" type="application/sla"/>
+        </item>
+        <item>
+            <title>ESP32-CAM case with GoPro style bracket</title>
+            <link>https://www.thingiverse.com/thing:5218467</link>
+            <description><![CDATA[<div style="margin: 5px;"><a href="https://www.thingiverse.com/thing:5218467"><img src="https://cdn.thingiverse.com/assets/c5/d7/96/2e/cb/large_preview_20220126_164117.jpg"  class="preview_large" style="width: 240px; height: 180px"></a><br/></div><div><div><p>I moved the antennae bracket to make it a bit more compact, plus rounded up the edges a bit more and re-positioned the micro SD card slot for a better fit.</p>
+<p>I've included a plain back; plus one with a bracket, which I hope fits a GoPro style mount (I don't have a GoPro mount to test it on).</p>
+<p>Please note, that due to the slight changes to the outside radius', <strong><em>these parts are not truly interchangeable with the original version</em></strong>.</p></div></div>]]></description>
+            <author>Joew1120</author>
+            <pubDate>Thu, 27 Jan 2022 00:42:33 +0100</pubDate>
+            <guid>https://www.thingiverse.com/thing:5218467</guid>
+            <enclosure url="https://cdn.thingiverse.com/assets/a5/44/ad/87/2e/Back.stl" length="126484" type="application/sla"/>
+        </item>
+        <item>
+            <title>m12 vacuum mount</title>
+            <link>https://www.thingiverse.com/thing:5218465</link>
+            <description><![CDATA[<div style="margin: 5px;"><a href="https://www.thingiverse.com/thing:5218465"><img src="https://cdn.thingiverse.com/assets/64/a5/30/23/c0/large_preview_milwaukee_M12_vacuum_mount_v1.png"  class="preview_large" style="width: 240px; height: 180px"></a><br/></div><div><div><p>holds all attachments and vacuum printed at 100 percent scale and 25 percent infill </p></div></div>]]></description>
+            <author>Netra2303</author>
+            <pubDate>Thu, 27 Jan 2022 00:41:39 +0100</pubDate>
+            <guid>https://www.thingiverse.com/thing:5218465</guid>
+            <enclosure url="https://cdn.thingiverse.com/assets/4d/d2/f1/11/ea/milwaukee_M12_vacuum_mount_v0.f3d" length="141224" type="application/octet-stream"/>
+        </item>
+        <item>
+            <title>Nefertiti with support</title>
+            <link>https://www.thingiverse.com/thing:5218464</link>
+            <description><![CDATA[<div style="margin: 5px;"><a href="https://www.thingiverse.com/thing:5218464"><img src="https://cdn.thingiverse.com/assets/1d/de/cc/0e/b9/large_preview_Nifi.jpg"  class="preview_large" style="width: 240px; height: 180px"></a><br/></div><div><div><p>This is my version with the support for the bust and the name on the support, my brand can also be seen under the support in the non-visible region of the piece</p></div></div>]]></description>
+            <author>SCHMIDT</author>
+            <pubDate>Thu, 27 Jan 2022 00:41:24 +0100</pubDate>
+            <guid>https://www.thingiverse.com/thing:5218464</guid>
+            <enclosure url="https://cdn.thingiverse.com/assets/26/81/39/75/ac/Nefertiti_Suport-Schmidt.stl" length="43023684" type="application/sla"/>
+        </item>
+        <item>
+            <title>Qidi i-fast Front Gap Cover/Vent</title>
+            <link>https://www.thingiverse.com/thing:5218463</link>
+            <description><![CDATA[<div style="margin: 5px;"><a href="https://www.thingiverse.com/thing:5218463"><img src="https://cdn.thingiverse.com/assets/2a/6a/94/ee/b9/large_preview_FrontVent.png"  class="preview_large" style="width: 240px; height: 180px"></a><br/></div><div><div><p>This was created to fill the front gap in the Qidi i-fast.  It simply clips in along the inner edge of the door frame.  Two sided tape can be used to secure the bottom and to secure the two pieces together.  Each vent will cover half of the gap so you will need to print two.</p>
+<p>I will eventually remix this to flare out a bit at the bottom edge to follow the contour of the printer a bit more tightly along the edges but these work well and leave very little space once installed.  </p>
+<p>I printed them using a tough PLA.  Time will tell if they warp once I crank the heat up in the chamber but at 80 degrees celsius they had no issues.</p></div></div>]]></description>
+            <author>NateCPR</author>
+            <pubDate>Thu, 27 Jan 2022 00:39:27 +0100</pubDate>
+            <guid>https://www.thingiverse.com/thing:5218463</guid>
+            <enclosure url="https://cdn.thingiverse.com/assets/80/f4/2c/5e/52/FrontVent.stl" length="415384" type="application/sla"/>
+        </item>
+        <item>
+            <title>Clarkson University Logo</title>
+            <link>https://www.thingiverse.com/thing:5218461</link>
+            <description><![CDATA[<div style="margin: 5px;"><a href="https://www.thingiverse.com/thing:5218461"><img src="https://cdn.thingiverse.com/assets/fa/88/29/27/9e/large_preview_ClarksonLogo.png"  class="preview_large" style="width: 240px; height: 180px"></a><br/></div><div><div><p>Clarkson University New Logo I modeled, I do not own this and Im not making money off of this. </p></div></div>]]></description>
+            <author>po3plestorm</author>
+            <pubDate>Thu, 27 Jan 2022 00:37:57 +0100</pubDate>
+            <guid>https://www.thingiverse.com/thing:5218461</guid>
+            <enclosure url="https://cdn.thingiverse.com/assets/99/aa/5c/91/5c/ClarksonLogo.stl" length="23779384" type="application/sla"/>
+        </item>
+        <item>
+            <title>rim fire rifle magazine rack</title>
+            <link>https://www.thingiverse.com/thing:5218460</link>
+            <description><![CDATA[<div style="margin: 5px;"><a href="https://www.thingiverse.com/thing:5218460"><img src="https://cdn.thingiverse.com/assets/43/ba/50/9c/c2/large_preview_rim_fire_rifle_mag_holder_v1.png"  class="preview_large" style="width: 240px; height: 180px"></a><br/></div><div><div><p>fits ruger 10/22 10 rd mags and savage b mag in 22lr 22 mag 17hmr 17wsm print at 102 percent for savage mags disigned to be screwed to the wall inside ur safe to make aditional storage for mags included file for fusion 360 so you can modify if needed for ur needs</p></div></div>]]></description>
+            <author>Netra2303</author>
+            <pubDate>Thu, 27 Jan 2022 00:37:01 +0100</pubDate>
+            <guid>https://www.thingiverse.com/thing:5218460</guid>
+            <enclosure url="https://cdn.thingiverse.com/assets/46/f1/8c/69/e6/rim_fire_rifle_mag_holder_v1.3mf" length="11527" type="application/octet-stream"/>
+        </item>
+    </channel>
+</rss>

@@ -23,7 +23,7 @@ module triagleSphere(iX, iY, iZ, iD){
 		color("grey")		translate([-iX+halfD, (iY/2)-halfD, halfD]) sphere(d=iD);
 		color("green")	translate([-halfD   , (iY/2)-halfD, iZ-halfD]) sphere(d=iD);
 
-		color("red")		translate([-halfD   , -(iY/2)+halfD, halfD]) sphere(d=iD);	
+		color("red")		translate([-halfD   , -(iY/2)+halfD, halfD]) sphere(d=iD);
 		color("grey")		translate([-iX+halfD, -(iY/2)+halfD, halfD]) sphere(d=iD);
 		color("green")	translate([-halfD   , -(iY/2)+halfD, iZ-halfD]) sphere(d=iD);
 	}
@@ -50,4 +50,20 @@ module mText(l, letter_size = 10, letter_height = 4) {
 	linear_extrude(height = letter_height) {
 		text(l, size = letter_size, font = font, halign = "center", valign = "center", $fn = 16);
 	}
+}
+module roundedTrapezoid(x1=1, y1=1,x2=1, y2=1, z1=1, d1=6){
+  hull(){
+  // top Right
+    translate([-x1,y1,0])
+      cylinder(h=z1,d=d1,center=true);
+  // Top Left
+    translate([-x1,-y1,0])
+      cylinder(h=z1,d=d1,center=true);
+  // Bottom Right
+    translate([-x2,y2,0])
+      cylinder(h=z1,d=d1,center=true);
+  // Bottom Left
+    translate([-x2,-y2,0])
+      cylinder(h=z1,d=d1,center=true);
+  }
 }

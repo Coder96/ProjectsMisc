@@ -1,0 +1,411 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!-- generator="FeedCreator 1.7.2-ppt (info@mypapit.net)" -->
+<rss version="2.0">
+    <channel>
+        <title>Thingiverse - Newest Things</title>
+        <description><![CDATA[The newest and coolest things from Thingiverse.com]]></description>
+        <link>https://www.thingiverse.com/newest</link>
+        <lastBuildDate>Fri, 28 Jan 2022 17:00:02 +0100</lastBuildDate>
+        <generator>FeedCreator 1.7.2-ppt (info@mypapit.net)</generator>
+        <language>en-us</language>
+        <copyright>Copyright 2022, Thingiverse.com</copyright>
+        <item>
+            <title>Shelf Queen Axles for Crawler</title>
+            <link>https://www.thingiverse.com/thing:5216561</link>
+            <description><![CDATA[<div style="margin: 5px;"><a href="https://www.thingiverse.com/thing:5216561"><img src="https://cdn.thingiverse.com/assets/f6/10/85/77/71/large_preview_Shelf_Queen_Thumb.jpg"  class="preview_large" style="width: 240px; height: 180px"></a><br/></div><div><div><p>Hi guys,</p>
+<p>If you have a sweet sweet crawler body shell that you hardly ever run and you're like me, it spends a lot of time sitting on the shelf, alone and forlorn.  Why not build a cheap chassis to put it on?  These axle housings are dirt cheap if you have a 3D printer.  They probably don't make any sense if you don't because you can just buy a set of cheap axles.  All you need to make these work really well is a set of cheap drive shafts and some screws.</p>
+<p>Dirt cheap drive shafts (the fronts are notoriously weak):  <a rel="nofollow" href="https://www.injora.com/products/metal-axle-dogbone-shaft-gear-for-injora-90046-axle-replacement-parts?variant=39449036095536">https://www.injora.com/products/metal-axle-dogbone-shaft-gear-for-injora-90046-axle-replacement-parts?variant=39449036095536</a></p>
+<p>Still cheap but much better fronts:  <a rel="nofollow" href="https://www.injora.com/products/metal-cvd-dogbone-shaft-axle-gear-for-injora-yqcq-02-axle?variant=39727162753072">https://www.injora.com/products/metal-cvd-dogbone-shaft-axle-gear-for-injora-yqcq-02-axle?variant=39727162753072</a></p>
+<p>I would buy the better quality drive shafts:  a) if you have an SCX10 and b) you think you might use them in the future for any reason.</p>
+<p>You will also need:</p>
+<p>4 M2.5x16mm screws to secure the back half of the axle shell<br>
+4 M2x8mm screws to secure the pinion carrier</p>
+<p>For axles with screw on link mounts:</p>
+<p>8 M3x8mm screws to secure link mounts to axle</p>
+<p>You can make do with less screws or slightly different lengths, just be sure to check the fit.</p>
+<p>I strongly recommend drilling thru holes and pre-tapping screw holes (run a screw into each hole with the parts loose).</p>
+<p>Assembly video:  <a rel="nofollow" href="https://youtu.be/2pGlL0M1Tlg">https://youtu.be/2pGlL0M1Tlg</a></p>
+<p>Most of the plastic parts from the functional axles I've made are usable as Shelf queen parts but some have bearing cups you will need to account for (use a fake bearing for shelf queen purposes).</p>
+<p>For functional axles I would print them at a heat wear stringing begins with near 100% infill.  For pure shelf queen, use whatever settings you like.</p>
+<p>Parts options (for 2 axles each):</p>
+<p>BOM1 (integral link mount on axle)  NOT recommended:</p>
+<p>2x  Axle_L1_Pinion_Side_SQ.stl<br>
+2x  Axle_L1_Cover_SQ.stl</p>
+<p>2x  V2_Pinion_Carrier_SQ.stl<br>
+2x  Axle_Input_Shaft_SQ.stl<br>
+2x  Fake_Spool_SQ.stl<br>
+2x  Fake_Rear_Bearing_SQ.stl<br>
+2x  Rear_Outer_5x11x4_F.stl<br>
+1x  Left_Caster_Block_SQ.stl<br>
+1x  mirrored Left_Caster_Block_SQ.stl<br>
+1x  Injora_Knuckle_SQ.stl<br>
+1x  mirrored Injora_Knuckle_SQ.stl</p>
+<p>4 M2.5x16mm screws to secure the back half of the axle shell<br>
+4 M2x8mm screws to secure the pinion carrier</p>
+<p>BOM2 (Screw on link mounts):</p>
+<p>2x  Axle_L2_Pinion_Side_SQ.stl<br>
+2x  Axle_L2_Cover_SQ.stl<br>
+4x  Link_Mount_SQ.stl</p>
+<p>2x  V2_Pinion_Carrier_SQ.stl<br>
+2x  Axle_Input_Shaft_SQ.stl<br>
+2x  Fake_Spool_SQ.stl<br>
+2x  Fake_Rear_Bearing_SQ.stl<br>
+2x  Rear_Outer_5x11x4_F.stl<br>
+1x  Left_Caster_Block_SQ.stl<br>
+1x  mirrored Left_Caster_Block_SQ.stl<br>
+1x  Injora_Knuckle_SQ.stl<br>
+1x  mirrored Injora_Knuckle_SQ.stl</p>
+<p>4 M2.5x16mm screws to secure the back half of the axle shell<br>
+4 M2x8mm screws to secure the pinion carrier<br>
+8 M3x8mm screws to secure link mounts to axle</p>
+<p>BOM3 (Screw on link mounts AND removeable diff cover):</p>
+<p>2x  Axle_L2_Pinion_Side_SQ.stl<br>
+2x  Axle_L2_V2_Cover_SQ.stl<br>
+2x  Axle_L2_V2_Diff_Cover_SQ.stl<br>
+4x  Link_Mount_SQ.stl</p>
+<p>2x  V2_Pinion_Carrier_SQ.stl<br>
+2x  Axle_Input_Shaft_SQ.stl<br>
+2x  Fake_Spool_SQ.stl<br>
+2x  Fake_Rear_Bearing_SQ.stl<br>
+2x  Rear_Outer_5x11x4_F.stl<br>
+1x  Left_Caster_Block_SQ.stl<br>
+1x  mirrored Left_Caster_Block_SQ.stl<br>
+1x  Injora_Knuckle_SQ.stl<br>
+1x  mirrored Injora_Knuckle_SQ.stl</p>
+<p>4 M2.5x16mm screws to secure the back half of the axle shell<br>
+4 M2x8mm screws to secure the pinion carrier<br>
+8 M3x8mm screws to secure link mounts to axle</p>
+<p>Wrench to drive or drive to wrench?</p></div></div>]]></description>
+            <author>WrenchToDrive</author>
+            <pubDate>Fri, 28 Jan 2022 16:58:48 +0100</pubDate>
+            <guid>https://www.thingiverse.com/thing:5216561</guid>
+            <enclosure url="https://cdn.thingiverse.com/assets/1f/de/41/52/51/Axle_Input_Shaft_SQ.stl" length="17084" type="application/sla"/>
+        </item>
+        <item>
+            <title>TBS sourceONE v4 expressLRS antenna/rx mount</title>
+            <link>https://www.thingiverse.com/thing:5221053</link>
+            <description><![CDATA[<div style="margin: 5px;"><a href="https://www.thingiverse.com/thing:5221053"><img src="https://cdn.thingiverse.com/assets/6f/c6/93/54/ae/large_preview_sourceone_expresslrs_with_rx_v2.png"  class="preview_large" style="width: 240px; height: 180px"></a><br/></div><div><div><p>Hello guys,<br>
+Kudos to @deft0nes for his design, I just modified it a bit to fit the v4 frame which has a different spacing.</p></div></div>]]></description>
+            <author>Angelbast</author>
+            <pubDate>Fri, 28 Jan 2022 16:58:32 +0100</pubDate>
+            <guid>https://www.thingiverse.com/thing:5221053</guid>
+            <enclosure url="https://cdn.thingiverse.com/assets/16/88/b7/72/60/sourceone_expresslrs_with_rx_v2.stl" length="180084" type="application/sla"/>
+        </item>
+        <item>
+            <title>LED Bottom Lit Display Base</title>
+            <link>https://www.thingiverse.com/thing:5221052</link>
+            <description><![CDATA[<div style="margin: 5px;"><a href="https://www.thingiverse.com/thing:5221052"><img src="https://cdn.thingiverse.com/assets/12/64/eb/72/7d/large_preview_LED_Box_Bottom_Plate.png"  class="preview_large" style="width: 240px; height: 180px"></a><br/></div><div><div><p>This is a LED backlit (or bottom lit) display stand for your 3D prints (I'm using this one for the glow in the dark Eiffel Tower). But It could be used for anything that'll fit on a 135mm x 135mm platform. The base could be scaled up to match your need. It may throw some of the geometry off for the screw holes and the wire pass through hole. As well as the PCB designed for this stand. </p>
+<p>For this project, I used a black PLA for the base, and a wood filament for the outer housing. The wood filament was sanded down using 80, and then 220 grit, and then stained with a polyurethane stain from Lowe's. It only needed one coat to get my desired shade. </p>
+<p>I used a 3mm sheet of plexiglass that was scuffed on one side to create a "frost" effect. I'm not sure if that's going to be the final piece for production. I may use the same plexiglass but pickup some frost film from Lowe's and see if that diffuses the light any better.</p>
+<p>I've attached my gerber file if you'd like to use the PCB as well for the main lighting. I didn't realized it until after the fact, but my Blue and Green terminals are reversed. So from top to bottom its 12V, G, R, B. Just a FYI. </p>
+<p>The current PCB supports 64 5050 RGBs. I have a second (way more polished) PCB that I'm waiting on from JLCPBC. That one will have 90 LEDs</p>
+<p>As it stands now, the base is super bright.</p>
+<p>Pictures will get updated as this project progresses. </p>
+<p>Here's some links to everything used in this project. </p>
+<p>Wood Stain:<br><a rel="nofollow" href="https://www.lowes.com/pd/Minwax-PolyShades-Gloss-Espresso-Oil-Based-Interior-Stain-Actual-Net-Contents-8-fl-oz/999913965">https://www.lowes.com/pd/Minwax-PolyShades-Gloss-Espresso-Oil-Based-Interior-Stain-Actual-Net-Contents-8-fl-oz/999913965</a></p>
+<p>Plexiglass: <a rel="nofollow" href="https://www.amazon.com/dp/B083TR7K9W/ref=cm_sw_r_oth_apip_9bLWMtXBobCTq?tag=tv-nothing-20">https://www.amazon.com/dp/B083TR7K9W/ref=cm_sw_r_oth_apip_9bLWMtXBobCTq</a></p>
+<p>5050 RGB Leds:<br><a rel="nofollow" href="https://www.amazon.com/Tricolor-Multicolor-Lighting-Electronics-Components/dp/B01CUGABPU/ref=sr_1_1?crid=688LXDLFW2Z9&amp;keywords=5050+leds+components&amp;qid=1643388029&amp;sprefix=5050+leds+components%2Caps%2C42&amp;sr=8-1&amp;tag=tv-nothing-20">https://www.amazon.com/Tricolor-Multicolor-Lighting-Electronics-Components/dp/B01CUGABPU/ref=sr_1_1?crid=688LXDLFW2Z9&amp;keywords=5050+leds+components&amp;qid=1643388029&amp;sprefix=5050+leds+components%2Caps%2C42&amp;sr=8-1</a></p>
+<p>200&Omega; 0603 Resistors:<br><a rel="nofollow" href="https://www.amazon.com/dp/B08QS4DBCX/ref=cm_sw_r_oth_api_glt_i_3E1QX2VT8TVF7ZRK6QRF?tag=tv-nothing-20">https://www.amazon.com/dp/B08QS4DBCX/ref=cm_sw_r_oth_api_glt_i_3E1QX2VT8TVF7ZRK6QRF</a></p>
+<p>M.2 Screw Kit:<br><a rel="nofollow" href="https://www.amazon.com/SGTKJSJS-M-2-Screw-NVMe-Mounting/dp/B07Q3DLCJ4?tag=tv-nothing-20">https://www.amazon.com/SGTKJSJS-M-2-Screw-NVMe-Mounting/dp/B07Q3DLCJ4</a></p>
+<p>LED Controller:<br><a rel="nofollow" href="https://www.amazon.com/dp/B07RX57HDL/ref=cm_sw_r_awdo_navT_a_HZS3MJVE47FXZYZVT770?tag=tv-nothing-20">https://www.amazon.com/dp/B07RX57HDL/ref=cm_sw_r_awdo_navT_a_HZS3MJVE47FXZYZVT770</a></p></div></div>]]></description>
+            <author>4nlife</author>
+            <pubDate>Fri, 28 Jan 2022 16:58:02 +0100</pubDate>
+            <guid>https://www.thingiverse.com/thing:5221052</guid>
+            <enclosure url="https://cdn.thingiverse.com/assets/9f/83/1f/fa/f4/LED_Box_Outer_Housing.stl" length="34084" type="application/sla"/>
+        </item>
+        <item>
+            <title>Top's CNC V2 - demi-coque fiaxtion+gousset MAKITA</title>
+            <link>https://www.thingiverse.com/thing:5221051</link>
+            <description><![CDATA[<div style="margin: 5px;"><a href="https://www.thingiverse.com/thing:5221051"><img src="https://cdn.thingiverse.com/assets/6b/bf/de/fd/e1/large_preview_Demi_coque_Makita_%2B_Goussets.png"  class="preview_large" style="width: 240px; height: 180px"></a><br/></div><div><div><p>Demi coque pour la fixation uniquement de la MAKITA sur la CNC Top's V2</p></div></div>]]></description>
+            <author>ericfourmont</author>
+            <pubDate>Fri, 28 Jan 2022 16:57:57 +0100</pubDate>
+            <guid>https://www.thingiverse.com/thing:5221051</guid>
+            <enclosure url="https://cdn.thingiverse.com/assets/42/87/bf/9d/d8/Demi_coque_Makita_%2B_Goussets.stl" length="53084" type="application/sla"/>
+        </item>
+        <item>
+            <title>1930's Streamliner Steam Locomotive</title>
+            <link>https://www.thingiverse.com/thing:5221049</link>
+            <description><![CDATA[<div style="margin: 5px;"><a href="https://www.thingiverse.com/thing:5221049"><img src="https://cdn.thingiverse.com/assets/39/91/65/d2/1c/large_preview_Streamliner.png"  class="preview_large" style="width: 240px; height: 180px"></a><br/></div><div><div><p>A Simple model I made of a Streamliner engine from the 1930s. These trains had a unique design for their time that reduced air friction and enabled them to travel faster than other designs. This design was heavily based on the Pennsylvania Railroad No. 3768 engine.</p></div></div>]]></description>
+            <author>Parking_Meter</author>
+            <pubDate>Fri, 28 Jan 2022 16:56:12 +0100</pubDate>
+            <guid>https://www.thingiverse.com/thing:5221049</guid>
+            <enclosure url="https://cdn.thingiverse.com/assets/ca/49/8d/f9/70/Streamliner.stl" length="754484" type="application/sla"/>
+        </item>
+        <item>
+            <title>TBS Source One V4 - XT60 and BN-220T gps holder with SMA antenna</title>
+            <link>https://www.thingiverse.com/thing:5221048</link>
+            <description><![CDATA[<div style="margin: 5px;"><a href="https://www.thingiverse.com/thing:5221048"><img src="https://cdn.thingiverse.com/assets/20/e9/77/ad/7a/large_preview_TBS_Source_One_V4_xt60_gps-bn220t_sma_v1_v2.png"  class="preview_large" style="width: 240px; height: 180px"></a><br/></div><div><div><p>Hello guys,<br>
+Kudos to @BlackBird702 for his design<br>
+I just changed the gps cable access because in my case the connector wasn't able to go through the designed hole, so made i go by under the support.</p></div></div>]]></description>
+            <author>Angelbast</author>
+            <pubDate>Fri, 28 Jan 2022 16:55:26 +0100</pubDate>
+            <guid>https://www.thingiverse.com/thing:5221048</guid>
+            <enclosure url="https://cdn.thingiverse.com/assets/70/df/d2/8b/b9/TBS_Source_One_V4_xt60_gps-bn220t_sma_v1_v2.stl" length="214584" type="application/sla"/>
+        </item>
+        <item>
+            <title>Tolerance Tests- Sockets</title>
+            <link>https://www.thingiverse.com/thing:5221047</link>
+            <description><![CDATA[<div style="margin: 5px;"><a href="https://www.thingiverse.com/thing:5221047"><img src="https://cdn.thingiverse.com/assets/9d/6a/a4/68/ef/large_preview_tolerance-0.png"  class="preview_large" style="width: 240px; height: 180px"></a><br/></div><div><div><p>This test was designed to tune what tolerance you need to model your print. Great for tuning male and female joints, like ribbing and bosses. </p>
+<p>Here is a link to a video with an explanation of how they are helpful.</p></div></div>]]></description>
+            <author>ULL_Fab_Lab</author>
+            <pubDate>Fri, 28 Jan 2022 16:55:05 +0100</pubDate>
+            <guid>https://www.thingiverse.com/thing:5221047</guid>
+            <enclosure url="https://cdn.thingiverse.com/assets/49/40/ea/37/d4/tolerance-.1-f.stl" length="103684" type="application/sla"/>
+        </item>
+        <item>
+            <title>Ender 3 Pro control panel stand</title>
+            <link>https://www.thingiverse.com/thing:5221044</link>
+            <description><![CDATA[<div style="margin: 5px;"><a href="https://www.thingiverse.com/thing:5221044"><img src="https://cdn.thingiverse.com/assets/f0/87/d6/13/ec/large_preview_CE3PRO_stand_v4.png"  class="preview_large" style="width: 240px; height: 180px"></a><br/></div><div><div><p>I designed a stand for those who move the control panel out side of an enclosure. <a rel="nofollow" href="https://www.amazon.com/Official-Creality-3D-Removable-220x220x250MM/dp/B07K3SZBHJ?dchild=1&amp;keywords=ender+3&amp;qid=1612857257&amp;sr=8-1-spons&amp;psc=1&amp;linkCode=ll1&amp;tag=tv-nothing-20&amp;linkId=5419ace64a5f58b068a896710257ed13&amp;language=en_US&amp;ref_=as_li_ss_tl"> Ender 3</a> Pro. May work for other Ender machines</p></div></div>]]></description>
+            <author>mgreid3D</author>
+            <pubDate>Fri, 28 Jan 2022 16:54:16 +0100</pubDate>
+            <guid>https://www.thingiverse.com/thing:5221044</guid>
+            <enclosure url="https://cdn.thingiverse.com/assets/09/9c/5a/85/8f/stand_v4.obj" length="63962" type="application/octet-stream"/>
+        </item>
+        <item>
+            <title>anycubic mega zero 1.0 X-axis and Y-axis belt tensioner</title>
+            <link>https://www.thingiverse.com/thing:5221041</link>
+            <description><![CDATA[<div style="margin: 5px;"><a href="https://www.thingiverse.com/thing:5221041"><img src="https://cdn.thingiverse.com/assets/70/93/9d/91/bc/large_preview_Screenshot_1.png"  class="preview_large" style="width: 240px; height: 180px"></a><br/></div><div><div><p>for x-axis you need 2x M5x40 with nuts, 1x hexagonal M5X30 with nut<br>
+for y-axis you need 1x hexagonal M5X50 with nut</p></div></div>]]></description>
+            <author>mr_qusta</author>
+            <pubDate>Fri, 28 Jan 2022 16:53:14 +0100</pubDate>
+            <guid>https://www.thingiverse.com/thing:5221041</guid>
+            <enclosure url="https://cdn.thingiverse.com/assets/b4/0a/75/98/99/sobachka.stl" length="77684" type="application/sla"/>
+        </item>
+        <item>
+            <title>F23 Portable Antenna</title>
+            <link>https://www.thingiverse.com/thing:5221035</link>
+            <description><![CDATA[<div style="margin: 5px;"><a href="https://www.thingiverse.com/thing:5221035"><img src="https://cdn.thingiverse.com/assets/4f/aa/43/87/f1/large_preview_f23_1.jpeg"  class="preview_large" style="width: 240px; height: 180px"></a><br/></div><div><div><p>Summary<br>
+The F23 pocket antenna is based on the Diamond F23 design. It&rsquo;s designed to work as a 3x5/8 wave for a 144-146MHz band, but using the Diamond tuning table, it can be tuned to other frequencies, too (see manufacturer's documentation).</p>
+<p>Description<br>
+The antenna consists of three coils connected by a radiator wire. Full dimensions and electrical connections can be seen in the attached diagram. The copper wire I used for all the coils has a cross-sectional area of 1.5 mm2, but it can be thinner, though. The radiator I used in the original project was made from a military phone cable used by Eastern Block armies. The capacitor connected to the RF socket with a matching coil was like in an original project (8,2pF 500V) but feel free to use any capacitor with the capacitance between 5 and 10pF rated for 500V.</p>
+<p>Assembly<br>
+The bottom/matching coil consists of two parts: coil (bottom_coil.stl) and SO239 mount (bottom_mount.stl). After assembling the matching coil, the bottom wire should be passed through the hole in the SO239 mount and bent to be squeezed with the SO239 socket - this way you make a good connection between the SO239 socket and matching coil.</p>
+<p>Parts list:</p>
+<ol><li>1x SO239 socket with square mount</li>
+<li>4x M3x10 ball head screw (for SO239 mount)</li>
+<li>5x M3x14 hex head screw (for attaching wires to coils)</li>
+<li>4x M3 cap nut (for SO239 mount)</li>
+<li>12x M3 washer (for making better contact between wire and coils)</li>
+<li>5x M3 wing nut (for attaching wires to coils)</li>
+<li>Radiator wire (anything you like ~0.7mm diam)</li>
+</ol></div></div>]]></description>
+            <author>infrat</author>
+            <pubDate>Fri, 28 Jan 2022 16:53:03 +0100</pubDate>
+            <guid>https://www.thingiverse.com/thing:5221035</guid>
+            <enclosure url="https://cdn.thingiverse.com/assets/cf/5d/ac/98/df/top_holder.stl" length="50684" type="application/sla"/>
+        </item>
+        <item>
+            <title>Philips avance pasta maker extruder support</title>
+            <link>https://www.thingiverse.com/thing:5221042</link>
+            <description><![CDATA[<div style="margin: 5px;"><a href="https://www.thingiverse.com/thing:5221042"><img src="https://cdn.thingiverse.com/assets/b8/df/c7/47/d4/large_preview_IMG20220128174033-min-min.jpg"  class="preview_large" style="width: 240px; height: 180px"></a><br/></div><div><div><p>A support for extruder of Philips avance pasta maker. You can also put the cleaning tools in it.</p></div></div>]]></description>
+            <author>l_grueni</author>
+            <pubDate>Fri, 28 Jan 2022 16:52:24 +0100</pubDate>
+            <guid>https://www.thingiverse.com/thing:5221042</guid>
+            <enclosure url="https://cdn.thingiverse.com/assets/b4/8f/9f/8a/cb/Extruder_support_v4.stl" length="99384" type="application/sla"/>
+        </item>
+        <item>
+            <title>Kossel Flying Extruder</title>
+            <link>https://www.thingiverse.com/thing:5221043</link>
+            <description><![CDATA[<div style="margin: 5px;"><a href="https://www.thingiverse.com/thing:5221043"><img src="https://cdn.thingiverse.com/assets/7c/d5/5a/a4/0c/large_preview_Flying_Extruder_V2.png"  class="preview_large" style="width: 240px; height: 180px"></a><br/></div><div><div><p>After printing and testing quite a few flying extruders on here, I got very annoyed with the lack of center over center mounts. Every flying extruder I looked at was always off center creating an S curve on the PTFE tube and pulling the hotend to one side.</p>
+<p>I designed and made this to make the extruder to be centered over zero so there was even distribution of force and no tension in the middle. Hope you guys like it.</p></div></div>]]></description>
+            <author>Mute916</author>
+            <pubDate>Fri, 28 Jan 2022 16:51:49 +0100</pubDate>
+            <guid>https://www.thingiverse.com/thing:5221043</guid>
+            <enclosure url="https://cdn.thingiverse.com/assets/30/e8/67/6b/c5/Flying_Extruder_V2.STL" length="91084" type="application/sla"/>
+        </item>
+        <item>
+            <title>Land Rover Gauges bulb holder</title>
+            <link>https://www.thingiverse.com/thing:5221036</link>
+            <description><![CDATA[<div style="margin: 5px;"><a href="https://www.thingiverse.com/thing:5221036"><img src="https://cdn.thingiverse.com/assets/4d/5d/5d/ff/00/large_preview_Landy_dash_light_holder.png"  class="preview_large" style="width: 240px; height: 180px"></a><br/></div><div><div><p>Land rover Gauge bulb holder. The black piece that sometimes breaks off</p></div></div>]]></description>
+            <author>dwyerdan3</author>
+            <pubDate>Fri, 28 Jan 2022 16:49:47 +0100</pubDate>
+            <guid>https://www.thingiverse.com/thing:5221036</guid>
+            <enclosure url="https://cdn.thingiverse.com/assets/33/3c/04/85/c0/Landy_dash_light_holder.stl" length="56984" type="application/sla"/>
+        </item>
+        <item>
+            <title>Hot glue gun station (Halter Heissklebepistole)</title>
+            <link>https://www.thingiverse.com/thing:5221034</link>
+            <description><![CDATA[<div style="margin: 5px;"><a href="https://www.thingiverse.com/thing:5221034"><img src="https://cdn.thingiverse.com/assets/85/36/b3/50/ff/large_preview_Heissklebe.png"  class="preview_large" style="width: 240px; height: 180px"></a><br/></div><div><div><p>Useful hot glue gun station.</p>
+<p>Printed with 0.3 layer.</p></div></div>]]></description>
+            <author>Piepenbrink</author>
+            <pubDate>Fri, 28 Jan 2022 16:48:24 +0100</pubDate>
+            <guid>https://www.thingiverse.com/thing:5221034</guid>
+            <enclosure url="https://cdn.thingiverse.com/assets/f5/9f/9e/f5/db/Heissklebe.stl" length="196084" type="application/sla"/>
+        </item>
+        <item>
+            <title>Door sign radioactive radiation warning</title>
+            <link>https://www.thingiverse.com/thing:5221012</link>
+            <description><![CDATA[<div style="margin: 5px;"><a href="https://www.thingiverse.com/thing:5221012"><img src="https://cdn.thingiverse.com/assets/a7/bf/27/ab/a7/large_preview_DoorSignRadioactive.png"  class="preview_large" style="width: 240px; height: 180px"></a><br/></div><div><div><p>This is a door sign with the radioactive radiation warning sign.<br>
+I am using it to indicate that there is UV lamp on in a room so noone would enter accientaly.</p></div></div>]]></description>
+            <author>baks84</author>
+            <pubDate>Fri, 28 Jan 2022 16:47:09 +0100</pubDate>
+            <guid>https://www.thingiverse.com/thing:5221012</guid>
+            <enclosure url="https://cdn.thingiverse.com/assets/89/72/92/7a/85/DoorSignRadioactive.stl" length="148884" type="application/sla"/>
+        </item>
+        <item>
+            <title>Speeduino Case </title>
+            <link>https://www.thingiverse.com/thing:5216691</link>
+            <description><![CDATA[<div style="margin: 5px;"><a href="https://www.thingiverse.com/thing:5216691"><img src="https://cdn.thingiverse.com/assets/e7/47/f7/3c/90/large_preview_20220127_153835.jpg"  class="preview_large" style="width: 240px; height: 180px"></a><br/></div><div><div><p>Case for Speeduino V0.4-- using an Ampseal 35 pin connector # 1-776231-5, and brass threaded inserts for 3mm screws to attach end plates. </p></div></div>]]></description>
+            <author>dewhite2485</author>
+            <pubDate>Fri, 28 Jan 2022 16:45:32 +0100</pubDate>
+            <guid>https://www.thingiverse.com/thing:5216691</guid>
+            <enclosure url="https://cdn.thingiverse.com/assets/6d/f6/8f/a8/1d/EndPlate_Main-Body.stl" length="382084" type="application/sla"/>
+        </item>
+        <item>
+            <title>Balloonatics Hot Air Balloon Game Pieces</title>
+            <link>https://www.thingiverse.com/thing:5218149</link>
+            <description><![CDATA[<div style="margin: 5px;"><a href="https://www.thingiverse.com/thing:5218149"><img src="https://cdn.thingiverse.com/assets/25/e5/73/e3/b9/large_preview_IMG_2957_crop.jpg"  class="preview_large" style="width: 240px; height: 180px"></a><br/></div><div><div><p>These are 3D-printed game pieces for The Balloonatics of Gusty Gulch, a board game sold on  thegamecrafter.com. These files are provided by the author of said game, for the purpose of having awesome game components. Or maybe you'd just like a hot air balloon model that lays flat? Or some cute clouds? That's fine too.</p></div></div>]]></description>
+            <author>Mome_Rath</author>
+            <pubDate>Fri, 28 Jan 2022 16:44:40 +0100</pubDate>
+            <guid>https://www.thingiverse.com/thing:5218149</guid>
+            <enclosure url="https://cdn.thingiverse.com/assets/37/2e/68/e2/81/balloon.obj" length="120730" type="application/octet-stream"/>
+        </item>
+        <item>
+            <title>Volvo P1800 holder for carburetor oil bottle</title>
+            <link>https://www.thingiverse.com/thing:5221030</link>
+            <description><![CDATA[<div style="margin: 5px;"><a href="https://www.thingiverse.com/thing:5221030"><img src="https://cdn.thingiverse.com/assets/27/a4/dc/5b/ef/large_preview_IMG_6662.jpeg"  class="preview_large" style="width: 240px; height: 180px"></a><br/></div><div><div><p>This is a thingy for your Volvo P1800 that holds your carburetor oil bottle and conveniently clings to your steel bodywork via four standard neodymium magnets. I included two versions - one for the SU-oil bottle with 50 mm diameter and one for the Swedish F&ouml;rgasar-Olja bottle with 45 mm diameter. The four square magnets are standard 20 x 10 x 3 mm to be found on every major online store and fit snugly into the two openings on the bottom and hold the bottle well in place somewhere convenient. I included some pictures of suggested places near the carbs.</p>
+<p>Cheers!</p></div></div>]]></description>
+            <author>Photomonkey</author>
+            <pubDate>Fri, 28 Jan 2022 16:44:37 +0100</pubDate>
+            <guid>https://www.thingiverse.com/thing:5221030</guid>
+            <enclosure url="https://cdn.thingiverse.com/assets/c8/e9/dd/b0/fe/Carboilbottleholder_45mm.stl" length="207684" type="application/sla"/>
+        </item>
+        <item>
+            <title>Dwane the lock Jhonson</title>
+            <link>https://www.thingiverse.com/thing:5221016</link>
+            <description><![CDATA[<div style="margin: 5px;"><a href="https://www.thingiverse.com/thing:5221016"><img src="https://cdn.thingiverse.com/assets/14/c8/11/f6/de/large_preview_Dwane_the_lock_Jhonson_1.png"  class="preview_large" style="width: 240px; height: 180px"></a><br/></div><div><div><p>Dwayne the lock Johnson with hanging pieces</p></div></div>]]></description>
+            <author>moneyboi</author>
+            <pubDate>Fri, 28 Jan 2022 16:41:15 +0100</pubDate>
+            <guid>https://www.thingiverse.com/thing:5221016</guid>
+            <enclosure url="https://cdn.thingiverse.com/assets/ca/48/5e/03/4c/Dwane_the_lock_Jhonson_1.stl" length="4291384" type="application/sla"/>
+        </item>
+        <item>
+            <title>SD-Card Storage</title>
+            <link>https://www.thingiverse.com/thing:5221026</link>
+            <description><![CDATA[<div style="margin: 5px;"><a href="https://www.thingiverse.com/thing:5221026"><img src="https://cdn.thingiverse.com/assets/4a/8c/82/07/74/large_preview_SD-Box_kurz.png"  class="preview_large" style="width: 240px; height: 180px"></a><br/></div><div><div><p>A small storage box for six sd-cards. Never ask: Where is my sd-card x, y, or z???<br>
+Provides your cards from dust</p></div></div>]]></description>
+            <author>Piepenbrink</author>
+            <pubDate>Fri, 28 Jan 2022 16:41:07 +0100</pubDate>
+            <guid>https://www.thingiverse.com/thing:5221026</guid>
+            <enclosure url="https://cdn.thingiverse.com/assets/ce/c0/ed/f3/ef/Deckel_kurz.stl" length="3084" type="application/sla"/>
+        </item>
+        <item>
+            <title>XYZ holder spule</title>
+            <link>https://www.thingiverse.com/thing:5221020</link>
+            <description><![CDATA[<div style="margin: 5px;"><a href="https://www.thingiverse.com/thing:5221020"><img src="https://cdn.thingiverse.com/assets/db/d3/fb/90/1e/large_preview_holder2.png"  class="preview_large" style="width: 240px; height: 180px"></a><br/></div><div><div><p>XYZ HOLDER SPULE</p></div></div>]]></description>
+            <author>CMYK</author>
+            <pubDate>Fri, 28 Jan 2022 16:40:23 +0100</pubDate>
+            <guid>https://www.thingiverse.com/thing:5221020</guid>
+            <enclosure url="https://cdn.thingiverse.com/assets/af/03/2d/97/59/holder1.STL" length="810484" type="application/sla"/>
+        </item>
+        <item>
+            <title>Robo The Fan (1986)</title>
+            <link>https://www.thingiverse.com/thing:5221021</link>
+            <description><![CDATA[<div style="margin: 5px;"><a href="https://www.thingiverse.com/thing:5221021"><img src="https://cdn.thingiverse.com/assets/2e/35/fc/86/06/large_preview_FullBodyJerryPrint-ChestThingy.png"  class="preview_large" style="width: 240px; height: 180px"></a><br/></div><div><div><p>Before we completely get into this, THIS IS NOT AN EXACT REPLICA! This is just a close representation of a fan in my bedroom.</p>
+<p>My print settings for this and some info.<br>
+0.2 Layer Height and 10% infill. Average print scale is 1583.54%. The rest is up to you.<br>
+I printed with white PLA and painted with acrylic.<br>
+I named my fan "Jerry" and have had it for a long while so that's why the files say Jerry lol.<br>
+Arms need supports.<br>
+I DID NOT UPLOAD ARMS WITH SUPPORTS BECAUSE MY SUPPORTS ARE NOT VERY GOOD! I recommend you play around with this for a bit until you get a neat creation with the arms.</p></div></div>]]></description>
+            <author>SinisterPug</author>
+            <pubDate>Fri, 28 Jan 2022 16:40:22 +0100</pubDate>
+            <guid>https://www.thingiverse.com/thing:5221021</guid>
+            <enclosure url="https://cdn.thingiverse.com/assets/a1/49/60/61/3a/FullBodyJerryPrint-Arm1.stl" length="24984" type="application/sla"/>
+        </item>
+        <item>
+            <title>LowRider2 Cable Chain Mount - CNC</title>
+            <link>https://www.thingiverse.com/thing:5221018</link>
+            <description><![CDATA[<div style="margin: 5px;"><a href="https://www.thingiverse.com/thing:5221018"><img src="https://cdn.thingiverse.com/assets/a5/d6/a7/7d/9b/large_preview_1s59biBc0C.jpg"  class="preview_large" style="width: 240px; height: 180px"></a><br/></div><div><div><p>This is a customised  version formy own usage for my lowrider 2, which is using French parts.</p>
+<p>Corniere:<br><a rel="nofollow" href="https://www.leroymerlin.fr/produits/quincaillerie/rangement-utilitaire/etagere-utilitaire/etagere-metallique-utilitaire/montant-ouvert-ar-shelving-x-h-250-x-p-3-5-cm-69106821.html">https://www.leroymerlin.fr/produits/quincaillerie/rangement-utilitaire/etagere-utilitaire/etagere-metallique-utilitaire/montant-ouvert-ar-shelving-x-h-250-x-p-3-5-cm-69106821.html</a></p>
+<p>Router Katsu<br><a rel="nofollow" href="https://www.amazon.fr/KATSU-D%C3%A9fonceuse-%C3%A9lectrique-lamineur-menuisiers/dp/B07FQ9NVYF/ref=sr_1_2?keywords=KATSU+Tools&amp;qid=1643387585&amp;sr=8-2&amp;tag=tv-nothing-20">https://www.amazon.fr/KATSU-D%C3%A9fonceuse-%C3%A9lectrique-lamineur-menuisiers/dp/B07FQ9NVYF/ref=sr_1_2?keywords=KATSU+Tools&amp;qid=1643387585&amp;sr=8-2</a></p>
+<p>drag chain:<br><a rel="nofollow" href="https://fr.aliexpress.com/item/1005001795469984.html?gatewayAdapt=glo2fra&amp;spm=a2g0o.9042311.0.0.27426c37l7T9L4">https://fr.aliexpress.com/item/1005001795469984.html?gatewayAdapt=glo2fra&amp;spm=a2g0o.9042311.0.0.27426c37l7T9L4</a></p></div></div>]]></description>
+            <author>tcatca</author>
+            <pubDate>Fri, 28 Jan 2022 16:36:05 +0100</pubDate>
+            <guid>https://www.thingiverse.com/thing:5221018</guid>
+            <enclosure url="https://cdn.thingiverse.com/assets/43/8f/77/4c/2f/Lowrider_2_-_DRAG.stl" length="896964" type="application/sla"/>
+        </item>
+        <item>
+            <title>12cm Rail For Modular Tool Rail System</title>
+            <link>https://www.thingiverse.com/thing:5221017</link>
+            <description><![CDATA[<div style="margin: 5px;"><a href="https://www.thingiverse.com/thing:5221017"><img src="https://cdn.thingiverse.com/assets/14/26/93/f9/a7/large_preview_ShortRail.png"  class="preview_large" style="width: 240px; height: 180px"></a><br/></div><div><div><p>I had issues with the Rail Warping when I printed it, so I made a shorter one. I also made the base a little thinner to save on plastic since I won't be putting much weight on this.</p>
+<p>I would like the thank the original designer for publishing their fusion files.</p></div></div>]]></description>
+            <author>Monsterar44</author>
+            <pubDate>Fri, 28 Jan 2022 16:35:51 +0100</pubDate>
+            <guid>https://www.thingiverse.com/thing:5221017</guid>
+            <enclosure url="https://cdn.thingiverse.com/assets/49/5f/b7/d0/da/ShortRail.stl" length="29284" type="application/sla"/>
+        </item>
+        <item>
+            <title>support pour 6 verres</title>
+            <link>https://www.thingiverse.com/thing:5220930</link>
+            <description><![CDATA[<div style="margin: 5px;"><a href="https://www.thingiverse.com/thing:5220930"><img src="https://cdn.thingiverse.com/assets/82/cd/95/87/ac/large_preview_DSC00945%5B1_001.jpg"  class="preview_large" style="width: 240px; height: 180px"></a><br/></div><div><div><p>support tourniquet pour 6 grand verres a pied</p>
+<p>turnstile holder for 6 tall stemmed glasses</p></div></div>]]></description>
+            <author>ROBERTROLAN</author>
+            <pubDate>Fri, 28 Jan 2022 16:34:43 +0100</pubDate>
+            <guid>https://www.thingiverse.com/thing:5220930</guid>
+            <enclosure url="https://cdn.thingiverse.com/assets/be/f9/09/db/44/supportgrandverre.stl" length="2749584" type="application/sla"/>
+        </item>
+        <item>
+            <title>US to EU Pipe Adapter</title>
+            <link>https://www.thingiverse.com/thing:5213170</link>
+            <description><![CDATA[<div><p>A friend needed a way to attach an european pipe to an american pipe, so I designed this part for my friend.</p>
+<p>We can generate any fitting by just measuring the outer diameter of both pipes.</p></div>]]></description>
+            <author>felipebalbi</author>
+            <pubDate>Fri, 28 Jan 2022 16:31:45 +0100</pubDate>
+            <guid>https://www.thingiverse.com/thing:5213170</guid>
+            <enclosure url="https://cdn.thingiverse.com/assets/83/ca/76/0e/62/pipe-adapter.scad" length="1404" type="application/octet-stream"/>
+        </item>
+        <item>
+            <title>Ender 3 Magnetic LCD Cover</title>
+            <link>https://www.thingiverse.com/thing:5221013</link>
+            <description><![CDATA[<div style="margin: 5px;"><a href="https://www.thingiverse.com/thing:5221013"><img src="https://cdn.thingiverse.com/assets/e1/64/3a/7b/c3/large_preview_thumbnail.png"  class="preview_large" style="width: 240px; height: 180px"></a><br/></div><div><div><p>Requires 5x3mm magnets</p>
+<p>covers the lcd so you aren't blinded by the light</p></div></div>]]></description>
+            <author>Kenopy</author>
+            <pubDate>Fri, 28 Jan 2022 16:29:32 +0100</pubDate>
+            <guid>https://www.thingiverse.com/thing:5221013</guid>
+            <enclosure url="https://cdn.thingiverse.com/assets/93/d6/2a/0a/e8/LCD_Cover.stl" length="63084" type="application/sla"/>
+        </item>
+        <item>
+            <title>Boyueda Laotie Janobike Langfeite Footrest Long version</title>
+            <link>https://www.thingiverse.com/thing:5221014</link>
+            <description><![CDATA[<div style="margin: 5px;"><a href="https://www.thingiverse.com/thing:5221014"><img src="https://cdn.thingiverse.com/assets/e5/5f/c2/b9/5f/large_preview_Boyueda_Footrest_V2_long.png"  class="preview_large" style="width: 240px; height: 180px"></a><br/></div><div><div><p>Boyueda Laotie Janobike Langfeite Footrest. This is V2 longer version. Great for bigger riders. Print on the side using PetG (reccomended) or PLA.<br>
+It helps a lot to keep balance during aggressive ride and is much more convenient than placing foot on standard mudguard support. For handle strength use additional hex screw. M10 100mm with washer and nut will be fine.</p>
+<p>My previous shorter version:<br><a rel="nofollow" href="/thing:4805715">https://www.thingiverse.com/thing:4805715</a></p></div></div>]]></description>
+            <author>MakoFPV</author>
+            <pubDate>Fri, 28 Jan 2022 16:29:05 +0100</pubDate>
+            <guid>https://www.thingiverse.com/thing:5221014</guid>
+            <enclosure url="https://cdn.thingiverse.com/assets/83/6d/48/83/3b/Boyueda_Footrest_V2_long.stl" length="170084" type="application/sla"/>
+        </item>
+        <item>
+            <title>Lowrider 2 Dust Shoe</title>
+            <link>https://www.thingiverse.com/thing:5221001</link>
+            <description><![CDATA[<div style="margin: 5px;"><a href="https://www.thingiverse.com/thing:5221001"><img src="https://cdn.thingiverse.com/assets/ff/ff/05/f3/f7/large_preview_Lowrider-dust-show-right.png"  class="preview_large" style="width: 240px; height: 180px"></a><br/></div><div><div><p>Dust Shoe created by SpaceGrey <a rel="nofollow" href="/thing:3605877">https://www.thingiverse.com/thing:3605877</a> in sketchup, also done in real as shown in photos.<br>
+No modification , except loaded into sketchup.</p>
+<p><a rel="nofollow" href="https://fr.aliexpress.com/item/1005001808439191.html?gatewayAdapt=glo2fra&amp;spm=a2g0o.9042311.0.0.27426c373KzHDw">https://fr.aliexpress.com/item/1005001808439191.html?gatewayAdapt=glo2fra&amp;spm=a2g0o.9042311.0.0.27426c373KzHDw</a></p>
+<p>Canvas brush available above.<br>
+Brosse aspirateur disponible ci dessus.</p>
+<p><a rel="nofollow" href="https://artillery3dexpert.fr/collections/filament-pla-premium/products/filament-pla-premium-vert-clair-1kg-1-75mm">https://artillery3dexpert.fr/collections/filament-pla-premium/products/filament-pla-premium-vert-clair-1kg-1-75mm</a></p>
+<p><a rel="nofollow" href="https://artillery3dexpert.fr/products/promotion-imprimante-3d-artillery-sidewinder-x1-expert">https://artillery3dexpert.fr/products/promotion-imprimante-3d-artillery-sidewinder-x1-expert</a></p></div></div>]]></description>
+            <author>tcatca</author>
+            <pubDate>Fri, 28 Jan 2022 16:27:46 +0100</pubDate>
+            <guid>https://www.thingiverse.com/thing:5221001</guid>
+            <enclosure url="https://cdn.thingiverse.com/assets/29/95/91/bc/14/Lowrider-dust-show-right.stl" length="64484" type="application/sla"/>
+        </item>
+        <item>
+            <title>Lambeau Field</title>
+            <link>https://www.thingiverse.com/thing:5221008</link>
+            <description><![CDATA[<div style="margin: 5px;"><a href="https://www.thingiverse.com/thing:5221008"><img src="https://cdn.thingiverse.com/assets/b4/87/65/7d/93/large_preview_Lambeau_Field.png"  class="preview_large" style="width: 240px; height: 180px"></a><br/></div><div><div><p>Remix of a Packer's phone case. This is a model of Lambeau field. The field on a nice stand. No supports required. I printed at 20% infill and 0.12 mm layer height. </p>
+<p>Please like and post any makes!</p>
+<p>Lambeau Field<br>
+Lambeau Field model<br>
+model Lambeau field<br>
+Packers<br>
+Green Bay Packers<br>
+Do not sell this model in any way shape or form, please. </p></div></div>]]></description>
+            <author>MrN1ck</author>
+            <pubDate>Fri, 28 Jan 2022 16:27:32 +0100</pubDate>
+            <guid>https://www.thingiverse.com/thing:5221008</guid>
+            <enclosure url="https://cdn.thingiverse.com/assets/a0/e6/7e/f1/88/Lambeau_Field.stl" length="765456" type="application/sla"/>
+        </item>
+    </channel>
+</rss>

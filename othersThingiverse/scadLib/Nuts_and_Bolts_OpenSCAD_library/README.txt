@@ -1,0 +1,1 @@
+Nuts and Bolts v1.95 OpenSCAD library by biomushroom on Thingiverse: https://www.thingiverse.com/thing:965737

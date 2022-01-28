@@ -1,7 +1,7 @@
-$fn=30; 
+$fn=60; 
 
 sideLegth=70; // 80
-sideWidth=200;
+sideWidth=194;
 gZ=4.5;
 
 sideTopCutoutX=35;

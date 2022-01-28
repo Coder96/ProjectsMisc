@@ -1,0 +1,320 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!-- generator="FeedCreator 1.7.2-ppt (info@mypapit.net)" -->
+<rss version="2.0">
+    <channel>
+        <title>Thingiverse - Newest Things</title>
+        <description><![CDATA[The newest and coolest things from Thingiverse.com]]></description>
+        <link>https://www.thingiverse.com/newest</link>
+        <lastBuildDate>Fri, 28 Jan 2022 02:00:02 +0100</lastBuildDate>
+        <generator>FeedCreator 1.7.2-ppt (info@mypapit.net)</generator>
+        <language>en-us</language>
+        <copyright>Copyright 2022, Thingiverse.com</copyright>
+        <item>
+            <title>Tolerance Test (internal distances)</title>
+            <link>https://www.thingiverse.com/thing:5220157</link>
+            <description><![CDATA[<div style="margin: 5px;"><a href="https://www.thingiverse.com/thing:5220157"><img src="https://cdn.thingiverse.com/assets/8b/98/40/ee/90/large_preview_tolerance_test_file_v6.png"  class="preview_large" style="width: 240px; height: 180px"></a><br/></div><div><div><p>This is a test I threw together for a print-in-place project I am working on. It stands 1 inch tall and about 2.5 inches wide. At 20% infill and 65mm/s, this takes about 4.5 hours. It features a range of internal spacings and features arms to help free prints if need be, except for the middle which should just spin freely. This test also has .008in chamfers on the bottom edges to help with elephants' foot. Tests like these are crucial to gauge your prints for print-in-place parts with small distances </p></div></div>]]></description>
+            <author>Omegabears</author>
+            <pubDate>Fri, 28 Jan 2022 01:58:37 +0100</pubDate>
+            <guid>https://www.thingiverse.com/thing:5220157</guid>
+            <enclosure url="https://cdn.thingiverse.com/assets/08/6e/9f/59/32/tolerance_test_file_v6.stl" length="963684" type="application/sla"/>
+        </item>
+        <item>
+            <title>https://www.thingiverse.com/thing:747815/remix#:~:text=Hot%20Wheels%20Small%20JumpHot,Developers</title>
+            <link>https://www.thingiverse.com/thing:5220156</link>
+            <description><![CDATA[<div style="margin: 5px;"><a href="https://www.thingiverse.com/thing:5220156"><img src="https://cdn.thingiverse.com/assets/8f/af/50/41/2e/large_preview_Hot_Wheels_Simple_Jump_v3.png"  class="preview_large" style="width: 240px; height: 180px"></a><br/></div><div><div><p><a rel="nofollow" href="/thing:747815/remix">https://www.thingiverse.com/thing:747815/remix#:~:text=Hot%20Wheels%20Small%20JumpHot,Developers</a></p></div></div>]]></description>
+            <author>red_stone</author>
+            <pubDate>Fri, 28 Jan 2022 01:56:55 +0100</pubDate>
+            <guid>https://www.thingiverse.com/thing:5220156</guid>
+            <enclosure url="https://cdn.thingiverse.com/assets/fa/20/6c/75/43/Hot_Wheels_Simple_Jump_v3.obj" length="236914" type="application/octet-stream"/>
+        </item>
+        <item>
+            <title>GM Points Cam Lubricator Delco 1852935 '62-'74</title>
+            <link>https://www.thingiverse.com/thing:5220155</link>
+            <description><![CDATA[<div style="margin: 5px;"><a href="https://www.thingiverse.com/thing:5220155"><img src="https://cdn.thingiverse.com/assets/e4/5a/4b/22/06/large_preview_CamWickHolder1b_v1.png"  class="preview_large" style="width: 240px; height: 180px"></a><br/></div><div><div><p>Created for a friend who is rebuilding an old car and wanted to know if I could make this little plastic part.  Apparently, the original part number is Delco-Remy 1852935</p>
+<p>It fits inside an ignition distributor on many old GM cars common through the 1960's and early 1970s.  It holds an oil soaked felt wick in close proximity to the distributor cam and fits into the small rectangular hole, pictured.  The rare and fragile original I modeled this from is on the right, the black ASA printed replica is on the left.</p>
+<p>As the distributor gets hot during operation, you probably want to print it in ABS, ASA, PolyCarbonate (PC) or Nylon.   It is oriented for easiest printing with supports.</p></div></div>]]></description>
+            <author>ChicagoKeri</author>
+            <pubDate>Fri, 28 Jan 2022 01:56:04 +0100</pubDate>
+            <guid>https://www.thingiverse.com/thing:5220155</guid>
+            <enclosure url="https://cdn.thingiverse.com/assets/86/68/38/db/9d/CamWickHolder1b_v1.stl" length="77584" type="application/sla"/>
+        </item>
+        <item>
+            <title>Ender 3 S1 Fan Duct Simple Improvement</title>
+            <link>https://www.thingiverse.com/thing:5220151</link>
+            <description><![CDATA[<div style="margin: 5px;"><a href="https://www.thingiverse.com/thing:5220151"><img src="https://cdn.thingiverse.com/assets/20/00/b4/02/f9/large_preview_S1_Fan_Duct_K03_PUB.png"  class="preview_large" style="width: 240px; height: 180px"></a><br/></div><div><div><p>Since I found that the S1 has more stringing than the V2 has. I made some investigations and experiments and found that the original fan duct direction is a little bit deviated. And I made a improved design that can significantly decrease the stringing. Please print with ABS or PETG to avoid thermal deformation.</p></div></div>]]></description>
+            <author>gumo_design</author>
+            <pubDate>Fri, 28 Jan 2022 01:54:13 +0100</pubDate>
+            <guid>https://www.thingiverse.com/thing:5220151</guid>
+            <enclosure url="https://cdn.thingiverse.com/assets/9c/bc/72/2c/e0/S1_Fan_Duct_K03_PUB.STL" length="1764384" type="application/sla"/>
+        </item>
+        <item>
+            <title>Iwata HP-CS Airbrush Handle</title>
+            <link>https://www.thingiverse.com/thing:5220149</link>
+            <description><![CDATA[<div style="margin: 5px;"><a href="https://www.thingiverse.com/thing:5220149"><img src="https://cdn.thingiverse.com/assets/79/2e/5d/4e/e2/large_preview_Iwata_HP-CS_Handle_Thumb_Rest.png"  class="preview_large" style="width: 240px; height: 180px"></a><br/></div><div><div><p>Handle for an Iwata HP-CS airbrush.  Allows for a more pistol like grip on the brush to alleviate some of the stress on my thumbs.  One file has a thumb rest for righties while the no thumb rest files is ambidextrous.</p></div></div>]]></description>
+            <author>lmarkos</author>
+            <pubDate>Fri, 28 Jan 2022 01:54:06 +0100</pubDate>
+            <guid>https://www.thingiverse.com/thing:5220149</guid>
+            <enclosure url="https://cdn.thingiverse.com/assets/c4/a8/74/b1/93/Iwata_HP-CS_Handle_No_Thumb_Rest.stl" length="168684" type="application/sla"/>
+        </item>
+        <item>
+            <title>Flower Pot No2</title>
+            <link>https://www.thingiverse.com/thing:5220145</link>
+            <description><![CDATA[<div style="margin: 5px;"><a href="https://www.thingiverse.com/thing:5220145"><img src="https://cdn.thingiverse.com/assets/68/63/fa/88/20/large_preview_Flower_pot_No2.png"  class="preview_large" style="width: 240px; height: 180px"></a><br/></div><div><div><p>My third post<br>
+Flower Pot No2 so Cute</p></div></div>]]></description>
+            <author>Under_Ground_Designer</author>
+            <pubDate>Fri, 28 Jan 2022 01:52:27 +0100</pubDate>
+            <guid>https://www.thingiverse.com/thing:5220145</guid>
+            <enclosure url="https://cdn.thingiverse.com/assets/cc/50/15/fe/76/Flower_pot_No2.stl" length="14594984" type="application/sla"/>
+        </item>
+        <item>
+            <title>Decor Tellfresh Label replica</title>
+            <link>https://www.thingiverse.com/thing:5220148</link>
+            <description><![CDATA[<div style="margin: 5px;"><a href="https://www.thingiverse.com/thing:5220148"><img src="https://cdn.thingiverse.com/assets/0c/b7/57/0c/61/large_preview_Webp.net-resizeimage.jpg"  class="preview_large" style="width: 240px; height: 180px"></a><br/></div><div><div><p>These are a simple label that clips into the front of the Decor Tellfresh containers, and are an exact(ish) replica of the original.</p>
+<p>You can write on them with pencil, then wipe off to re-use.</p>
+<p>I printed these in PLA, but would probably be better in PETG (I had no white PETG on hand).  If you want to get fancy, then upload into your favourite 3D modelling software and add a raised layer with common ingredient names, then 2 colour print&hellip;</p>
+<p>For a smoother surface I also turned on Ironing in <a rel="nofollow" href="https://www.amazon.com/3D-Printer-Prusa/s?k=3D+Printer+Prusa&amp;linkCode=ll2&amp;tag=tv-nothing-20&amp;linkId=28c787aef7c5a20cf2004b821dd161bf&amp;language=en_US&amp;ref_=as_li_ss_tl"> Prusa</a> Slicer.</p>
+<p>In the photos the yellow one is the original from Decor.</p></div></div>]]></description>
+            <author>madcap66</author>
+            <pubDate>Fri, 28 Jan 2022 01:51:59 +0100</pubDate>
+            <guid>https://www.thingiverse.com/thing:5220148</guid>
+            <enclosure url="https://cdn.thingiverse.com/assets/54/8c/39/91/bb/Decor_Tellfresh_Label.stl" length="23484" type="application/sla"/>
+        </item>
+        <item>
+            <title>Coffee Cup</title>
+            <link>https://www.thingiverse.com/thing:5220147</link>
+            <description><![CDATA[<div style="margin: 5px;"><a href="https://www.thingiverse.com/thing:5220147"><img src="https://cdn.thingiverse.com/assets/98/a8/e6/43/a6/large_preview_Coffee_Cup_Render_3.jpg"  class="preview_large" style="width: 240px; height: 180px"></a><br/></div><div><div><p>Just a Coffee Cup made with Fusion360<br><a rel="nofollow" href="https://www.youtube.com/channel/UC9hu1FcFd5ryK70g8ikdXrg">My YouTube Channel</a></p></div></div>]]></description>
+            <author>Silasclough</author>
+            <pubDate>Fri, 28 Jan 2022 01:51:35 +0100</pubDate>
+            <guid>https://www.thingiverse.com/thing:5220147</guid>
+            <enclosure url="https://cdn.thingiverse.com/assets/e0/d8/f3/7c/dd/Coffee_Cup_v1.f3d" length="66470" type="application/octet-stream"/>
+        </item>
+        <item>
+            <title>RZ67 Lens Mirror-Up Socket Retainer</title>
+            <link>https://www.thingiverse.com/thing:5220146</link>
+            <description><![CDATA[<div style="margin: 5px;"><a href="https://www.thingiverse.com/thing:5220146"><img src="https://cdn.thingiverse.com/assets/3d/43/7f/8a/03/large_preview_RZThing.png"  class="preview_large" style="width: 240px; height: 180px"></a><br/></div><div><div><p>This is the little part that holds the mirror-up socket on the Mamiya RZ67 Lens (see page 29 <a rel="nofollow" href="http://www.mamiyaleaf.com/assets/files/documentation/RZ67_Pro_v4.pdf">here</a>).</p>
+<p>Designed for someone on an RZ67 facebook page. Dimensions are accurate to the original part to the best of my ability. Test fit confirmed success after light clean up (elephant foot, holes).</p></div></div>]]></description>
+            <author>NuclearEngideer</author>
+            <pubDate>Fri, 28 Jan 2022 01:47:46 +0100</pubDate>
+            <guid>https://www.thingiverse.com/thing:5220146</guid>
+            <enclosure url="https://cdn.thingiverse.com/assets/c3/d8/af/01/1e/RZThing.stl" length="176584" type="application/sla"/>
+        </item>
+        <item>
+            <title>TooButton 3D Print Controller</title>
+            <link>https://www.thingiverse.com/thing:5220137</link>
+            <description><![CDATA[<div style="margin: 5px;"><a href="https://www.thingiverse.com/thing:5220137"><img src="https://cdn.thingiverse.com/assets/db/38/7f/4b/58/large_preview_IMG_1752.jpg"  class="preview_large" style="width: 240px; height: 180px"></a><br/></div><div><div><p>The TooButton, is a wireless controller for 3D printers. It provides fast direct commands when you need them. Click, Double Click, Press and Hold functionality can easitly be mapped to each key on the controller.</p>
+<p>The TooButton can be mounted to your printer, or operated from a remote location.</p>
+<p>Sends commands and custom G-code directly over your wireless network. TooButton also can gracefully shut down your Raspberry PI, and power on TP-Link Smart plugs for seamless automation. </p></div></div>]]></description>
+            <author>redsengineering</author>
+            <pubDate>Fri, 28 Jan 2022 01:47:21 +0100</pubDate>
+            <guid>https://www.thingiverse.com/thing:5220137</guid>
+            <enclosure url="https://cdn.thingiverse.com/assets/7e/de/23/93/9e/chassis.STL" length="593384" type="application/sla"/>
+        </item>
+        <item>
+            <title>Raco Crushed Corner Faceplates Reinforced</title>
+            <link>https://www.thingiverse.com/thing:5220143</link>
+            <description><![CDATA[<div style="margin: 5px;"><a href="https://www.thingiverse.com/thing:5220143"><img src="https://cdn.thingiverse.com/assets/55/46/a7/ed/45/large_preview_RacoSUBOTIXSwitchLeftReinforced.png"  class="preview_large" style="width: 240px; height: 180px"></a><br/></div><div><div><p>can print a .25mm height</p></div></div>]]></description>
+            <author>CrackerJax2</author>
+            <pubDate>Fri, 28 Jan 2022 01:45:12 +0100</pubDate>
+            <guid>https://www.thingiverse.com/thing:5220143</guid>
+            <enclosure url="https://cdn.thingiverse.com/assets/c1/9a/6e/b5/4b/RacoSUBOTIXSwitchLeftReinforced.stl" length="1203089" type="application/sla"/>
+        </item>
+        <item>
+            <title>Ping Pong Paddle</title>
+            <link>https://www.thingiverse.com/thing:5220141</link>
+            <description><![CDATA[<div style="margin: 5px;"><a href="https://www.thingiverse.com/thing:5220141"><img src="https://cdn.thingiverse.com/assets/7c/48/b1/12/79/large_preview_Ping_Pong_Paddle_Render_1.jpg"  class="preview_large" style="width: 240px; height: 180px"></a><br/></div><div><div><p>Just a Ping Pong Paddle made with Fusion360<br><a rel="nofollow" href="https://www.youtube.com/channel/UC9hu1FcFd5ryK70g8ikdXrg">My YouTube Channel</a></p></div></div>]]></description>
+            <author>Silasclough</author>
+            <pubDate>Fri, 28 Jan 2022 01:44:49 +0100</pubDate>
+            <guid>https://www.thingiverse.com/thing:5220141</guid>
+            <enclosure url="https://cdn.thingiverse.com/assets/bd/75/e0/d2/7e/Ping_Pong_Paddle_v5.obj" length="399814" type="application/octet-stream"/>
+        </item>
+        <item>
+            <title>Custom Bella Tray</title>
+            <link>https://www.thingiverse.com/thing:5220140</link>
+            <description><![CDATA[<div style="margin: 5px;"><a href="https://www.thingiverse.com/thing:5220140"><img src="https://cdn.thingiverse.com/assets/3e/6b/77/65/c3/large_preview_CustomBella_Tray.png"  class="preview_large" style="width: 240px; height: 180px"></a><br/></div><div><div><p>Made this based off of Jfinky's original tray from 2018. Added more lines, higher walls, longer, funnel, spout, stopper, and lid.</p>
+<p>Print with PLA with no supports needed. PETG may need supports. Enjoy and happy diamond painting!</p></div></div>]]></description>
+            <author>jldrooger</author>
+            <pubDate>Fri, 28 Jan 2022 01:43:20 +0100</pubDate>
+            <guid>https://www.thingiverse.com/thing:5220140</guid>
+            <enclosure url="https://cdn.thingiverse.com/assets/0d/13/5f/53/42/CustomBellaTray_Stopper.stl" length="140984" type="application/sla"/>
+        </item>
+        <item>
+            <title>KeySmart spacer</title>
+            <link>https://www.thingiverse.com/thing:5220139</link>
+            <description><![CDATA[<div style="margin: 5px;"><a href="https://www.thingiverse.com/thing:5220139"><img src="https://cdn.thingiverse.com/assets/dc/b0/df/0d/87/large_preview_key_fob_spacer.png"  class="preview_large" style="width: 240px; height: 180px"></a><br/></div><div><div><p>Needed a spacer for the end of my KeySmart key chain that I don't have keys on but has the fob for my vehicle.  </p>
+<p>Dimensions: 18mm diameter, center hole 4mm, relief 2mm deep</p></div></div>]]></description>
+            <author>Glkawirider</author>
+            <pubDate>Fri, 28 Jan 2022 01:42:12 +0100</pubDate>
+            <guid>https://www.thingiverse.com/thing:5220139</guid>
+            <enclosure url="https://cdn.thingiverse.com/assets/36/be/c5/67/e5/key_fob_spacer.stl" length="17684" type="application/sla"/>
+        </item>
+        <item>
+            <title>Molex 5 wire connector </title>
+            <link>https://www.thingiverse.com/thing:5220138</link>
+            <description><![CDATA[<div style="margin: 5px;"><a href="https://www.thingiverse.com/thing:5220138"><img src="https://cdn.thingiverse.com/assets/d3/69/ab/56/ec/large_preview_connector15mm4mmhole.png"  class="preview_large" style="width: 240px; height: 180px"></a><br/></div><div><div><p>Female connector</p></div></div>]]></description>
+            <author>CrackerJax2</author>
+            <pubDate>Fri, 28 Jan 2022 01:41:15 +0100</pubDate>
+            <guid>https://www.thingiverse.com/thing:5220138</guid>
+            <enclosure url="https://cdn.thingiverse.com/assets/b7/3d/a3/3c/35/connector15mm4mmhole.stl" length="941558" type="application/sla"/>
+        </item>
+        <item>
+            <title>Kyoketsu-Shoge Ninja Chain Weapon TMNT Scale</title>
+            <link>https://www.thingiverse.com/thing:5220136</link>
+            <description><![CDATA[<div style="margin: 5px;"><a href="https://www.thingiverse.com/thing:5220136"><img src="https://cdn.thingiverse.com/assets/82/e3/cc/f9/29/large_preview_Kyoketse_Shoga.png"  class="preview_large" style="width: 240px; height: 180px"></a><br/></div><div><div><p>I got inspired to make this after rewatching the first season of Daredevil and finding myself eager to have a Kyoketsu-Shoge like Nobu had, in the scale of my TMNT figures.</p>
+<p>I took the design of the nunchucks that p7aymak3r made and essentially copy-and-pasted the chain part to make it longer, then whipped up the basic blade design. While the chain links might look flimsy they printed very well, simply needing a little effort to remove the support pieces.</p></div></div>]]></description>
+            <author>tomjeromenewton</author>
+            <pubDate>Fri, 28 Jan 2022 01:40:16 +0100</pubDate>
+            <guid>https://www.thingiverse.com/thing:5220136</guid>
+            <enclosure url="https://cdn.thingiverse.com/assets/ea/6f/16/f2/00/Kyoketse_Shoga.stl" length="1409684" type="application/sla"/>
+        </item>
+        <item>
+            <title>Double MacBook Pro 2020 Dock / Vertical Stand</title>
+            <link>https://www.thingiverse.com/thing:5220130</link>
+            <description><![CDATA[<div style="margin: 5px;"><a href="https://www.thingiverse.com/thing:5220130"><img src="https://cdn.thingiverse.com/assets/a0/dd/08/6b/41/large_preview_Double_MacBook_Pro_2020_Stand.png"  class="preview_large" style="width: 240px; height: 180px"></a><br/></div><div><div><p>Remix of @formulagp46 MacBook Pro dock to support two MacBook Pro laptops vertically next to one another.  I've tested it with both Intel and M1 MacBook Pro 2020 13" and my wife's 15" Intel MacBook Pro.  Fits an of them nicely.  Simple print, no drama, plenty strong in PLA.</p>
+<p>As suggested by @formulagp46, supports only really needed in the logo area (both exterior vertical walls on this model).</p></div></div>]]></description>
+            <author>Desmodromic</author>
+            <pubDate>Fri, 28 Jan 2022 01:37:09 +0100</pubDate>
+            <guid>https://www.thingiverse.com/thing:5220130</guid>
+            <enclosure url="https://cdn.thingiverse.com/assets/22/66/90/17/d4/Double_MacBook_Pro_2020_Stand.stl" length="510684" type="application/sla"/>
+        </item>
+        <item>
+            <title>Botonera G27</title>
+            <link>https://www.thingiverse.com/thing:5220031</link>
+            <description><![CDATA[<div style="margin: 5px;"><a href="https://www.thingiverse.com/thing:5220031"><img src="https://cdn.thingiverse.com/assets/f4/28/6e/30/ce/large_preview_frente.jpg"  class="preview_large" style="width: 240px; height: 180px"></a><br/></div><div><div><p>translator (Spanish)</p>
+<p>Se a&ntilde;aden 17 botones a los seis que trae el volante.</p>
+<p>Est&aacute; pensada para el controlador " Xinmotek xm-08 ". Cuando me lleg&oacute; no me funcionaba correctamente (es posible que el m&iacute;o viniese mal)</p>
+<p>En su lugar utilic&eacute; el " Arcade Zero Delay USB a Joystick ". He puesto una tapa m&aacute;s grande para que entre este.</p>
+<p>Los botones son "Miniinterruptor PBS-33b de 2 pines, 12mm, 12V, 1A"</p>
+<p>Los botones laterales no tienen tapa ya que es mejor reforzarlos. Se puede usar silicona caliente negra (en caso de imprimir con filamento negro).</p>
+<p>En cuanto a la instalaci&oacute;n hay que desmontar la carcasa y pasar un cable usb por el centro igual que los cables de serie. La conexi&oacute;n micro usb creo que no pasa, se tendr&iacute;a que cortar y soldar de nuevo. El usb es independiente del volante, habr&aacute; que conectarlo al equipo.</p></div></div>]]></description>
+            <author>fligter</author>
+            <pubDate>Fri, 28 Jan 2022 01:36:26 +0100</pubDate>
+            <guid>https://www.thingiverse.com/thing:5220031</guid>
+            <enclosure url="https://cdn.thingiverse.com/assets/0a/84/98/fb/0a/botonera_volante.stl" length="678484" type="application/sla"/>
+        </item>
+        <item>
+            <title>AA to C battery converter</title>
+            <link>https://www.thingiverse.com/thing:5220128</link>
+            <description><![CDATA[<div style="margin: 5px;"><a href="https://www.thingiverse.com/thing:5220128"><img src="https://cdn.thingiverse.com/assets/84/77/37/3c/d2/large_preview_AA_to_C_converter.png"  class="preview_large" style="width: 240px; height: 180px"></a><br/></div><div><div><p>Inspired by enif's Yet Another AA to C Battery Adapter (<a rel="nofollow" href="/thing:1719966">https://www.thingiverse.com/thing:1719966</a>).</p>
+<p>This is a sleeve that fits over a AA battery to give it the thickness of a C battery. I use them to fit NiMH rechargeables in things that usually require C batteries.</p>
+<p>The centre slot for the AA is a touch tight at 14mm, and the outer edge is 24mm wide. The sleeve is designed to stretch over the AA battery for a snug fit, and the sleeve stretches to about 25mm when the battery is inserted.</p>
+<p>Total height is 48mm, sleeving over the main body of the AA and allowing the positive end to protrude.</p>
+<p>Direction inserted doesn't matter, it's the same at both ends. Minimalist but decently sturdy design that saves on plastic.</p></div></div>]]></description>
+            <author>blahblah96</author>
+            <pubDate>Fri, 28 Jan 2022 01:29:47 +0100</pubDate>
+            <guid>https://www.thingiverse.com/thing:5220128</guid>
+            <enclosure url="https://cdn.thingiverse.com/assets/c0/8c/10/52/6d/AA_to_C_converter.stl" length="50684" type="application/sla"/>
+        </item>
+        <item>
+            <title>V8 Engine Intake Manifold for Rover or Buick 215</title>
+            <link>https://www.thingiverse.com/thing:5220127</link>
+            <description><![CDATA[<div style="margin: 5px;"><a href="https://www.thingiverse.com/thing:5220127"><img src="https://cdn.thingiverse.com/assets/d5/f8/5b/d3/33/large_preview_Modified_1.PNG"  class="preview_large" style="width: 240px; height: 180px"></a><br/></div><div><div><p>Edited design to fill in all hollow ports. Original design made by Dave Rutland from GrabCAD <a rel="nofollow" href="https://grabcad.com/library/rover-v8-inlet-manifold-1">https://grabcad.com/library/rover-v8-inlet-manifold-1</a></p></div></div>]]></description>
+            <author>KoroKoro</author>
+            <pubDate>Fri, 28 Jan 2022 01:27:52 +0100</pubDate>
+            <guid>https://www.thingiverse.com/thing:5220127</guid>
+            <enclosure url="https://cdn.thingiverse.com/assets/67/58/a8/40/28/Inlet_manifold_modified.iam" length="976896" type="application/octet-stream"/>
+        </item>
+        <item>
+            <title>XShifter pod backing plate</title>
+            <link>https://www.thingiverse.com/thing:5220125</link>
+            <description><![CDATA[<div style="margin: 5px;"><a href="https://www.thingiverse.com/thing:5220125"><img src="https://cdn.thingiverse.com/assets/86/a3/14/39/0a/large_preview_XShifter_pod_mounting_base_v4.png"  class="preview_large" style="width: 240px; height: 180px"></a><br/></div><div><div><p>This is a backing plate for the shifting minipod for the XShifter (<a rel="nofollow" href="https://cell-cycling.com/">https://cell-cycling.com/</a>).  The mounting tabs on the back of mine broke off, so I modeled this one.  I had to ream out the screw holes with the head of the screwdriver I used for the screws to help get them started.  I printed it at 40% while prototyping, but I printed it at 100% for the final product for a little additional strength.</p></div></div>]]></description>
+            <author>baconface</author>
+            <pubDate>Fri, 28 Jan 2022 01:26:54 +0100</pubDate>
+            <guid>https://www.thingiverse.com/thing:5220125</guid>
+            <enclosure url="https://cdn.thingiverse.com/assets/67/92/c5/1f/c7/XShifter_pod_mounting_base_v4.stl" length="72884" type="application/sla"/>
+        </item>
+        <item>
+            <title>Fpv  Camera Adapter 14mm to 19mm </title>
+            <link>https://www.thingiverse.com/thing:5220122</link>
+            <description><![CDATA[<div style="margin: 5px;"><a href="https://www.thingiverse.com/thing:5220122"><img src="https://cdn.thingiverse.com/assets/f4/3f/83/51/a8/large_preview_Nanoproadapter.png"  class="preview_large" style="width: 240px; height: 180px"></a><br/></div><div><div><p>Just made this real quick to take up the gap in a 19mm mount using a 14mm nano fpv camera</p></div></div>]]></description>
+            <author>Dirty36</author>
+            <pubDate>Fri, 28 Jan 2022 01:23:44 +0100</pubDate>
+            <guid>https://www.thingiverse.com/thing:5220122</guid>
+            <enclosure url="https://cdn.thingiverse.com/assets/39/10/1b/4f/24/Nanoproadapter.stl" length="31484" type="application/sla"/>
+        </item>
+        <item>
+            <title>SV01 E3D Titan Extruder Stepper Mount (4mm offset)</title>
+            <link>https://www.thingiverse.com/thing:5220120</link>
+            <description><![CDATA[<div style="margin: 5px;"><a href="https://www.thingiverse.com/thing:5220120"><img src="https://cdn.thingiverse.com/assets/13/b5/de/eb/d1/large_preview_SV01_E3D_Titan_Extruder_Stepper_Mount_4mm_offset.png"  class="preview_large" style="width: 240px; height: 180px"></a><br/></div><div><div><p>This is a mount for the extruder stepper motor to offset the distance for a genuine E3D extruder to be mounted on a Sovol SV01 (could also work with other Sovol models but have not tested). This places the large gear nearly in the middle of the cutout on the stock bracket as seen in the pictures. This allows the user to use any stock orientation parts with the E3D extruder, or also allows the use of a E3D Extruder and V6 hotend combo which is the setup seen in the pictures. I printed this in PETG for strength and flexibility but could be printed with PLA as well.</p></div></div>]]></description>
+            <author>Madtek47</author>
+            <pubDate>Fri, 28 Jan 2022 01:22:26 +0100</pubDate>
+            <guid>https://www.thingiverse.com/thing:5220120</guid>
+            <enclosure url="https://cdn.thingiverse.com/assets/84/21/94/40/6b/SV01_E3D_Titan_Extruder_Stepper_Mount_4mm_offset.stl" length="127884" type="application/sla"/>
+        </item>
+        <item>
+            <title>Adapter to use 14mm ND filter on caddx nano pro</title>
+            <link>https://www.thingiverse.com/thing:5220118</link>
+            <description><![CDATA[<div style="margin: 5px;"><a href="https://www.thingiverse.com/thing:5220118"><img src="https://cdn.thingiverse.com/assets/73/03/e4/15/91/large_preview_profilteradapter.png"  class="preview_large" style="width: 240px; height: 180px"></a><br/></div><div><div><p>I made this upeal quick to use a 14mm ND filter on my caddx nano pro camera</p>
+<p>This is the ND filter i used <a rel="nofollow" href="https://pyrodrone.com/products/caddx-nd8-filter-14mm-for-ratel">https://pyrodrone.com/products/caddx-nd8-filter-14mm-for-ratel</a></p></div></div>]]></description>
+            <author>Dirty36</author>
+            <pubDate>Fri, 28 Jan 2022 01:18:37 +0100</pubDate>
+            <guid>https://www.thingiverse.com/thing:5220118</guid>
+            <enclosure url="https://cdn.thingiverse.com/assets/f5/24/97/cd/0d/profilteradapter.stl" length="37684" type="application/sla"/>
+        </item>
+        <item>
+            <title>knuckle buster</title>
+            <link>https://www.thingiverse.com/thing:5220117</link>
+            <description><![CDATA[<div style="margin: 5px;"><a href="https://www.thingiverse.com/thing:5220117"><img src="https://cdn.thingiverse.com/assets/c3/9e/ac/26/ad/large_preview_knukbust115_1.png"  class="preview_large" style="width: 240px; height: 180px"></a><br/></div><div><div><p>this is a project im working on for fun its a 9 function joystick for pc<br>
+i wanted to design a non traditional joystick which the hand naturally integrated with   </p>
+<p>i was playing an online battle game using the mouse and keypad for control and i kept pushing the wrong key when things heated up<br>
+so i decided i wanted a simpler way to control and fire using a simple 5 button controller<br>
+4 direction and 1 fire button .the other function in the game will be added using magnetic<br>
+switches mounted under the controller so in all it will have10 function buttons<br>
+every thing can be controlled using one hand if this works out it should increase my reaction time<br>
+the controller itself is comprised of 2 parts. The micro switches were purchased on amazon<br>
+i designed a base to house my  magnetic switches which will be activated when i move the controller over them by a magnet placed under the bottom i believe when done this will be a novel and fun way to play games ,once your muscle memory kicks in movement in game play should be pretty fluid .As the project progresses i will add the rest of the design along with parts list</p></div></div>]]></description>
+            <author>krock77</author>
+            <pubDate>Fri, 28 Jan 2022 01:14:59 +0100</pubDate>
+            <guid>https://www.thingiverse.com/thing:5220117</guid>
+            <enclosure url="https://cdn.thingiverse.com/assets/2e/5a/b7/3e/25/base1234.stl" length="62784" type="application/sla"/>
+        </item>
+        <item>
+            <title>Very long danger noodle articulated</title>
+            <link>https://www.thingiverse.com/thing:5220115</link>
+            <description><![CDATA[<div style="margin: 5px;"><a href="https://www.thingiverse.com/thing:5220115"><img src="https://cdn.thingiverse.com/assets/c3/fa/a2/54/5c/large_preview_Capture.PNG"  class="preview_large" style="width: 240px; height: 180px"></a><br/></div><div><div><p>very long articulated snake with knives</p></div></div>]]></description>
+            <author>MrAstroGhost</author>
+            <pubDate>Fri, 28 Jan 2022 01:13:36 +0100</pubDate>
+            <guid>https://www.thingiverse.com/thing:5220115</guid>
+            <enclosure url="https://cdn.thingiverse.com/assets/b3/76/aa/94/10/very_long_danger_noodle.stl" length="12594084" type="application/sla"/>
+        </item>
+        <item>
+            <title>ford clock</title>
+            <link>https://www.thingiverse.com/thing:5220099</link>
+            <description><![CDATA[<div style="margin: 5px;"><a href="https://www.thingiverse.com/thing:5220099"><img src="https://cdn.thingiverse.com/assets/1d/b0/05/a3/bd/large_preview_ford_clock.png"  class="preview_large" style="width: 240px; height: 180px"></a><br/></div><div><div><p>printed with lotmaxx</p></div></div>]]></description>
+            <author>travis69jr</author>
+            <pubDate>Fri, 28 Jan 2022 01:13:19 +0100</pubDate>
+            <guid>https://www.thingiverse.com/thing:5220099</guid>
+            <enclosure url="https://cdn.thingiverse.com/assets/38/53/0f/52/3f/ford_clock.stl" length="1550899" type="application/sla"/>
+        </item>
+        <item>
+            <title>Food Chain Automaton</title>
+            <link>https://www.thingiverse.com/thing:5220107</link>
+            <description><![CDATA[<div style="margin: 5px;"><a href="https://www.thingiverse.com/thing:5220107"><img src="https://cdn.thingiverse.com/assets/1b/49/6d/ab/43/large_preview_Migathan_ShortShaft2.0.png"  class="preview_large" style="width: 240px; height: 180px"></a><br/></div><div><div><p>When given the task to expand your imagination and make something from yu mind become a reality Nathan and I reacted quickly and went to find inspiration quickly. We landed on something animal-related and some things looked a bit too simplistic for us so we took bits and pieces from everywhere and landed on the project we are happy to report you to now.</p>
+<p>Our Project it and Animal Food Chain start with a tiny Goldfish getting chased by Penguin which is then getting chased by an Orca. We thought that this would captivate our level of engineering pretty well in the challenge aspect but we faced a lot more than we anticipated.</p>
+<p>With our final project, it should look as though the animals are chasing each other/ running away from their predator. </p>
+<p>All and all it was a very fun project to make and a great experience. I highly recommend you try and assemble this yourself.</p>
+<p>My partner Nathans link:</p></div></div>]]></description>
+            <author>MiguelVasconcelos10</author>
+            <pubDate>Fri, 28 Jan 2022 01:13:11 +0100</pubDate>
+            <guid>https://www.thingiverse.com/thing:5220107</guid>
+            <enclosure url="https://cdn.thingiverse.com/assets/37/b9/02/7e/15/Migathan_Top2.0.STL" length="17084" type="application/sla"/>
+        </item>
+        <item>
+            <title>Paper Coaster Enclosure for Olga's Cantina (Disney) Coasters</title>
+            <link>https://www.thingiverse.com/thing:5220114</link>
+            <description><![CDATA[<div style="margin: 5px;"><a href="https://www.thingiverse.com/thing:5220114"><img src="https://cdn.thingiverse.com/assets/41/34/fe/15/00/large_preview_20220127_193604.jpg"  class="preview_large" style="width: 240px; height: 180px"></a><br/></div><div><div><p>I liked the paper coasters from Olga's Cantina, so I worked on a way to preserve them and make them usable using UV resin and casting resin. BEFORE PUTTING COASTERS IN THE RESIN, SEAL THEM WITH MOD PODGE OR SOMETHING SIMILAR TO SEAL THEM UP! The pourable resin will stain them.</p></div></div>]]></description>
+            <author>Micubano</author>
+            <pubDate>Fri, 28 Jan 2022 01:13:10 +0100</pubDate>
+            <guid>https://www.thingiverse.com/thing:5220114</guid>
+            <enclosure url="https://cdn.thingiverse.com/assets/e3/36/f2/76/8c/disneycoasterlarger.stl" length="41284" type="application/sla"/>
+        </item>
+        <item>
+            <title>Buffalo, NY Central Terminal Type A Entrance </title>
+            <link>https://www.thingiverse.com/thing:5220113</link>
+            <description><![CDATA[<div style="margin: 5px;"><a href="https://www.thingiverse.com/thing:5220113"><img src="https://cdn.thingiverse.com/assets/07/38/cd/fc/81/large_preview_Type_A.jpg"  class="preview_large" style="width: 240px; height: 180px"></a><br/></div><div><div><p>This is the one of the two types of large archway entrances to the Buffalo Central Terminal.  It was designed to be printed in two sections.  The inner window section is designed to be inlayed into the archway.  All windows are 'open' as this will allow to peer inside the finished structure. Was designed to fit an HO scaled model railroad diorama. </p></div></div>]]></description>
+            <author>Arise123</author>
+            <pubDate>Fri, 28 Jan 2022 01:12:09 +0100</pubDate>
+            <guid>https://www.thingiverse.com/thing:5220113</guid>
+            <enclosure url="https://cdn.thingiverse.com/assets/e8/0d/e0/1b/61/Buffalo_NY_Central_Terminal_Entrance_A2.stl" length="97784" type="application/sla"/>
+        </item>
+    </channel>
+</rss>
