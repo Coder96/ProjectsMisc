@@ -3,8 +3,12 @@ $fn=60;
 use<../../scadLib/library.scad>;
 use<../../scadLib/tearDrop.scad>;
 use<../../scadLib/switchCutoutRockerOnOff.scad>;
+use<../../scadLib/edgeTools/corner_tools.scad>;
 
-use<BatteryHolder9v.scad>;
+use<../../scadLib/BatteryHolder9v.scad>;
+
+include<../../scadLib/boltHolesCutout_h.scad>
+use<../../scadLib/boltHolesCutout.scad>
 
 meterBodyWidth  = 45;
 meterBodyDepth  = 26;
@@ -39,6 +43,11 @@ innerShellTopCorner = 10;
 innerShellTopInset = 6;
 innerTopMountingHolesInset = 5;
 
+innerShellTopTextProductName  = "vam_case_001";
+innerShellTopTextVoltageRange = "DC 0-100 Volts";
+innerShellTopTextAmpsRange    = "0-5 Amps";
+//innerShellTop
+
 switchShellWidth = 40;
 switchShellDepth = 20;
 switchShellHeigth = innerShellHeigth - 10;
@@ -61,28 +70,22 @@ fuseHolderWidth = 20;
 fuseHolderDepth = 7;
 fuseHolderHeight = 7.5 ;
 
-
-  case();
-//  translate([0,0,((-outterShellHeigth/2)-2)]) plate4Point(outterShellWidth,outterShellDepth,4,outterShellCorner);
-
-
-
 // for visual not part of the object
 //translate([32,-(outterShellDepth/2)+(innerShellDepth/2),9.25]) batteryHolder9vCage();
 //translate([32,0,4.25]) batteryHolder9vCage();
 
-// switch at bottom facing sideways
-//#translate([32,0,-(outterShellHeigth/2)+10]) rotate([-90,90,0]) switchCutoutRockerOnOff();
+case();
 
-// switch facing up
-//#translate([-15,12,(outterShellHeigth/2)-10]) 
-//rotate([0,0,90]) switchCutoutRockerOnOff();
+//wireClampBar();
 
 //switchShellTop();
-//fuseShellTop();
-//fuseShellTopBottom();
+//
+//translate([0,0,0])
+//  fuseShellTop();
+//
+//translate([0,0,0])
+//  fuseShellTopBottom();
 
-//powerSwitchFuseHolder();
 
 
 //translate([-(meterFaceWidth/2)-8,-(outterShellDepth/2)+(innerShellDepth/2),11]) vamModel();
@@ -92,12 +95,9 @@ fuseHolderHeight = 7.5 ;
 //  -(innerShellTopDepth/2)+(1),
 //  (outterShellHeigth/2)-(innerShellTopHeigth/2)-2
 //  ]){
-////	innerShellTop();
-//
-////  innerTopMountingHoles();
+//	innerShellTop(); 
 //}
 
-//innerShellTop();
 
 //cubeSphere(iX, iYm, iZ, iD)
 
@@ -131,7 +131,7 @@ module case(){
 			-(innerShellTopDepth/2)+(1),
 			(outterShellHeigth/2)-(innerShellTopHeigth/2)-16
 			])
-			innerTopMountingHoles();
+			innerTopMountingHoles("t");
     
 // Switch
     translate([-19,2,-15])
@@ -143,13 +143,90 @@ module case(){
       tearDropFlatBottom(20,6,20);
 
 // Switch side cable
-    translate([-52,2,-14])
+    translate([-52,2,-20])
       rotate([0,0,90])
       tearDropFlatBottom(12,6,10);
 // Fuse side cable
-    translate([52,2,-14])
+    translate([52,2,-20])
       rotate([0,0,90])
       tearDropFlatBottom(12,6,10);
+      
+  }
+  difference(){
+    translate([0,0,((-outterShellHeigth/2)-2)]) plate4Point(outterShellWidth,outterShellDepth,4,outterShellCorner);
+
+    color("Fuchsia")
+      translate([0,outterShellDepth/2,((-outterShellHeigth/2)-4)])
+      rotate ([90,0,-90]) 
+      chamfer_e(outterShellWidth,3,1);
+
+    color("green")
+      translate([0,-outterShellDepth/2,((-outterShellHeigth/2)-4)])
+      rotate ([90,0,90]) 
+      chamfer_e(outterShellWidth,3,1);
+
+    color("orange")
+      translate([-outterShellWidth/2,0,((-outterShellHeigth/2)-4)])
+      rotate ([90,0,0]) 
+      chamfer_e(outterShellDepth,3,1);
+
+    color("Violet")
+      translate([outterShellWidth/2,0,((-outterShellHeigth/2)-4)])
+      rotate ([90,-90,0]) 
+      chamfer_e(outterShellDepth,3,1);
+    
+    for(a=[[1,1,90],[1,-1,0],[-1,-1,-90],[-1,1,180]]){
+      translate([
+        a[0]*(outterShellWidth/2)-(a[0]*4),
+        a[1]*(outterShellDepth/2)-(a[1]*4),
+        ((-outterShellHeigth/2)-4)
+      ])
+        rotate([0,0,a[2]])
+        difference(){
+          rotate ([0,180,0])
+            chamfer_r(3,4,1,fn=$fn);
+          translate([-2,0,2])
+            cube([4,10,5],center=true);
+          translate([0,2,2])
+            cube([10,4,5],center=true);
+      }
+    } 
+//   // Switch side cable
+    translate([-48,-6,((-outterShellHeigth/2)-1)])
+        rotate([0,0,45])
+      wireClampHoles();
+// Fuse side cable
+      translate([44,-6,((-outterShellHeigth/2)-1)]) 
+        rotate([0,0,-45])
+        wireClampHoles();
+  } 
+}
+////////////////////////////////////////////////////////////////////
+module wireClampHoles(){
+  translate([-5,0,0])
+    rotate([0,0,90])
+    cylinder(d=bhc_m3ShaftThread,h=4,center=true);
+  translate([5,0,0])
+    rotate([0,0,90])
+    cylinder(d=bhc_m3ShaftThread,h=4,center=true);
+}
+////////////////////////////////////////////////////////////////////
+module wireClampBar(){
+  difference(){
+    translate([0,0,0])
+      rotate([0,0,90])
+      plate2Point(15,2,5);
+    translate([0,-5,0])
+      cylinder(d=bhc_m3ShaftSlip,h=10,center=true);
+    translate([0,5,0])
+      cylinder(d=bhc_m3ShaftSlip,h=10,center=true);
+  }
+  difference(){
+    translate([0,0,-4])
+      rotate([0,90,90])
+      plate2Point(15,4,5);
+    translate([0,0,-10])
+    cube([10,10,20],center=true);
   }
 }
 ////////////////////////////////////////////////////////////////////
@@ -199,10 +276,6 @@ module innerShell(){
 }
 ////////////////////////////////////////////////////////////////////
 module switchShell(){
-		
-//		wInnerShellWidth = 40;
-//		wInnerShellDepth = 20;
-//		wInnerShellHeigth = innerShellHeigth - 10;
 	difference(){
 		union(){
 			difference(){
@@ -291,7 +364,8 @@ module switchShellTop(){
 					0
 				])
 					difference(){
-						cylinder(d=3.3,h=switchShellHeigth+1,center=true);
+            m3BoltSlip();
+//						cylinder(d=3.3,h=switchShellHeigth+1,center=true);
 				}
 			}
 		
@@ -343,7 +417,8 @@ module fuseShell(){
 				])
 					difference(){
 						cylinder(d=6,h=fuseShellHeigth,center=true);
-						cylinder(d=3,h=fuseShellHeigth+1,center=true);
+            m3BoltThreaded();
+//						cylinder(d=3,h=fuseShellHeigth+1,center=true);
 				}
 			}
 		}
@@ -359,8 +434,8 @@ module fuseShell(){
 ////////////////////////////////////////////////////////////////////
 module fuseShellTop(){
 	difference(){
-		plate4Point(switchShellTopWidth,switchShellTopDepth,fuseHolderHeight,innerShellCorner);
-		translate([0,0,-0.001]) fuseCutouts("c");
+		plate4Point(switchShellTopWidth,switchShellTopDepth,fuseHolderHeight+1,innerShellCorner);
+		translate([0,0,-.501]) fuseCutouts("c");
 		for(a=[[1,1],[1,-1],[-1,-1],[-1,1]]){
 			translate([
 				a[0]*(switchShellWidth/2)-a[0]*innerTopMountingHolesInset,
@@ -368,14 +443,14 @@ module fuseShellTop(){
 				0
 			])
 				difference(){
-					cylinder(d=3.3,h=fuseHolderHeight+1,center=true);
+					m3BoltSlip();
 			}
 		}
 	}
 }
 ////////////////////////////////////////////////////////////////////
 module fuseShellTopBottom(){
-//#		translate([0,0,-0.1]) fuseCutouts("c");
+//#		translate([0,0,1.7]) fuseCutouts("c");
 
 	difference(){
 		plate4Point(switchShellTopWidth,switchShellTopDepth,fuseShellTopBottomHeigth,innerShellCorner);
@@ -385,18 +460,14 @@ module fuseShellTopBottom(){
 				a[1]*(switchShellDepth/2)-a[1]*innerTopMountingHolesInset,
 				0
 			])
-				difference(){
-					cylinder(d=3.3,h=fuseShellTopBottomHeigth+1,center=true);
-			}
+			m3BoltSlip();
 			for(a=[1,-1]){
 			translate([
 				a*(fuseHolderWidth/2)-(a*3),
 				0,
 				0
 			])
-				difference(){
-					cylinder(d=6,h=fuseShellTopBottomHeigth+1,center=true);
-				}
+			cylinder(h=fuseShellTopBottomHeigth+1,d=7,center=true);
 			}
 		}
 	}
@@ -420,12 +491,20 @@ module innerShellEmpty(){
 module innerShellTop(){
   difference(){
 		plate4Point(innerShellTopWidth,innerShellTopDepth,innerShellTopHeigth,innerShellTopCorner);
-		innerTopMountingHoles();
+		innerTopMountingHoles("s");
 		translate([-(meterFaceWidth/2)-8,0,0]) vamModel();
 	}
+  color("green"){
+  translate([32,10,0])
+    mText(innerShellTopTextProductName, letter_size = 5, letter_height = 3);
+  translate([32,0,0])
+    mText(innerShellTopTextVoltageRange, letter_size = 5, letter_height = 3);
+  translate([32,-7,0])
+    mText(innerShellTopTextAmpsRange, letter_size = 5, letter_height = 3);
+  }
 }
 ////////////////////////////////////////////////////////////////////
-module innerTopMountingHoles(){
+module innerTopMountingHoles(iType){
  
   
   for(a=[[1,1],[1,-1],[-1,-1],[-1,1]]){
@@ -434,7 +513,8 @@ module innerTopMountingHoles(){
       a[1]*(innerShellTopDepth/2)-a[1]*innerTopMountingHolesInset,
       -10
     ])
-      m3Bolt();
+      //m3BoltThreaded();
+      innerTopMountHolestype(iType);
   }
   for(a=[1,-1]){
     translate([
@@ -442,9 +522,18 @@ module innerTopMountingHoles(){
       a*(innerShellTopDepth/2)-a*innerTopMountingHolesInset,
       -10
     ])
-      m3Bolt();
+      //m3BoltSlip();
+      innerTopMountHolestype(iType);
   }
   
+}
+////////////////////////////////////////////////////////////////////
+module innerTopMountHolestype(iType){
+  if(iType == "s"){
+    m3BoltSlip();
+  }else{
+    m3BoltThreaded();
+  }
 }
 ////////////////////////////////////////////////////////////////////
 module innerShellTopCutout(){
@@ -508,7 +597,7 @@ module triangleCurveFiller(iHeight){
       cube([10,6,iHeight+1],center=true);
   }
  }
- ////////////////////////////////////////////////////////////////////
+////////////////////////////////////////////////////////////////////
  module emptyShell(iX,iY,iZ,iW,iC,iC2=10){
    
   difference(){
@@ -535,17 +624,26 @@ module triangleCurveFiller(iHeight){
   }
 }
 ////////////////////////////////////////////////////////////////////
-module m3Bolt(){
+module m3BoltThreaded(){
+
+	color("grey")
+    bhc_bolt(bhc_m3ShaftThread, outterShellHeigth+10, bhc_m3CapSocket, 4);
+ 
   
-  studLegth = 25;
   
-	color("grey"){
-    translate([0,0,studLegth/2])
-    cylinder(h=studLegth,d=3,center=true);
-    
-    translate([0,0,studLegth-.1])
-      cylinder(h=4,d=6,center=true);
-  }
+//  studLegth = 25;
+//	color("grey"){
+//    translate([0,0,studLegth/2])
+//    #cylinder(h=studLegth,d=bhc_m3ShaftThread,center=true);
+//    
+//    translate([0,0,studLegth-.1])
+//      cylinder(h=4,d=bhc_m3CapSocket,center=true);
+//  }
+}
+////////////////////////////////////////////////////////////////////
+module m3BoltSlip(){
+	color("grey")
+    bhc_bolt(bhc_m3ShaftSlip, outterShellHeigth+10, bhc_m3CapSocket, 4);
 }
 ////////////////////////////////////////////////////////////////////
 module fuseCutouts(inType="m"){

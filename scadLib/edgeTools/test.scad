@@ -25,7 +25,7 @@ translate([0,0,0]){
 		color("DarkOrange")translate([ 15, 15,h2]) rotate ([0,0,180]) chamfer_e(h,3,1);
 		color("Fuchsia")translate([  0, 15,h]) rotate ([0,90,180]) chamfer_e(30,3,1);
 		color("DeepSkyBlue")translate([ 15,  0,h]) rotate ([0,90,90]) chamfer_e(30,3,1);
-		color("Indigo")translate([ 15, 15,h]) rotate ([0,0,180]) chamfer_c(3);
+#		color("Indigo")translate([ 15, 15,h]) rotate ([0,0,180]) chamfer_c(3);
  } //end difference
 	color("GreenYellow") translate([-10,-10,h2]) rotate ([0,0,0]) fillet_e(h,3,1,fn);
 	color("Chartreuse") translate([-10, 10,h2]) rotate ([0,0,-90]) fillet_e(h,3,1,fn);

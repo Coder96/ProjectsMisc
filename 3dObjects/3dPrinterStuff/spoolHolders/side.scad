@@ -1,9 +1,9 @@
 //translate([-6,0,-5])
 //import("Rubbermaid_21_cup_spool_stand/files/Spool_Side_Blank.stl");
 
-rotate([0,90,90])
-translate([-607,850,-10])
-import("filament+dry+box/files/Base.stl");
+//rotate([0,90,90])
+//translate([-607,850,-10])
+//import("filament+dry+box/files/Base.stl");
 
 
 use<../../../scadLib/honeycomb_mesh.scad>;
@@ -12,16 +12,18 @@ include<shared.scad>;
 
 use<rollerSideMount.scad>;
 
-//sideHighMesh();
+//showMesh = True;
+
+sideHighMesh();
 
 boltSize=7.9;
 //difference(){
-  union(){
+//  union(){
 //    sideLowFameMesh();
-    sideLowFame();
+//    sideLowFame();
 //    translate([-60,14,0])
 //      cylinder(h=gZ,d=boltSize+6,center=true);
- }
+// }
 //  translate([-60,14,gZ/2]) 
 //    fillet_r(1,(boltSize+6)/2,1,$fn);
 //  translate([-60,14,-2])
@@ -118,11 +120,17 @@ module sideHighMesh(){
 	//    rollerSideMountBase();
 
 	//  Mesh
-	//intersection(){
-	//translate([0,0,-side_hc_offset/2])
-	//	hexagonal_grid([side_hc_width, side_hc_length, side_hc_height], side_hc_diameter, side_hc_thickness);
-	//	side();
-//}
+  if(showMesh == True){
+    difference(){
+      intersection(){
+        translate([0,0,-side_hc_offset/2])
+          hexagonal_grid([side_hc_width, side_hc_length, side_hc_height],       side_hc_diameter, side_hc_thickness);
+          sideHigh();
+      }
+      translate([0,sideLegth,0])
+        rollerSideMountBaseCutOut();
+    }
+  }
 }
 /////////////////////////////////////////////
 module sideHigh(){

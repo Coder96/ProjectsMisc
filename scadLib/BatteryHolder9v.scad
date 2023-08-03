@@ -1,10 +1,8 @@
-use<../../scadLib/library.scad>;
+use<library.scad>;
+include<boltHolesCutout.scad>;
 
-include<battery9vModelBlank.scad>;
+include<battery9vModelBlank_h.scad>;
 
-
-//rotate([90,0,-90]) translate([0,0,-b9mb_battery9vTotalHeigthExternal/2])
-//  b9mb_battery9vModelBlank(true);
 
 $fn=60;
 
@@ -23,9 +21,13 @@ batteryHolder9vBaseDepth  = batteryHolder9VBoxInnerDepth/2;
 batteryHolder9vBaseHeight = 10;
 batteryHolder9vBaseInset  = 5;
 
-batteryHolder9vCage();
+batteryHolder9vBaseBoltSizeShaft = bhc_m3ShaftThread;
+batteryHolder9vBaseBoltSizeCap = bhc_m3CapButton;
 
-//translate([0,0,-22]) batteryHolder9vBase(10);
+
+//batteryHolder9vCage();
+
+translate([0,0,-22]) batteryHolder9vBase(10);
 
 ////////////////////////////////////////////////////////////
 module batteryHolder9vCage(){
@@ -45,23 +47,12 @@ module batteryHolder9vCage(){
 	//botttom
 	difference(){
 		translate([0,0,(-batteryHolder9VBoxHeigth/2)-(baseThicness/2)+.1]) // add .1 to bond thae parts
-//			cube([batteryHolder9VBoxWidth,batteryHolder9VBoxDepth,baseThicness],center=true);
       plate4Point(batteryHolder9VBoxWidth,batteryHolder9VBoxDepth,baseThicness,4);
 		
 		translate([0,0,(-batteryHolder9VBoxHeigth/2)-(baseThicness/2)+.1]) 
 			translate([0,0,-3.4])
-				batteryHolder9vMountingPoints(10);
+				batteryHolder9vMountingPoints(1);
 	}
-}
-/////////////////////////////////////////////////////////////
-module batteryHolder9vMountingHole(baseHeight){
-//	cylinder(d=3.2,h=baseHeight+5,center=true);
-//	translate([0,0,baseHeight/2])
-//		cylinder(d=6,h=3,center=true);
-  
-  	cylinder(d=4.2,h=baseHeight+5,center=true);
-	translate([0,0,baseHeight/2])
-		cylinder(d=8,h=3,center=true);
 }
 /////////////////////////////////////////////////////////////
 module batteryHolder9vMountingPoints(baseHeight=20){
@@ -72,7 +63,7 @@ module batteryHolder9vMountingPoints(baseHeight=20){
 			0
 		])
 			color("grey")
-			batteryHolder9vMountingHole(baseHeight);
+        bhc_bolt(batteryHolder9vBaseBoltSizeShaft, baseHeight + 5, batteryHolder9vBaseBoltSizeCap);
 		}
 }
 /////////////////////////////////////////////////////////////
@@ -85,17 +76,15 @@ module batteryHolder9vBase(baseHeight){
 					a[1]*(batteryHolder9vBaseDepth)-(a[1]*batteryHolder9vBaseInset),
 					0
 				])
-					cylinder(d=6,h=baseHeight,center=true);
+          union(){
+            cylinder(d=bhc_m3ShaftThread+3,h=baseHeight,center=true);
+            cylinder(d2=bhc_m3ShaftThread+3,d1=bhc_m3ShaftThread+6,h=baseHeight,center=true);
+          }
 			}
 			difference(){
 				translate([0,-batteryHolder9vBaseDepth+batteryHolder9vBaseInset,0]){
 					cube([(batteryHolder9vBaseWidth*2)-batteryHolder9vBaseInset,3,baseHeight],center=true);
 				}
-//				translate([0,-batteryHolder9vBaseDepth+batteryHolder9vBaseInset,0])
-//					rotate([90,0,0])
-//					translate([0,3,0])
-//					plate4Point((batteryHolder9vBaseWidth*2)-batteryHolder9vBaseInset-15,baseHeight,baseHeight,4);
-			
 				translate([0,-batteryHolder9vBaseDepth+batteryHolder9vBaseInset,-3])
 					rotate([90,90,0])
 					roundedTrapezoid(3, 

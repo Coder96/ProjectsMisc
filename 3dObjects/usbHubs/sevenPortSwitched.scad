@@ -61,8 +61,8 @@ plate4Point(bodyWidth,bodyDepth,bodyHeigth,8);
     cube([14 ,40, bodyHeigth+2],center=true);
 }
 translate([
-    ((4/2)-(bodyWidth/2))+20, // bottom right
-    ((4/2)-(bodyDepth/2)), 
+    ((4/2)-(bodyWidth/2))+7, // bottom right
+    ((4/2)-(bodyDepth/2))+13, 
     0]) color("DarkGreen") rotate([0, 90, 0])
     cylinder(h=bodyHeigth+4,d=4,center=true);
 // Square Corner

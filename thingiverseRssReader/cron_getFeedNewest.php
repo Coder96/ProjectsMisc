@@ -54,25 +54,25 @@ foreach($xml->channel->item as $item){
   );	
 	
 	
-/////////////////////////////////////////////////////////////////////////////////////////////////////////
-//
-//	Parm: URL string https://www.thingiverse.com/thing:5177354
-//
+##############################################################################
+#
+#	Parm: URL string https://www.thingiverse.com/thing:5177354
+#
 function retThingID($isURL){
 	$a = parse_url($isURL);
 	$b = explode(':', $a['path']);
 	return $b[1];
 }
-/////////////////////////////////////////////////////////////////////////////////////////////////////////
-//
-//  Pass in array format:
-//	tid_title
-//	tid_link
-//  tid_imageLink
-//	tid_thingId
-//	tid_description
-//	tid_author
-//	tid_pubDate
+##############################################################################
+#
+#  Pass in array format:
+#  	tid_title
+# 	tid_link
+#   tid_imageLink
+#	  tid_thingId
+# 	tid_description
+# 	tid_author
+# 	tid_pubDate
 
 function addRecord_tiv_thingItemDetail($iaItem){
 		global $pdo;
@@ -99,15 +99,60 @@ SET
 	]);
 
 	if($stmt->rowCount() > 0){
-// new record added		
+
+    $ws_image_fileName = get_imageFile($iaItem['tid_imageLink']);
+    		$stmt = $pdo->prepare('
+UPDATE
+	tiv_thingItemDetail
+SET
+	tid_imageLink = :tid_imageLink
+WHERE
+  tid_thingId = :tid_thingId
+');
+  $stmt->execute([
+		':tid_imageLink' => $ws_image_fileName,
+		':tid_thingId'   => $iaItem['tid_thingId'],
+		]);
+
 	} else {
 		$GLOBALS['tiv']['ignoreCount'] ++;
 	}
 }
-/////////////////////////////////////////////////////////////////////////////////////////////////////////
-//
-//
-//
+##############################################################################
+function get_imageFile($is_imageLink){
+  if(empty(trim($is_imageLink))){
+    return '';
+  }
+  $imageData = file_get_contents($is_imageLink);
+#   echo $img; 
+
+  $path_parts = pathinfo($is_imageLink);
+#  print_r($path_parts);
+/*
+(
+  [dirname] => https://www.google.com/images/branding/googlelogo/1x
+  [basename] => googlelogo_light_color_272x92dp.png
+  [extension] => png
+  [filename] => googlelogo_light_color_272x92dp
+)
+*/
+  $ws_year = date('Y');
+  $ws_month = date('m');
+  $ws_extension = trim(substr($path_parts['extension'].'  ', 0, 3));
+  $ws_pathWeb = "images/$ws_year/";
+  $ws_path = $GLOBALS['tiv']['cwd'] . 'public/' . $ws_pathWeb;
+  
+  @mkdir($ws_path);
+  $ws_path .= "$ws_month/";
+  $ws_pathWeb .= "$ws_month/";
+  @mkdir($ws_path);
+  $ws_fileName = guidv4().'.'.$ws_extension;
+#  echo $ws_fileName.PHP_EOL;
+  file_put_contents($ws_path.$ws_fileName, $imageData);
+  
+  return $ws_pathWeb.$ws_fileName;
+}
+##############################################################################
 function getRssData(){
   
   // create curl resource
@@ -131,10 +176,7 @@ function getRssData(){
   );
   
 }
-/////////////////////////////////////////////////////////////////////////////////////////////////////////
-//
-//
-//
+##############################################################################
 function getfirstImagepath($content){
 
   $doc = new DOMDocument();
@@ -151,10 +193,7 @@ function getfirstImagepath($content){
     return FALSE;
   }
 }
-/////////////////////////////////////////////////////////////////////////////////////////////////////////
-//
-//
-//
+##############################################################################
 function getDivText($content){
   $doc = new DOMDocument();
   $doc->loadHTML($content);
@@ -164,7 +203,18 @@ function getDivText($content){
     return FALSE;
   }
 }
-/////////////////////////////////////////////////////////////////////////////////////////////////////////
-//
-//
-//
+##################################################################################
+function guidv4($data = null) {
+  # Generate 16 bytes (128 bits) of random data or use the data passed into the function.
+  $data = $data ?? random_bytes(16);
+  assert(strlen($data) == 16);
+
+  # Set version to 0100
+  $data[6] = chr(ord($data[6]) & 0x0f | 0x40);
+  # Set bits 6-7 to 10
+  $data[8] = chr(ord($data[8]) & 0x3f | 0x80);
+
+  # Output the 36 character UUID.
+  return vsprintf('%s%s-%s-%s-%s-%s%s%s', str_split(bin2hex($data), 4));
+}
+##############################################################################

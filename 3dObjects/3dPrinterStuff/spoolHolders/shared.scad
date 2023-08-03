@@ -1,8 +1,13 @@
-$fn=60; 
+$fn=10; 
+
+False = 0;
+True = 1;
 
 sideLegth=70; // 80
 sideWidth=194;
 gZ=4.5;
+
+showMesh = False;
 
 sideTopCutoutX=35;
 sideTopCutoutY=30;

@@ -40,18 +40,15 @@
 	debugPrint($timeNow);
 	debugPrint($timeMet);
 	debugPrint($timeDiff);
-
-
-
-	//
-	// Don't display if meetting in the past or not at work. Need a way to know if I'm at work.
-	//
+#
+# Don't display if meetting in the past or I'm not at work. Need a way to know if I'm at work.
+#
 	if($timeNow > 1700 or $timeNow < 800 or $timeDow == 0 or $timeDow == 6 or $timeDiff < 0){
-//		exit;
+#		exit;
 	}
 
 	if($timeDiff > $min10){
-		// do nothing 
+#		// do nothing 
 	} else {
 		$aMeettingTime = str_split(trim($meettingTime));
 		//$aMeettingTime[] = 'A';
@@ -66,11 +63,7 @@
 		// send display
 //		var_dump($displayBuff);
 	}
-
-
-/////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
-//
-//
+#-----------------------------------------------------------------------------------
 	function debugPrint($iLine){
 		if($GLOBALS['fc']['debug']){
 		echo $iLine . PHP_EOL;

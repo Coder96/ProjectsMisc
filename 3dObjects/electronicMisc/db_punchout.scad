@@ -1,9 +1,6 @@
 
 // preview[view:north east, tilt:top]
 
-//%translate([12.5,-35,0])
-//	rotate([0,0,90])
-//	import("C:\\misc\\db25_cutout.stl");
 
 /* [Cutout] */
 
@@ -39,7 +36,7 @@ About = ""; //[]
 
 /* [Hidden] */
 
-$fn=40;
+//$fn=40;
 
 
 //

@@ -67,7 +67,7 @@ function itemForm($iaItem){
 <div class="floatLeft">
   <table width=500px>
     <tr>
-      <td colspan=3><h1>'.substr($iaItem['tid_title'],0,25).'</h1></td>
+      <td colspan=3><h1>'.substr($iaItem['tid_title'],0,20).'</h1></td>
     </tr>  
     <tr>
       <td>'.substr($iaItem['tid_description'],0,100).'<td>
